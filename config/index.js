@@ -8,6 +8,7 @@ const siteMetadata = {
   keywords: ["buzzing", "业余项目", "程序员"],
   telegram: "@buzzingcc",
   telegram_chat_id: "-1001406368978",
+  iconUrl: "https://news.buzzing.cc/avatar.png",
   menuLinks: [
     // {
     //   name: "每周精选",
