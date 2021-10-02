@@ -1,566 +1,638 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 02 Sep 2021 04:33:34 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[很自豪地向您介紹Fakeflix，一個用React、Redux、Firebase和Framer Motion構建的Netflix克隆。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ob5lsy/proud_to_present_you_fakeflix_a_netflix_clone/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ob5lsy/proud_to_present_you_fakeflix_a_netflix_clone/</guid><pubDate>Wed, 30 Jun 2021 22:26:26 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我自學了代碼，所以我可以建立一個電話合同比較網站。如果有任何反饋意見，我將非常感激]]></title><description><![CDATA[TL;DR：學習代碼和建立CompareDial [https://www.comparedial.com]
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Oct 2021 04:35:37 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[建立plugmebot.com - 通過大量的整合，使你的Twitter橫幅和個人資料圖片變得動態。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ov8lja/built_plugmebotcom_make_your_twitter_banner_and/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ov8lja/built_plugmebotcom_make_your_twitter_banner_and/</guid><pubDate>Sat, 31 Jul 2021 17:44:24 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[[網頁遊戲] 我做了一個簡單的網頁遊戲，你可以交易一隻假股票，看看你能在45秒內賺多少錢。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ov984v/web_game_i_made_a_simple_web_game_where_you_trade/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ov984v/web_game_i_made_a_simple_web_game_where_you_trade/</guid><pubDate>Sat, 31 Jul 2021 17:44:24 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我使用Next.js和Twilio視頻建立了一個功能齊全的視頻通話平臺。]]></title><description><![CDATA[大家好!
 
-當我年輕的時候，我曾經建立簡單的網站與Geocities和Microsoft
-Frontpage。我更專注於網站的設計方面，而不是實際的編程。
-實際的編程 - 不是因爲我對編程沒有興趣，...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oayq7x/i_taught_myself_how_to_code_so_i_could_build_a/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oayq7x/i_taught_myself_how_to_code_so_i_could_build_a/</guid><pubDate>Wed, 30 Jun 2021 18:01:43 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;TL;DR: Learnt to code and built &lt;a href=&quot;https://www.comparedial.com&quot;&gt;CompareDial&lt;/a&gt;&lt;/p&gt;
+我使用Next.js、Twilio Video和MongoDB建立了一個功能齊全的微軟團隊克隆。
+TailwindCSS和MongoDB。它可以在一次通話中支持多達25個參與者。它
+它還支持諸如背景過濾器、屏幕共享（測試版）、網絡
+它還支持背景過濾、屏幕共享（測試版）、網絡質量指標以及通話過程中、通話前的羣聊等功能。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ovarg0/i_built_a_fullyfeatured_video_calling_platform/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ovarg0/i_built_a_fullyfeatured_video_calling_platform/</guid><pubDate>Sat, 31 Jul 2021 17:25:56 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone!&lt;/p&gt;
 
-&lt;p&gt;When I was younger I used to build simple websites with Geocities and Microsoft Frontpage. I was more focused with the design aspect of websites rather than actual programming - not because I had no interest in programming, but rather because I found it intimidating. I was scared to even start. I eventually started to design websites in Photoshop and slice them with some basic HTML and CSS knowledge, but would progress no further. I simply enjoyed designing and would do it for fun.&lt;/p&gt;
+&lt;p&gt;I built a &lt;strong&gt;fully-featured&lt;/strong&gt; clone of Microsoft Teams using Next.js, Twilio Video, TailwindCSS, and MongoDB. It can support up to 25 participants in a call. It also supports features like background filters, screen sharing (beta), network quality indicators and group chat during, before and after a call (similar to Microsoft Teams).&lt;/p&gt;
 
-&lt;p&gt;I had an idea for a phone and SIM contract comparison website, where users could search from thousands of deals and filter down to their specific needs. There were already a few out there, but I found a lot of them lacking in features, generally low in quality and would promote specific deals that would earn them more commission rather than showing the cheapest possible deals. How hard could it be, right? Boy was I wrong.&lt;/p&gt;
+&lt;p&gt;I am a junior at college (CS major). I built this for Microsoft Engage 2021.&lt;/p&gt;
 
-&lt;p&gt;My idea was to design the website and hire someone to make it. I made notes, drew sketches and obsessed over how the site would work. I have a tendency to over design and obsess over minor details, to a point where it holds me back. Everything had to work, behave and be constructed in a very specific way. If I hired someone to make my product and it wasn’t up to my exact standards, I wouldn’t progress with it.&lt;/p&gt;
+&lt;p&gt;Website: &lt;a href=&quot;https://msft.lohani.dev&quot;&gt;https://msft.lohani.dev&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;I quickly realised that I wouldn’t be able to get my product made up to my standard unless I was willing to spend A LOT of money. Even then, I still probably wouldn’t be satisfied. The only other logical solution was to learn how to program and make it myself, which is exactly what I did.&lt;/p&gt;
+&lt;p&gt;Code: &lt;a href=&quot;https://github.com/ananyalohani/teams&quot;&gt;https://github.com/ananyalohani/teams&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;I did some research and landed on JavaScript as the ideal language for me to learn and build my product, as I could use my skills on the front end and back end. I followed every basic JavaScript tutorial and eventually landed on &lt;a href=&quot;https://github.com/getify/You-Dont-Know-JS&quot;&gt;You Don’t Know Js&lt;/a&gt; - an absolute must read, even for experienced JS developers. I tried to pick up on my basic HTML and CSS skills from years ago, but I found myself starting from scratch. ‘Flexbox? Grids? What the hell is any of this?!?” - I used to use tables back in my day! I also followed some online tutorials for basic SQL, realising I would need a database of some sort to store all the deals.&lt;/p&gt;
+&lt;p&gt;Video Demo: &lt;a href=&quot;https://youtu.be/qoQxXQ06DRE&quot;&gt;https://youtu.be/qoQxXQ06DRE&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;I started to feel a bit more confident, even though I hadn’t even begun to build. Eventually, after hours of pulling my hair out, I somehow pulled together a simple prototype that just about worked. It was rubbish, but I thought it was the best thing ever at the time. I couldn’t even imagine I would be able to progress past simple JS a few months prior, but here I was, with something I could be proud of.&lt;/p&gt;
+&lt;p&gt;I would love your feedback on it! Thanks!&lt;/p&gt;
 
-&lt;p&gt;As a perfectionist, in the coming months I must have started over from scratch hundreds of times. I wasn’t happy. Eventually, I convinced myself to plan on launching. I started to add more retailers and feeds to my website, but I hit a bottleneck - the website became mind bogglingly slow. I was building my product around one or two retailers with no more than 1,000 deals. But now, I had over 200,000 deals, and everything grinded to a halt. A simple request would take up to 10 seconds. How could I be so stupid? I tried optimising my SQL, learning about database indexes, but with no avail. I was tempted to throw in the towel, but somehow persisted, eventually learning about caching and indexing. I ended up adding Redis and Meilisearch to the stack. It was a blessing in disguise as I learnt so much about how to architect such a product for performance - something that I wouldn’t have learnt if I did not run into this bottleneck.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/1tg8do5bxke71.png?width=1416&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9ad0e283e62997a63bf4a47fd9242a519e991f12&quot;&gt;Landing Page&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Here are some technologies I’ve learnt along the way, all within a few hours of work a few week in just under 2 years.&lt;/p&gt;
+&lt;p&gt;P.S. I used the name &amp;quot;Microsoft Teams&amp;quot; because I was asked to make a clone of Microsoft Teams, by Microsoft itself as a part of their Engage Mentorship Program 2021. I do plan on changing it to something different in the future.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[終於啓動了一個副業（在頭幾個月免費提供，以獲得一些反饋！）。]]></title><description><![CDATA[你好，胡思亂想者。
+在過去的3年裏，我一直是一名SaaS營銷人員，併爲各種創業公司工作。
+但我一直夢想着擁有自己的副業，這可以幫助我擺脫朝九晚五的工作。
+幫助我擺脫朝九晚五的生活。我一直在尋找我作爲一個產品營銷人員所面臨的問題，並希望通過自己的努力來解決這些問題。
+作爲一個產品營銷人員，我一直在尋找我所面臨的問題，並希望能夠解決這些問題...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ov2ey4/finally_launched_a_side_project_giving_it_out_for/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ov2ey4/finally_launched_a_side_project_giving_it_out_for/</guid><pubDate>Sat, 31 Jul 2021 13:40:35 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello hustlers,&lt;br/&gt;
+I have been a SaaS marketer for the last 3 years and have worked for various startups, but I have always dreamt of having my own side hustle which can help me get out of the 9 - 5 grind. I was always on the lookout for problems that I faced as a product marketer and wanted to solve them to get more business for my fellow marketers. One such problem I came across was I was not able to use the full power of so many social media channels to generate leads. I always had to spend hours monitoring 20+ social media channels to see if there are any discussions going on related to my product where I can jump and educate people and ask them to try my product.&lt;br/&gt;
+That&amp;#39;s when I came to build this product called &lt;a href=&quot;https://termmonitor.com/&quot;&gt;Term Monitor&lt;/a&gt;&lt;br/&gt;
+The product leverages the power of social listening and notifies you when keywords related to your business are mentioned anywhere on 10+ channels like Reddit, product hunt, Twitter, hacker news, etc.&lt;br/&gt;
+Example of a Usecase: A logo design agency has keywords like &amp;quot;logo&amp;quot; &amp;quot;need a logo&amp;quot; &amp;quot;Design a logo&amp;quot; etc that are then fed into the term monitor platform (we also have intent-based search), the design agency is then notified over slack or email about those following keywords being mentioned on any channels. For example, if someone says &amp;quot;I need a few logo design options for my startup&amp;quot; the design agency can jump in on that convo and help the person with his requirement immediately. Thus getting a warm lead which gets converted real fast.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;JavaScript&lt;/li&gt;
-&lt;li&gt;Node&lt;/li&gt;
-&lt;li&gt;Nginx&lt;/li&gt;
-&lt;li&gt;Linux&lt;/li&gt;
-&lt;li&gt;Redis&lt;/li&gt;
-&lt;li&gt;Meilisearch&lt;/li&gt;
-&lt;li&gt;SQL&lt;/li&gt;
-&lt;li&gt;Postgres&lt;/li&gt;
-&lt;li&gt;Git &amp;amp; GitHub&lt;/li&gt;
-&lt;li&gt;Bash&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Would really appreciate some feedback and help from a fellow business owner.&lt;/p&gt;
 
-&lt;p&gt;And finally, my launched product:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;P.S Giving 6 months free access to anyone who signs&amp;#39;s up before 10th August&lt;/strong&gt;&lt;br/&gt;
+Can Sign up here &lt;a href=&quot;https://termmonitor.com/sign-in&quot;&gt;Term Monitor Dashboard&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我是VLC的開發者，做了MotionMonkey 1.2.0 🐵，一個基於開源技術的精簡版BitTorrent播放器。現在支持Chromecast 📺。在PlayStore上有售。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ov482y/im_a_vlc_dev_and_made_motionmonkey_120_a/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ov482y/im_a_vlc_dev_and_made_motionmonkey_120_a/</guid><pubDate>Sat, 31 Jul 2021 12:35:55 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我創建了一份通訊，在教授商業知識的同時，還提供了易於閱讀的商業新聞！這就是我的工作。]]></title><description><![CDATA[大家好! 我的新的創業公司和副業項目叫做《輕鬆過關》。
+[https://www.overeasynews.com/]。
 
-&lt;p&gt;&lt;a href=&quot;https://www.comparedial.com&quot;&gt;CompareDial&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我們已經建立了一個工具，將硬編碼的字符串變成可編輯的內容]]></title><description><![CDATA[https://dico.app
+我們的目標是爲您的早晨提供易於閱讀的商業新聞，同時向您傳授商業知識。
+同時教你商業知識! 可能有一些人不讀
+商業新聞，因爲它太無聊了。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ouimd1/i_created_a_newsletter_that_delivers_easy_to_read/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ouimd1/i_created_a_newsletter_that_delivers_easy_to_read/</guid><pubDate>Sat, 31 Jul 2021 10:59:52 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello everyone! My new startup and side project is called &lt;a href=&quot;https://www.overeasynews.com/&quot;&gt;Over Easy News&lt;/a&gt;.&lt;/p&gt;
 
-18秒演示 [https://reddit.com/link/oaxk6z/video/2nk1k6yfqe871/player]]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oaxk6z/weve_built_a_tool_to_turn_hardcoded_strings_into/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oaxk6z/weve_built_a_tool_to_turn_hardcoded_strings_into/</guid><pubDate>Wed, 30 Jun 2021 15:52:00 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://dico.app&quot;&gt;https://dico.app&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We are all about delivering &lt;strong&gt;easy to read business news for your morning, all while teaching you about business!&lt;/strong&gt; There may be some people who don&amp;#39;t read the business news because its too boring, difficult to read, or don&amp;#39;t understand it. We are changing that. We also strive to make it very fun and enganging.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://reddit.com/link/oaxk6z/video/2nk1k6yfqe871/player&quot;&gt;18 seconds demo&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[可定製的視頻模板[Pixiko🔝]已經在ProductHunt上。]]></title><description><![CDATA[自從我們將🎬編輯器定型爲Evolution🎬以來，已經過了大約2個月。
-版本🎬，在視頻創作和編輯方面達到了一個全新的水平。
-在此期間，我們收到了許多關於視頻效果和文本動畫的積極反饋。
-在這期間，我們收到了很多關於視頻效果和文本動畫的積極反饋，每一位服務的用戶都在使用這些功能。
+&lt;p&gt;The Newsletter drops into your inbox every Monday, Wednesday, and Friday mornings! Please feel free to check it out &lt;a href=&quot;https://www.overeasynews.com/&quot;&gt;here&lt;/a&gt; and give feedback. Thank you&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我創建了一個Twitter賬戶，在那裏我分享最近出售的副業項目]]></title><description><![CDATA[我相信這將激勵人們，同時也給他們提供在線業務的想法。
 
-但是...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oau88t/customizable_video_templates_pixiko_are_already/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oau88t/customizable_video_templates_pixiko_are_already/</guid><pubDate>Wed, 30 Jun 2021 11:31:35 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It has been about 2 months since we finalized our 🎬&lt;strong&gt;editor to the Evolution version&lt;/strong&gt;🎬 and reached a completely new level in video creation and editing. During this period, we received &lt;em&gt;a lot of positive feedback on video effects and text animation&lt;/em&gt;, which is used by every 5th user of the service.&lt;/p&gt;
+以下是網址：https://twitter.com/recentlysold
 
-&lt;p&gt;But there were also problems with the speed of video generation, which were partially solved, and, I am sure, will be completely solved in the coming months of work.&lt;/p&gt;
+如果你最近賣了一個網上生意，我想與你分享。)]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ourj01/i_created_a_twitter_account_where_i_share/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ourj01/i_created_a_twitter_account_where_i_share/</guid><pubDate>Sat, 31 Jul 2021 05:42:09 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I believe it will inspire people and also give them online business ideas.&lt;/p&gt;
 
-&lt;p&gt;However, we do not stand still and, in addition to some cosmetic and technical issues, we are trying to solve more conceptual problems.&lt;br/&gt;
-And today we are glad to present you our new functionality - 🛠 customizable video templates. The main advantage of our solution is that they:&lt;/p&gt;
+&lt;p&gt;here’s the url: &lt;a href=&quot;https://twitter.com/recentlysold&quot;&gt;https://twitter.com/recentlysold&lt;/a&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;templates are easy to create and edit at 💯;&lt;/li&gt;
-&lt;li&gt;quickly customize to your corporate identity and company brand;&lt;/li&gt;
-&lt;li&gt;generated for the format (💻, 🖥, 📺, 📟, etc.) of all well-known social networks and video hosting.&lt;br/&gt;
-It is also convenient to make a whole bunch of videos using a prepared template by quickly replacing elements in the editor.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;if you sold an online business latey, I’d like to share it :)&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我將爲你創建一個網站，免費的!]]></title><description><![CDATA[基本上，我正在努力建立我的網站組合，以便在尋找客戶時可以展示。
+尋找客戶!
 
-&lt;p&gt;We ask you to support us🤝on the day of release on &lt;a href=&quot;https://www.producthunt.com/posts/online-video-templates-by-pixiko-com&quot;&gt;ProductHunt&lt;/a&gt; 💪 and leave a feedback or review about our service, cause we are very sensitive to changes in the editor and bring the level of service to the maximum.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我做了一個能自動識別任務/事件並將其添加到谷歌日曆的markdown編輯器。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oarzx0/i_made_a_markdown_editor_that_automatically/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oarzx0/i_made_a_markdown_editor_that_automatically/</guid><pubDate>Wed, 30 Jun 2021 09:58:55 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了塊狀物：習慣培養的概念小工具 | 尋求反饋]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oar3qx/i_made_blocs_notion_widgets_for_habit_building/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oar3qx/i_made_blocs_notion_widgets_for_habit_building/</guid><pubDate>Wed, 30 Jun 2021 07:49:03 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我的日常播客，關於嘗試把副業變成生意的問題]]></title><description><![CDATA[不久前，我決定辭去工作，專注於我的副業，希望有一天能賺到錢。
-有一天能賺到錢，並能靠它們生活。我在播客中講述了我的
-我在播客中講述我的旅程，分享我的勝利和挫折，並採訪其他有相同情況的企業家。
-採訪其他處於相同情況的創業者。
+爲了加快建立我的作品集的進程，我將提供免費的網頁設計和開發。
+免費設計和開發! 如果你想要一個個人/商業網站或需要
+升級你目前的網站，那麼請留言...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ouxxgf/i_will_create_a_website_for_you_for_free/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ouxxgf/i_will_create_a_website_for_you_for_free/</guid><pubDate>Sat, 31 Jul 2021 02:50:34 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Basically, I&amp;#39;m trying to build up my portfolio of sites that I can showcase when finding clients!   &lt;/p&gt;
 
-這裏是試點...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oajrh7/my_daily_podcast_about_trying_to_turn_side/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oajrh7/my_daily_podcast_about_trying_to_turn_side/</guid><pubDate>Wed, 30 Jun 2021 02:56:57 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A while ago I decided to quit my job and focus 💯 in my side projects in hopes to someday make a paycheck and be able to live from them. I am narrating my journey in a podcast where I share my conquers and frustrations and interview other entrepreneurs in the same situation.&lt;/p&gt;
+&lt;p&gt;To speed up the process of building my portfolio, I will be offering free web design &amp;amp; development for free! If you wanted a personal/business site or need an upgrade to your current site then message me!   &lt;/p&gt;
 
-&lt;p&gt;Here is the pilot episode: &lt;a href=&quot;https://anchor.fm/wannabentrepreneur/episodes/1---Pilot-e10p1ba&quot;&gt;https://anchor.fm/wannabentrepreneur/episodes/1---Pilot-e10p1ba&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Notes:&lt;br/&gt;
+-I currently design in Figma &amp;amp; develop in Webflow.&lt;br/&gt;
+-No e-commerce stores/sites&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[PDFWrench - 關注隱私的PDF編輯、合併、簽署應用]]></title><description><![CDATA[PDFWrench.com [HTTPS://www.pdfwrench.com]
 
-&lt;p&gt;Would love to have your feedback. Cheers&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[在給太多的Github牛逼倉庫加星後，我發現我需要跟蹤它們，而不僅僅是給它們加星。所以我創建了trackawesomelist.com]]></title><description><![CDATA[我追蹤了500多個最受歡迎的超讚軟件庫，每天更新，免費。
+是一個注重隱私的數字簽名應用 你可以編輯/合併/分割/簽署
+PDF文件
 
-對於瀏覽Github上的超讚軟件庫，我有兩個痛點，一個是我
-我不能看到最新添加的項目，第二是我不能看到項目的星號。
-項目的星數，所以我創建了trackawesomelist.com，解決了我自己的問題。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oa78w1/after_starring_too_many_github_awesome_repos_i/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oa78w1/after_starring_too_many_github_awesome_repos_i/</guid><pubDate>Tue, 29 Jun 2021 22:24:55 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I tracked 500+ most popular awesome repos, updated daily, for free.&lt;/p&gt;
+輕鬆填寫表格。
 
-&lt;p&gt;For browsing awesome repos on Github, I have two pain points, one is that I can&amp;#39;t see the latest added items, and the second is that I can&amp;#39;t see the star count of the items, so I created trackawesomelist.com and solved my own pain points, I wonder if you also have these pain points.&lt;br/&gt;
-Site: &lt;a href=&quot;https://www.trackawesomelist.com&quot;&gt;https://www.trackawesomelist.com&lt;/a&gt;&lt;br/&gt;
-Twitter: &lt;a href=&quot;https://twitter.com/trackawesome&quot;&gt;https://twitter.com/trackawesome&lt;/a&gt;&lt;br/&gt;
-Telegram: &lt;a href=&quot;https://t.me/trackawesomelist&quot;&gt;https://t.me/trackawesomelist&lt;/a&gt;&lt;br/&gt;
-If this also solves your problem, you can also upvote it for me on product hunt, &lt;a href=&quot;https://www.producthunt.com/posts/track-awesome-list&quot;&gt;https://www.producthunt.com/posts/track-awesome-list&lt;/a&gt; thanks!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我做了一個讓人微笑的應用程序!]]></title><description><![CDATA[我最近開發了一個基於幸福的應用程序，只顯示積極的新聞以及笑話和可愛的動物視頻。
-積極的新聞，以及笑話和動物的可愛視頻。
+爲什麼它與衆不同？它不需要上傳至任何服務器。一切都發生在
+客戶端。這確保了最大限度的隱私和...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oub52q/pdfwrench_privacy_focused_pdf_edit_merge_sign_app/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oub52q/pdfwrench_privacy_focused_pdf_edit_merge_sign_app/</guid><pubDate>Fri, 30 Jul 2021 22:38:23 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;HTTPS://www.pdfwrench.com&quot;&gt;PDFWrench.com&lt;/a&gt; &lt;/p&gt;
 
-特別是在這樣一個頭條新聞充斥着消極情緒，數百萬人在心理健康方面掙扎的時期。
-特別是在這樣一個頭條新聞充滿負面情緒，數以百萬計的人與他們的心理健康作鬥爭的時代，我想做一個應用程序
-我想做一個應用程序，...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oac0vb/i_made_an_app_to_make_people_smile/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oac0vb/i_made_an_app_to_make_people_smile/</guid><pubDate>Tue, 29 Jun 2021 21:36:07 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I recently developed an app that is based around happiness and only showing positive news, as well as jokes and cute videos of animals.&lt;/p&gt;
+&lt;p&gt;is a privacy focused digital signature app
+You can edit / merge / split / sign PDF documents&lt;/p&gt;
 
-&lt;p&gt;Especially during a time like this where headlines are full of negativity and millions of people struggle with their mental health, I wanted to make an app that could brighten someone&amp;#39;s day by making them smile.&lt;/p&gt;
+&lt;p&gt;Fill out forms with ease.&lt;/p&gt;
 
-&lt;p&gt;The app uses a sentiment analysis AI algorithm that I developed to filter out the negativity and only show positive stories.&lt;/p&gt;
+&lt;p&gt;Why is it different?
+It requires no uploads to any server. 
+Everything happens client-side.
+This ensures utmost privacy and security.&lt;/p&gt;
 
-&lt;p&gt;It would mean the world to me if you could take a moment out of your day and download the app, and if anyone has any feedback I would love to hear it!&lt;/p&gt;
+&lt;p&gt;PDFWrench is the first to utilize this new JavaScript technology.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[新的吉他學校項目（我們正在努力使事情變得不同）。]]></title><description><![CDATA[大家好!
 
-&lt;p&gt;Here is the website: &lt;a href=&quot;https://lapisnews.tech/&quot;&gt;lapisnews.tech&lt;/a&gt;&lt;/p&gt;
+作爲一個輔助項目，我正在幫助我的吉他老師（他希望通過以下方式保持匿名）。
+所以我就叫他SGP）建立一個新的吉他學校。我負責的是
+我負責技術部分，並在推廣方面提供一些幫助。我們的問題是（主要是SGP
+因爲我不是音樂家......開發商得......]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ouia52/new_guitar_school_project_were_trying_to_make/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ouia52/new_guitar_school_project_were_trying_to_make/</guid><pubDate>Fri, 30 Jul 2021 14:31:23 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi there!&lt;/p&gt;
 
-&lt;p&gt;App Store: &lt;a href=&quot;https://apps.apple.com/us/app/lapis-news-only-the-good-news/id1527590034&quot;&gt;https://apps.apple.com/us/app/lapis-news-only-the-good-news/id1527590034&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As a side project I&amp;#39;m helping my guitar teacher (he wants to remain anonymous by now, so I will call him SGP) to build a new guitar school. I am in charge of the technical part and helping a bit with the promotion. The problem we (mostly SGP &amp;#39;cause I&amp;#39;m not a musician... developers gotta develop)))) are trying to solve is to change the way people think about guitar music. They should take it much more seriously and keep focus on the results they want to achieve. Not to learn how to play another guitar lick or song, but to learn how to play everything you want, the way you want.&lt;/p&gt;
 
-&lt;p&gt;I hope you have a great day :)&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[ManaMoney：管理你的財務從未如此簡單]]></title><description><![CDATA[你好，我邀請你試試ManaMoney.me。這是我利用業餘時間開發的一個新的資金管理程序，它是一個
-我在業餘時間開發了一個完全響應的Web App（和PWA）。
-
-總的來說，這個應用程序需要七個月的開發時間才能達到目前的MVP
-狀態。該應用程序現在已經準備好進行封閉測試。
-
-在主頁上，你...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oab31c/manamoney_manage_your_finances_has_never_been_so/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oab31c/manamoney_manage_your_finances_has_never_been_so/</guid><pubDate>Tue, 29 Jun 2021 20:54:36 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi, I invite you to try ManaMoney.me. It&amp;#39;s a new money manager provided as a fully responsive Web App (and PWA) that I&amp;#39;ve developed in my spare time.&lt;/p&gt;
-
-&lt;p&gt;In total, the app needed seven months of development to reach the current MVP status. The app is now ready for the closed beta.&lt;/p&gt;
-
-&lt;p&gt;On the homepage, you can have a full overview of the application: &lt;a href=&quot;https://www.manamoney.me&quot;&gt;https://www.manamoney.me&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;IMPORTANT DISCLAIMER&lt;/strong&gt; &lt;strong&gt;Currently this is an MVP (minimum viable product), so I invite you to NOT SAVE personal information and to NOT USE IT AS YOUR MAIN MONEY MANAGER. If the app will gain interest, it will be subjected to a general security check before making it public.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/y9csnk3r68871.png?width=801&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a3877bdc5136e35552a832d6294fa5ab83b5f139&quot;&gt;https://preview.redd.it/y9csnk3r68871.png?width=801&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a3877bdc5136e35552a832d6294fa5ab83b5f139&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What it does?&lt;/strong&gt; It&amp;#39;s a money manager with a minimalistic interface and a lot of peculiar features. Basically, you can use it to keep track of all your transactions (incomes/outcomes), categorize them, and analyze your current and future economic situation in the analytics section. All the cooler features are listed on the homepage with some illustrations, so if you are interested, please check the link up above.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://i.redd.it/d300cgax78871.gif&quot;&gt;https://i.redd.it/d300cgax78871.gif&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; At the moment, ManaMoney is available only in the English language (and there are a lot of improvements to do on this aspect. Unfortunately I am not a native speaker). Other languages will be implemented in the future.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Everything for free?!&lt;/strong&gt; The web application is available for free and probably it will forever be. You can signup by email/password or with your Google account, no payment is needed. In the future, the app will provide also an optional Premium Subscription that unlocks some cool features (already developed) like:&lt;/p&gt;
+&lt;p&gt;What do we have so far:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;SHARED-ACCOUNT(*)&lt;/li&gt;
-&lt;li&gt;RECURRENT TRANSACTIONS(*)&lt;/li&gt;
-&lt;li&gt;BUDGET ESTIMATION(*)&lt;/li&gt;
+&lt;li&gt;More than 220 exercises with detailed explanations and tabs (Guitar Pro). All of them are organised by topics and will help you master some particular technical problem(s).&lt;/li&gt;
+&lt;li&gt;Basic progress tracking tools (keep track of TODO/ATTEMPTED/COMPLETED lessons and your daily activity).&lt;/li&gt;
+&lt;li&gt;Very beginning of the blog.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Currently, the Premium Status is only available for all selected beta testers that will receive the Premium Subscription for free (limited time). If there will be interest in this app, after the beta-testing phase I will open the Premium Subscription to all users (price and conditions aren&amp;#39;t defined yet).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;If you want to become a beta tester&lt;/strong&gt; Right now, the application is young and I think that is really premature to open all premium features to everyone. Before doing this big step, it&amp;#39;s extremely important to get some important feedback from real users, improve the application, and, only after that, there will be a reason to open all features to everyone.&lt;/p&gt;
-
-&lt;p&gt;If you want to become a beta tester, try the application first, and, if you feel that you can contribute to the product growth, please:&lt;/p&gt;
+&lt;p&gt;Future plans:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Fill in the Beta Tester form: &lt;a href=&quot;https://forms.gle/N2PZwyRwQxkv6V2XA&quot;&gt;https://forms.gle/N2PZwyRwQxkv6V2XA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Subscribe and start to share feedback/tips/suggestions on to the ManaMoney reddit community &lt;a href=&quot;https://www.reddit.com/r/manamoney/&quot;&gt;https://www.reddit.com/r/manamoney/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Audio/video mostly. As it hard to explain music using just text. SGP is obsessed with the quality, that&amp;#39;s why it takes so long to deliver it...&lt;/li&gt;
+&lt;li&gt;Add more exercises to the current topics and introduce the new ones.&lt;/li&gt;
+&lt;li&gt;Keep writing blog articles (SGP has a lot to say).&lt;/li&gt;
+&lt;li&gt;Keep working on the progress tracking tools as they are very basic right now (current idea is to add something like &amp;quot;Learning Diary&amp;quot; where you can upload your audio files and share them with other users).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Not all requests on the Beta Testing Program will be accepted obviously. Also keep in mind that joining in the  beta testing program will entail some activities like filling form, share feedback, etc. Ask to become a beta tester only if you really want to be part of this :D&lt;/p&gt;
+&lt;p&gt;Here is the link: &lt;a href=&quot;https://learn.slowguitarplayer.com&quot;&gt;https://learn.slowguitarplayer.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+&lt;p&gt;You can use &amp;quot;reddit&amp;quot; (no quotes) promo code to get $10 OFF for monthly subscription.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/duzb4xiz78871.png?width=801&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7bf3feb91d20bccb46749f0f01ad873bbde678cd&quot;&gt;https://preview.redd.it/duzb4xiz78871.png?width=801&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7bf3feb91d20bccb46749f0f01ad873bbde678cd&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How to share feedback&lt;/strong&gt; If you want to share a suggestion or report a bug, you can use all information stored in the application footer. Or, if you want to be actively part of this project, please subscribe to the Reddit community &lt;a href=&quot;https://www.reddit.com/r/manamoney&quot;&gt;https://www.reddit.com/r/manamoney&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;It&amp;#39;s safe to store personal information?!&lt;/strong&gt; Like any other application, your data will be stored in an online database. Data breaches occur daily on the internet even to billionaire companies. I&amp;#39;ve done all the possible to make it as secure as possible, but I am not specialized in the security sector. Please, check the disclaimer at the beginning of the post.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What next&lt;/strong&gt; This is a side project with ZERO BUDGET. So, things will be plenty slow at the beginning. The application is complete and has all the main features that I would ask a Money Manager. The intention is to make it grow with new features and improvements during next months. You can check the &lt;a href=&quot;https://trello.com/b/daB4tVuz/manamoney-roadmap&quot;&gt;ManaMoney&amp;#39;s Roadmap on Trello&lt;/a&gt;. If you aren&amp;#39;t interested to try the application in this state of MVP, please, &lt;a href=&quot;https://gmail.us6.list-manage.com/subscribe/post?u=4c169224b5b97a598fbd6ecb7&amp;amp;id=e99591aa13&quot;&gt;Subscribe to ManaMoney&amp;#39;s newsletter to receive future updates.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2&gt;Question and Answer&lt;/h2&gt;
-
-&lt;p&gt;If you have any question, I am at your complete disposal! :D Thanks for your time.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[建立了一個使用人工智能（GPT-3）的工具，自動生成定製的簡歷]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oaa3fw/built_a_tool_that_uses_ai_gpt3_to_generate/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oaa3fw/built_a_tool_that_uses_ai_gpt3_to_generate/</guid><pubDate>Tue, 29 Jun 2021 16:25:28 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[人工智能驅動的應用程序讓你更快樂! 現在在Product Hunt上直播]]></title><description><![CDATA[我們總是看到數據在企業中得到很好的利用，因此，我們的團隊在想
-想知道 - 爲什麼我們沒有看到數據在我們的日常生活中的廣泛應用？
-
-這就是爲什麼我們要建立lyfe.ltd，我們希望它能成爲你的個人
-我們希望它能成爲你和你的數據山之間的夥伴界面...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oa2ypj/aipowered_app_to_make_you_happier_live_on_product/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oa2ypj/aipowered_app_to_make_you_happier_live_on_product/</guid><pubDate>Tue, 29 Jun 2021 15:37:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We always see data being well-utilized in businesses, so that our team was wondering - why don&amp;#39;t we see extensive applications of data in our daily lives?&lt;/p&gt;
-
-&lt;p&gt;That&amp;#39;s why we are building lyfe.ltd which we hope will become your personal buddy-interface between you and the mountains of data that you generate.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Its main features are:&lt;/em&gt;&lt;/strong&gt; &lt;/p&gt;
-
-&lt;p&gt;✨Mood, activity, and anything tracking&lt;br/&gt;
-✨NLP powered journal&lt;br/&gt;
-✨Very UI/UX friendly dashboard that displays all the correlations and AI-powered insights&lt;br/&gt;
-✨ .. And much more - check out on lyfe.ltf&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/vz2gu9hxj5871.png?width=1852&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4f8bd201fc15cb723eb6eddecf265add8fa4b542&quot;&gt;https://preview.redd.it/vz2gu9hxj5871.png?width=1852&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4f8bd201fc15cb723eb6eddecf265add8fa4b542&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Also, privacy is absolutely not an afterthought for us -- we promise to keep your data well secured and anonymized.&lt;/p&gt;
-
-&lt;p&gt;We want to make this product great. And great for you, not for us founders who are assuming things about its users. So your feedback is crucial on this stage and we will appreciate it a ton.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://url3173.lyfe.ltd/ls/click?upn=s74nntl2rGoHZnEr9JDcXl9lxCIZnm1g1D9TvVXV9h-2BnxGuL0iemboGQnua-2BHcDV8D9HTYT9RBNX-2FJecfTeAnQ-3D-3Ddy3n_JWL6TBCB0mED2wMiQenHzP-2BMwWyMHXmoYi3lO0xWIgWXHJLShk8qQg5V2zdXRpav0BCct5rNHoDAs-2F7dR2XWoGJkqT1kj5C1FvpImRE1izHUEM2SdZJVUjjD5PyqtPNySREn16IS8bpoDGnDGY5YWANZgainDJ0FBmWSsvPHdSmwJ0l78xhwoOvFvf6BLuCzk551684Rgg-2Fji-2BiLmNJXKynWHcruXOm75f2ZQY8Z0TVKYV7zncHVYp4ybDX9Ru-2Bf6lzv-2FEri8Vqf-2Fn0nLYbQPg-3D-3D&quot;&gt;&lt;strong&gt;Upvote Lyfe&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;on Product Hunt&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Also, if you have any feedback or thoughts - let us know below!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我剛剛在Product Hunt上首次推出! 🥳 [identid.me]]]></title><description><![CDATA[經過幾個月12小時的工作，我們終於在Product Hunt上發佈了
-
-https://www.producthunt.com/posts/identid-me
-
-我們都在追求一個夢想，但實現它並不是一件容易的事。我們創建了
-identid.me，以幫助創意者從人羣中脫穎而出，並擁有真正能顯示出的在線
-創作組合，真正顯示出...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oa68ih/i_have_just_launched_for_the_first_time_on/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oa68ih/i_have_just_launched_for_the_first_time_on/</guid><pubDate>Tue, 29 Jun 2021 15:11:39 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;After months of 12-hour workdays, we finally launched on Product Hunt!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.producthunt.com/posts/identid-me&quot;&gt;https://www.producthunt.com/posts/identid-me&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We all pursue a dream, but achieving it is not an easy task. We have created identid.me to help creatives stand out from the crowd and have the online portfolio that really shows what they are made of. 🚀&lt;/p&gt;
-
-&lt;p&gt;Feel free to create your free portfolio and give us your honest opinion to help us improve. 💛&lt;/p&gt;
-
-&lt;p&gt;Thank you!&lt;/p&gt;
-
-&lt;p&gt;PS: Also, I&amp;#39;ll be posting through the day how everything is going on and what we learn from all this in this thread: &lt;a href=&quot;https://twitter.com/identidme/status/1409771022925053952&quot;&gt;https://twitter.com/identidme/status/1409771022925053952&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[WaterMe - 植物護理應用程序。一個幫助你組織你的植物、花園、蔬菜、盆景等的應用程序!]]></title><description><![CDATA[大家好。
-
-我的應用程序的早期訪問版本現在在Play Store上! 它的目的是
-幫助您組織和跟蹤您的植物，並使用Flutter/Dart完成。它
-它有大量的功能，還有更多的功能正在開發中。我們非常感謝
-衷心感謝任何檢查它的人! 很高興收到...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o9vxit/waterme_plant_care_app_an_app_to_help_you/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o9vxit/waterme_plant_care_app_an_app_to_help_you/</guid><pubDate>Tue, 29 Jun 2021 09:22:01 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt;
-
-&lt;p&gt;The early access version of my app is now on the Play Store! It&amp;#39;s designed to help you organize and track your plants and was completed using Flutter/Dart. It has a multitude of features with many more in the pipeline. Would be grateful to anyone that checks it out! Happy to receive pros and cons so that I know where it excels and where I can do better.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;Feel free to check it out here:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.waterme.app&quot;&gt;https://play.google.com/store/apps/details?id=com.waterme.app&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[谷歌詞典的替代擴展]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oa2wgl/an_alternative_to_google_dictionary_extension/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oa2wgl/an_alternative_to_google_dictionary_extension/</guid><pubDate>Tue, 29 Jun 2021 08:25:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[經過1年零3個月，我終於推出了我的數據可視化軟件的專業版本。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o9hdo0/after_1_year_and_3_months_i_have_finally_launched/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o9hdo0/after_1_year_and_3_months_i_have_finally_launched/</guid><pubDate>Mon, 28 Jun 2021 13:32:53 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[根據你的生活方式，比較世界上1000個城市的生活成本]]></title><description><![CDATA[你好。
-
-讓我與你分享一個我主要是爲了好玩而創建的項目。我目前正在尋找
-賺錢的想法，但 - 所以將感謝你的想法和任何反饋
-真的!
-
-我自己已經搬到了不同的國家幾次，而且可能不是最後一次
-的時候。我發現這很...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o973xy/compare_cost_of_living_in_1000_cities_in_the/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o973xy/compare_cost_of_living_in_1000_cities_in_the/</guid><pubDate>Mon, 28 Jun 2021 01:05:27 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi,&lt;/p&gt;
-
-&lt;p&gt;Let me share with you a project I created mostly for fun. I am currently looking for monetization ideas though - so will appreciate your ideas and any feedback really!&lt;/p&gt;
-
-&lt;p&gt;I myself have moved to a different country a few times, and likely not the last time in my life. And I&amp;#39;ve found it quite difficult to compare not consumer prices, say, for tomatoes or a 2-bed apartment, but my lifestyle as a whole, including how many people are moving, what habits we have, and what services we use.&lt;/p&gt;
-
-&lt;p&gt;To address the issue, I built this calculator: &lt;a href=&quot;https://gromov.com/cost-of-living-calc?utm_source=reddit_sideproj&quot;&gt;https://gromov.com/cost-of-living-calc&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;⚠️It currently doesn&amp;#39;t work on mobile devices (WIP), so please use desktop version.&lt;/p&gt;
-
-&lt;p&gt;Other than that, it shall be fairly straightforward and hopefully fun to use.&lt;/p&gt;
-
-&lt;p&gt;Let me know what you think!&lt;/p&gt;
-
-&lt;p&gt;Cheers,&lt;/p&gt;
-
-&lt;p&gt;Oleg&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我的第一個完工項目。從WhatsApp聊天記錄中揭示有趣的洞察力]]></title><description><![CDATA[終於與我的雜念作鬥爭，看到一個副業完成了。使用
-GatsbyJS、ReactJS和ChartJS，我創建了一個簡單的網絡應用，將WhatsApp聊天記錄中有趣的
-從WhatsApp聊天記錄中分析出有趣的見解，包括漂亮的圖表、情感分析和詞雲。
-雲。沒有廣告，沒有用戶註冊/登錄，沒有貨幣化......]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o8y90x/my_first_finished_project_reveal_fun_insights/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o8y90x/my_first_finished_project_reveal_fun_insights/</guid><pubDate>Sun, 27 Jun 2021 21:29:31 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Finally fought my distractions and saw a side project through completion. Using GatsbyJS, ReactJS, ChartJS, I created a simple web app that analyzes fun insights from WhatsApp chats into pretty graphs plus sentiment analysis and word cloud. 
-No ads, no user registrations/logins, no monetization aspirations, just something fun to start and complete. Was inspired by this community and welcome all feedback 👍
-Link: &lt;a href=&quot;https://whatstats.io/&quot;&gt;https://whatstats.io/&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[做了一首種樹的歌]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o8t8y1/made_a_song_that_plants_trees/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o8t8y1/made_a_song_that_plants_trees/</guid><pubDate>Sun, 27 Jun 2021 17:32:57 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[用於REACT應用的命令行工具]]></title><description><![CDATA[大家好!
-我很高興與大家分享我最近的小型實用項目。它是一個
-它是一個命令行工具，可以幫助開發者自動完成一些明顯的任務，如
-構建一個新的react應用和生成一個新的組件。它支持
-它同時支持typecript和javascript模板。
-
-請參考...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o8d3x2/command_line_tool_for_react_applications/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o8d3x2/command_line_tool_for_react_applications/</guid><pubDate>Sat, 26 Jun 2021 18:51:50 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi, everyone!&lt;br/&gt;
-I am happy to share my recent small &lt;strong&gt;utility project&lt;/strong&gt; with you all. It is a &lt;strong&gt;command-line tool&lt;/strong&gt; that helps developers to automate some obvious tasks like &lt;strong&gt;scaffolding a new react application and generating a new component&lt;/strong&gt;. It supports both typescript &amp;amp; javascript templates.&lt;/p&gt;
-
-&lt;p&gt;Refer to the video to see how it works :)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://reddit.com/link/o8d3x2/video/kirg0f2gpm771/player&quot;&gt;React CLI Utility Demo&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;NPM Package: &lt;a href=&quot;https://www.npmjs.com/package/react-cli-utility&quot;&gt;https://www.npmjs.com/package/react-cli-utility&lt;/a&gt;&lt;br/&gt;
-Github: &lt;a href=&quot;https://github.com/hvg2416/react-cli&quot;&gt;https://github.com/hvg2416/react-cli&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Let me know what more improvements &amp;amp; features I may work on.&lt;br/&gt;
-Thanks in advance.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[對建立我的SaaS的頭兩個過山車式的月的誠實反思。]]></title><description><![CDATA[Ngl，我非常興奮地與你們分享這個思考。
-
-Predis.ai在兩個多月前推出，我們想利用一些
-的時間來反思這段旅程，並確定哪些工作做得很好，哪些沒有做得很好（我們真的沒有準備好要做多少工作）。
-(我們真的沒有準備好有多少事情沒有成功:'))
-
-Predis是...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o86jnk/an_honest_reflection_on_the_first_two/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o86jnk/an_honest_reflection_on_the_first_two/</guid><pubDate>Sat, 26 Jun 2021 15:56:19 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Ngl, I’m pretty excited to share this reflection with y’all.&lt;/p&gt;
-
-&lt;p&gt;Predis.ai was launched just over 2 months ago, and we thought of taking some time off to reflect on the journey, and determine what worked well and what didn’t (we really weren’t prepared for how many things did not work :’))&lt;/p&gt;
-
-&lt;p&gt;Predis is essentially an AI/ML-based SaaS that predicts a social media post’s performance before it is posted, so it can be improved with the AI’s suggestions. Influencers and brands can also carry out comprehensive competitor analysis on Predis to understand the kind of content that is working well for them.&lt;/p&gt;
-
-&lt;p&gt;I basically divided this blog into 4 distinct sections:&lt;/p&gt;
-
-&lt;p&gt;- Why we changed our target platform from Twitter to Instagram&lt;/p&gt;
-
-&lt;p&gt;- How our Product Hunt launch fared (spoiler: not very well)&lt;/p&gt;
-
-&lt;p&gt;- Our LTD offering on Pitchground&lt;/p&gt;
-
-&lt;p&gt;- Key learnings from some user metrics&lt;/p&gt;
-
-&lt;p&gt;You can check out the Medium blog &lt;a href=&quot;https://medium.com/predisai/predis-ai-2-months-overview-apr-may-2021-db9180f711fd&quot;&gt;here&lt;/a&gt;! Hoping this will provide useful insights to new founders about what to expect when at the helm of a SaaS.&lt;/p&gt;
-
-&lt;p&gt;Good luck, side-hustlers!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[着手推出我的iOS版應用程序。有效地跟蹤你一天的起伏! 想聽聽你的想法。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o7x434/got_around_to_launching_my_app_for_ios/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o7x434/got_around_to_launching_my_app_for_ios/</guid><pubDate>Sat, 26 Jun 2021 14:14:22 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我們創建了Rethink Files，一個連接和統一你所有云的文件瀏覽器。你可以搜索、組織和分享文件，無論它們存儲在哪裏。我們正處於公開測試階段，目前有19個集成項目（還有更多即將推出！），包括Google Drive, OneDrive, Slack, Figma & Basecamp。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o7q8z9/we_created_rethink_files_a_file_browser_that/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o7q8z9/we_created_rethink_files_a_file_browser_that/</guid><pubDate>Fri, 25 Jun 2021 18:52:45 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我最喜歡的個人創辦人的資源]]></title><description><![CDATA[嗨，夥計們。
-
-我想介紹一下我一直在做的一個應用，作爲對你們時間的快速 "感謝"，我列出了我爲個人創業者提供的最有價值的資源。
-作爲對你的感謝，我列出了我發現的對獨行創業者最有價值的資源。
-發現的。
-
- * Product Disrupt [https://productdisrupt.com/] - 策劃的資源清單，以便於
-   學習產品設計的資源清單
- * ManyPixels...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o7fodu/my_favorite_resources_for_solo_founders/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o7fodu/my_favorite_resources_for_solo_founders/</guid><pubDate>Fri, 25 Jun 2021 15:28:57 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi folks,&lt;/p&gt;
-
-&lt;p&gt;I want to introduce an app I&amp;#39;ve been working on and as a quick &amp;quot;thank you&amp;quot; for your time, I&amp;#39;m listing the most valuable resources for solo startup founders I found:&lt;/p&gt;
+&lt;p&gt;Some tech details for anyone who is interested :)&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://productdisrupt.com/&quot;&gt;Product Disrupt&lt;/a&gt; - Curated List of Resources to Learn Product Design&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.manypixels.co/gallery&quot;&gt;ManyPixels&lt;/a&gt; - Free illustrations for commercial use&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://reallygoodemails.com/&quot;&gt;Really Good emails&lt;/a&gt; - Awesome curated collection of email templates&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://startuplanding.redq.io/&quot;&gt;Startup Landing&lt;/a&gt; - A list of free landing page templates for React, Gatsby &amp;amp; Next.js&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://builtformars.com/&quot;&gt;Built For Mars&lt;/a&gt; - A list of great UX case studies&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/goabstract/Marketing-for-Engineers&quot;&gt;Marketing for Engineers&lt;/a&gt; - A curated list of articles and tools to grow your product&lt;/li&gt;
+&lt;li&gt;FE: Node 14 + Next.js + Auth0 + Chakra UI + alphaTab&lt;/li&gt;
+&lt;li&gt;BE: Python 3.9 + uWSGi + Flask + SQLAlchemy + PostgreSQL&lt;/li&gt;
+&lt;li&gt;Infra: Ubuntu 20.04 + Ansible + Caddy + Docker&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Now back to my app. YourTrail is a personal assistant to plan, track and achieve your goals and aspirations. I just finished building an MVP and would love to hear your thoughts about the MVP and the idea in general. &lt;/p&gt;
+&lt;p&gt;I would really appreciate any feedback/questions (both business and technical) about this project. Also it would nice to hear about your experience with other guitar schools (if you&amp;#39;ve tried any).&lt;/p&gt;
 
-&lt;p&gt;You can check out YourTrail here: &lt;a href=&quot;https://yourtrail.io&quot;&gt;https://yourtrail.io&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The app lets you plan your life goals, organize your book notes and other learnings, and connect them with your goals. It will also have a suite of productivity tools like streaks (habit building), timeboxed working sessions &amp;amp; daily reminders to help you take small daily steps towards your goals.&lt;/p&gt;
-
-&lt;p&gt;Using YourTrail, you can break down complex goals into simple, actionable steps and have fun doing it. &lt;/p&gt;
-
-&lt;p&gt;Any feedback and comments are greatly appreciated!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[永久性和不可改變的雲存儲，用於存放你不能丟失的文件。]]></title><description><![CDATA[https://preview.redd.it/v4mor8tb4d771.png?width=1891&format=png&auto=webp&s=68a2fd969ee3828cee2cee37302de25baba1c191
-
-嗨！我很高興地宣佈，我已經推出Forever.so [https://Forever.so]
-- 永久和不可改變的雲存儲。
-
-這是一個你可以安全地存儲你的珍貴文件的地方...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o7ioxa/permanent_and_immutable_cloud_storage_for_files/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o7ioxa/permanent_and_immutable_cloud_storage_for_files/</guid><pubDate>Fri, 25 Jun 2021 08:14:22 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/v4mor8tb4d771.png?width=1891&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=68a2fd969ee3828cee2cee37302de25baba1c191&quot;&gt;https://preview.redd.it/v4mor8tb4d771.png?width=1891&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=68a2fd969ee3828cee2cee37302de25baba1c191&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hi! I am thrilled to announce that I&amp;#39;ve launched &lt;a href=&quot;https://Forever.so&quot;&gt;Forever.so&lt;/a&gt; - &lt;strong&gt;permanent and immutable cloud storage&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s a place where you can safely store your precious files without ever worrying about losing them.&lt;/p&gt;
-
-&lt;p&gt;As a way to &amp;quot;scratch my own itch&amp;quot; (I&amp;#39;ve lost invaluable family photos before), and after a decade of waiting for a solution, I&amp;#39;ve funded and spent 1,500+ hours on building it myself.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://Forever.so&quot;&gt;Forever.so&lt;/a&gt; is protecting your or your company&amp;#39;s most valuable files. Permanent means secure!&lt;/p&gt;
-
-&lt;p&gt;You can check it out here: &lt;a href=&quot;https://Forever.so&quot;&gt;Forever.so&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[在對其他記事軟件感到沮喪後，我製作了Capcha，世界上最快的記事軟件!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o71bi0/after_being_frustrated_with_other_notetaking_apps/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o71bi0/after_being_frustrated_with_other_notetaking_apps/</guid><pubDate>Thu, 24 Jun 2021 15:27:37 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我花了2年時間製作這個應用程序，並在昨天發佈了第一個測試版本。它使用Al來掃描你的屏幕截圖，尋找用戶名和鏈接。也有一個內置的網站建設者。請給我反饋!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o70fuv/i_spent_2_years_making_this_app_and_released_the/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o70fuv/i_spent_2_years_making_this_app_and_released_the/</guid><pubDate>Thu, 24 Jun 2021 14:58:18 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[💬 不再有混亂的Slack對話。我們創建了一個免費的Slack插件，幫助你把Slack變成一個知識庫。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o6fft3/no_more_messy_slack_conversations_we_created_a/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o6fft3/no_more_messy_slack_conversations_we_created_a/</guid><pubDate>Wed, 23 Jun 2021 18:43:53 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一個能嚇唬人的門鈴]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o6dwxs/i_built_a_doorbell_that_scares_people/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o6dwxs/i_built_a_doorbell_that_scares_people/</guid><pubDate>Wed, 23 Jun 2021 16:30:18 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了Feynman，一個帶有手寫識別功能的間隔重複閃卡應用程序，用於練習Feynman技術以理解困難的概念。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o5zn0r/i_built_feynman_a_spaced_repetition_flashcard/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o5zn0r/i_built_feynman_a_spaced_repetition_flashcard/</guid><pubDate>Wed, 23 Jun 2021 13:24:34 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我正在建立一個應用程序，以便從瀏覽器中編寫交互式博客文章。它可以讓你在你的文章中添加markdown和自定義/預先建立的反應組件。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o5tz5h/im_building_an_app_to_write_interactive_blog/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o5tz5h/im_building_an_app_to_write_interactive_blog/</guid><pubDate>Tue, 22 Jun 2021 22:20:38 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[謀殺懸疑遊戲的副產品]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o5q7ob/a_murder_mystery_game_side_project/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o5q7ob/a_murder_mystery_game_side_project/</guid><pubDate>Tue, 22 Jun 2021 17:48:34 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了一個流媒體聚合器來訪問Netflix、Amazon、HBO的免費流媒體。]]></title><description><![CDATA[https://onestreamtv.com/
-
-嘿，夥計們，OneStream TV是一個流媒體聚合器，允許你免費
-絡、亞馬遜總理視頻、HBO Max和許多其他流媒體服務上的內容的免費流媒體訪問。
-其他流媒體服務，而無需訂閱任何服務或支付費用。
-
-我知道你在想什麼。"這是不是...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o5luoi/i_built_a_streaming_aggregator_to_access_free/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o5luoi/i_built_a_streaming_aggregator_to_access_free/</guid><pubDate>Tue, 22 Jun 2021 17:16:50 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://onestreamtv.com/&quot;&gt;https://onestreamtv.com/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hey guys, OneStream TV is a streaming aggregator that allows you to have free streaming access on content on Netflix, Amazon Prime Video, HBO Max, and many other streaming services, without subscribing to any service or paying money.&lt;/p&gt;
-
-&lt;p&gt;I know what you&amp;#39;re thinking: &amp;quot;Is this legal?&amp;quot;. Answer is yes, 100% legal :). Many streaming services provide free access (without requiring subscription) to a limited number of their content as part of their holistic marketing strategy, but these free content are randomly provided by streaming services because they&amp;#39;re usually part of some complex promotional marketing strategy, which means it&amp;#39;s hard for the average consumer to easily discover and access the content. So OneStream TV solves this problem programmatically by automatically monitoring, indexing, and aggregating all the free content being provided by all the major streaming services and combining them in one unified streaming dashboard.&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;m posting this here mainly to get you guys&amp;#39; feedback and reaction, so please let me know what you guys think, if you like it (any feature requests), or if you think I should shut it down :-).&lt;/p&gt;
+&lt;p&gt;I get desperate at times due to the current workload at my main job, but trying to be positive and keep pushing :)&lt;/p&gt;
 
 &lt;p&gt;&amp;#x200B;&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/p41sde48nbe71.jpg?width=640&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=27cd89af0fc7d81fc22db1f4172c072503e378ca&quot;&gt;Not only a human being can be a great musician (SGP&amp;#39;s cat) ;)&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[PaperDelivery - 從Twitter獲取外部鏈接。]]></title><description><![CDATA[你好。
+
+現在就去paperdelivery.co試試 [https://paperdelivery.co]
+
+理由 - 好的內容可能需要超過280個字符。
+
+我厭倦了所有的毒性，這是twitter的一部分，但仍然想
+爲出現在我的feed上的鏈接不時地簽到....]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ougham/paperdelivery_fetch_external_links_from_twitter/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ougham/paperdelivery_fetch_external_links_from_twitter/</guid><pubDate>Fri, 30 Jul 2021 14:31:23 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi,&lt;/p&gt;
+
+&lt;p&gt;Try now at &lt;a href=&quot;https://paperdelivery.co&quot;&gt;paperdelivery.co&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Rationale - good content probably needs more than 280 characters.&lt;/p&gt;
+
+&lt;p&gt;I got tired of all the toxicity that&amp;#39;s part of twitter, but still wanted to check-in from time to time for the links that appear on my feed. &lt;a href=&quot;https://paperdelivery.co/&quot;&gt;PaperDelivery&lt;/a&gt; wades through my feed, finds all the external links/articles, and sends it to me as a daily email. You can also think of it as a personalized &lt;a href=&quot;https://news.ycombinator.com&quot;&gt;Hacker News&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我剛剛完成了一個屏幕截圖應用程序（macOS），爲那些關心他們的像素的人。在評論中有幾個問題。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oukk9v/i_just_finished_a_screenshot_app_macos_for_people/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oukk9v/i_just_finished_a_screenshot_app_macos_for_people/</guid><pubDate>Fri, 30 Jul 2021 14:18:53 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我發佈了我的第一個瀏覽器擴展，Clear。我需要你的反饋。]]></title><description><![CDATA[大家好。
+
+我在幾個月前開始學習JavaScript，今天我發佈了我的
+第一個瀏覽器擴展，用於Mozilla Firefox。(微軟Edge版將於
+幾天後）。)
+
+Clear讓你只需按下鍵盤上的'D'就可以取消訂閱不需要的/垃圾郵件。
+鍵盤上的 "D"。你不...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oue2o4/i_published_my_first_browser_extension_clear_i/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oue2o4/i_published_my_first_browser_extension_clear_i/</guid><pubDate>Fri, 30 Jul 2021 13:30:45 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everybody,&lt;/p&gt;
+
+&lt;p&gt;I started learning JavaScript a couple of months ago, and today I published my first browser extension for Mozilla Firefox. (Microsoft Edge edition will be out in a couple of days)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Clear&lt;/em&gt; lets you unsubscribe from unwanted/spam emails by just pressing &amp;#39;D&amp;#39; on your keyboard. You don&amp;#39;t have to search for Unsubscribe links in the emails or answer the pop-ups. With just one click you will be unsubscribed.&lt;/p&gt;
+
+&lt;p&gt;It is a simple extension, and I made it because I wanted to evade the tedious task of searching for unsubscribe links and then answering the pop-ups every time. As you get used to &lt;em&gt;Clear&lt;/em&gt;, you&amp;#39;ll automatically press &amp;#39;D&amp;#39; whenever you want to unsubscribe and this saves you a lot of time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://addons.mozilla.org/en-US/firefox/addon/clear-unsubscribe/&quot;&gt;Get the extension Here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I hope you will like it!&lt;/p&gt;
+
+&lt;p&gt;Your feedback/review/criticism is most welcome.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Privacy:&lt;/strong&gt; &lt;em&gt;Clear&lt;/em&gt; DOESN&amp;#39;T send your data anywhere. It doesn&amp;#39;t store any data at all, even in the local machine.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我開始了一個YouTube頻道，回顧你的副業。把你的鏈接/mvp/想法發給我，作爲第三集的內容。]]></title><description><![CDATA[我開始了這個頻道，並在兩週前發佈了
+https://www.reddit.com/r/SideProject/comments/oq8emc/i_started_a_youtube_channel_where_i_try_side/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+在reddit或我的youtube頻道上給你的鏈接做DM，以瞭解Episode...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ou8wtv/i_started_a_youtube_channel_reviewing_your/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ou8wtv/i_started_a_youtube_channel_reviewing_your/</guid><pubDate>Fri, 30 Jul 2021 08:24:43 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I started the channel and posted two weeks ago 
+&lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/oq8emc/i_started_a_youtube_channel_where_i_try_side/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&quot;&gt;https://www.reddit.com/r/SideProject/comments/oq8emc/i_started_a_youtube_channel_where_i_try_side/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;DM your links on reddit or my youtube channel for Episode #3. 
+&lt;a href=&quot;https://youtube.com/channel/UCc8_dv1ysWAo4LzyJH3Xuww&quot;&gt;https://youtube.com/channel/UCc8_dv1ysWAo4LzyJH3Xuww&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fyi thanks for the 40
+Subscribers 😊&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[uptimeANT - 爲您的客戶提供帶有內置狀態頁面的正常運行時間監控]]></title><description><![CDATA[我最近推出了uptimeANT[https://uptimeant.com]，以幫助我跟蹤
+我的各種網站。我需要滿足以下條件的東西。
+
+ * 它必鬚髮送短信提醒
+ * 它必須對WordPress錯誤和其他網站頁面錯誤做出反應，而不是
+   不僅僅是服務器問題
+ * 它必須...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/otxt4p/uptimeant_uptime_monitoring_with_builtin_status/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/otxt4p/uptimeant_uptime_monitoring_with_builtin_status/</guid><pubDate>Fri, 30 Jul 2021 03:53:01 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I recently launched &lt;a href=&quot;https://uptimeant.com&quot;&gt;uptimeANT&lt;/a&gt; to help me keep track of my various websites. I needed something that met the following criteria:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It had to send SMS alerts&lt;/li&gt;
+&lt;li&gt;It had to respond to WordPress errors and other site page errors, and not just server issues&lt;/li&gt;
+&lt;li&gt;It had to automatically generate a status page my customers could check on so my inbox didn&amp;#39;t get flooded with &amp;quot;is your website down or is it just me?&amp;quot; emails. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the end, I couldn&amp;#39;t find anything that met all the criteria so I built it myself. I ended up getting it to such a point in reliability and usability that I decided to open it up to the public and turn it into a little side business.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#39;re interested in knowing about downtime before your customers do, please &lt;a href=&quot;https://uptimeant.com&quot;&gt;take a look at the site&lt;/a&gt;. If you want to help me spread the word, then please visit my &lt;a href=&quot;https://www.producthunt.com/posts/uptimeant&quot;&gt;product hunt launch page&lt;/a&gt;. It comes with a 20% lifetime discount coupon.&lt;/p&gt;
+
+&lt;p&gt;Thanks for your time. If you have any questions I&amp;#39;d be happy to answer them.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我已經買了一些副業...]]></title><description><![CDATA[我已經在這裏發過幾次帖子，購買副業和小型SaaS應用程序
+然後用我的團隊來建立它們（如果我可以的話）。我想試一試
+用一種不同的方式。
+
+以下是我所看到的。告訴我這是否熟悉...
+
+ * 開發者有一個想法，建立了一些了不起的東西....。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ou93d3/ive_bought_a_few_side_projects/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ou93d3/ive_bought_a_few_side_projects/</guid><pubDate>Fri, 30 Jul 2021 02:42:45 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve posted on here a few times buying side-projects and small SaaS applications and then using my team to build them up (if I can). I want to test the waters with a different way.&lt;/p&gt;
+
+&lt;p&gt;Here is what I have seen. Tell me if this is familiar...&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developer has a get idea, builds something awesome. Launches, and then crickets. If the building of it is the easy part, the remaining of sales and marketing just are not interesting. The project just becomes something on the resume, the domain renewed out of homage to dreams past.&lt;/li&gt;
+&lt;li&gt;A person is sitting there, has 200 people saying they like it, but no one answering surveys or questions except for 3 or 4. Gets depressing, the project is abandoned.&lt;/li&gt;
+&lt;li&gt;A non-technical person has a great idea, loses 10k in contractor in the middle of nowhere. The project is a mess, hair begins to fall out. Feeling like meme stocks are a better retirement fund.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ok, so I have advised, bought, chatted about all of those cases. Accelerators are neat but expect you to go full time, etc. &lt;/p&gt;
+
+&lt;p&gt;Here is what I generally do... I find a project in one of those three situations, I take it off their hands (buy), try to grow it with my own team. Focusing on making it mostly automated (nothing truly is), providing strong semi-passive income.&lt;/p&gt;
+
+&lt;p&gt;What I am looking for feedback on is how I could flip the paradigm. Partner with people that have a side project with promise. Then, work together to grow it to something that is a nice semi-passive income stream. Lastly, both benefitting from the sweat and success. &lt;/p&gt;
+
+&lt;p&gt;DM or comment, love to understand your thoughts.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[以自己的風格爲電子商務即時創建視頻/動畫內容]]></title><description><![CDATA[內容創作作爲尋找在社交媒體和博客上發佈的想法的一種方式，是企業家和營銷人員的最大挑戰。
+是企業家和營銷人員的最大挑戰。你可以想出一個
+你可以想出少量真正令人敬畏的東西，但將它們長期化是一項非常困難的任務。
+非常困難的任務。但是，如果出現了創造...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ou0o0g/instant_creating_videoanimated_content_for/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ou0o0g/instant_creating_videoanimated_content_for/</guid><pubDate>Thu, 29 Jul 2021 22:52:05 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Content creation as a way to find ideas for posting on social media and blogs is the biggest challenge for entrepreneurs and marketers. You can come up with a small number of really awesome things, but making them on a permanent basis is a very difficult task. But what if the task arises of creating not one, but several product cards in the same style?&lt;/p&gt;
+
+&lt;h1&gt;What is the solution?&lt;/h1&gt;
+
+&lt;p&gt;Here a simple thought immediately comes to mind - why not just make a template and just load individual elements and get high-quality content at the output. However, those who tried to follow this path met with some problems:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the post looks terrible when loading other elements;&lt;/li&gt;
+&lt;li&gt;you cannot edit an existing template;&lt;/li&gt;
+&lt;li&gt;each time to finalize the loaded elements when editing.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&amp;#x200B;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/9ikvmk8s7t671.jpg?width=1440&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=182e938118dcfb7c5cd21077cdf4e8ea78e7f42b&quot;&gt;https://preview.redd.it/9ikvmk8s7t671.jpg?width=1440&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=182e938118dcfb7c5cd21077cdf4e8ea78e7f42b&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As a result, it turns out that the time spent on creating your own post does not greatly outperform the template one if we need to edit it in one way or another for each position of the directory.&lt;/p&gt;
+
+&lt;h1&gt;What Pixiko offers?&lt;/h1&gt;
+
+&lt;p&gt;After the release of ready-made solutions in the form of templates, we decided to delve into this topic and create a whole catalog in the form of industry solutions for each business segment. And we started with the most popular topic - &lt;a href=&quot;https://pixiko.com/templates/ecommerce-online-stores&quot;&gt;e-commerce and online sales&lt;/a&gt;. Here you will find fully customizable video templates with elements of automatic adaptation of the content uploaded by the user.&lt;/p&gt;
+
+&lt;h1&gt;What are the common template problems you may encounter and how do we solve them?&lt;/h1&gt;
 
 &lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/n24zabkt7t671.jpg?width=1543&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=6c90250e7485fcac9a817a5abfa141a681629c81&quot;&gt;https://preview.redd.it/n24zabkt7t671.jpg?width=1543&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=6c90250e7485fcac9a817a5abfa141a681629c81&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我做了一個書籤應用，可以保存和發現與科技相關的點狀學習資源。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o5onv2/i_made_a_bookmarking_app_that_can_save_and/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o5onv2/i_made_a_bookmarking_app_that_can_save_and/</guid><pubDate>Tue, 22 Jun 2021 16:44:02 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我們剛剛發佈了我們的第一個應用程序。"Then - Activity & Mood Diary"。這是一個簡單、乾淨和平靜的應用程序，幫助你分析你如何花費你的時間以及你所做的事情如何影響你的情緒。現在可用於iOS：pupishi.com/then]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o5hmj6/weve_just_released_our_first_app_then_activity/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o5hmj6/weve_just_released_our_first_app_then_activity/</guid><pubDate>Tue, 22 Jun 2021 09:41:13 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我曾問過750多位創業公司的創始人。"你是如何想出你的想法的？" 以下是他們的答案。]]></title><description><![CDATA[首先，他們最常說的是
-
-"解決你自己的問題。意思是說，生活在技術的邊緣，看看你遇到什麼問題
-你所遇到的問題。然後建立一個創業公司來解決它。"
-
-我同意，而且我喜歡這樣。
-
-但這並不是你想要的全部答案。這些問題實際上來自哪裏？
-從何而來？
-
-1）我先來定義一下...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o54iaj/ive_asked_750_startup_founders_how_did_you_come/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o54iaj/ive_asked_750_startup_founders_how_did_you_come/</guid><pubDate>Mon, 21 Jun 2021 21:39:10 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;First, they most commonly say:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;quot;Solve your own problems. Meaning, live on the edge of tech and see what issues you encounter. Then build a startup to solve it.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;I agree, and I love that.&lt;/p&gt;
-
-&lt;p&gt;But it&amp;#39;s not the whole answer you want. Where do these problems actually come from?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; &lt;strong&gt;I’ll start by defining what a good startup idea looks like to me.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;It offers a meaningful benefit, such as:&lt;/p&gt;
-
-&lt;p&gt;• A big reduction of an intense/frequent frustration&lt;/p&gt;
-
-&lt;p&gt;• A big reduction in the cost of an expensive problem&lt;/p&gt;
-
-&lt;p&gt;• A big increase in how entertaining/emotional a thing is&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2) I call these 3x ideas&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;— ideas compelling enough to overcome the friction to try &amp;#39;em. Btw, some people say startups must be &amp;quot;10x better to succeed.&amp;quot; This is misleading.&lt;/p&gt;
-
-&lt;p&gt;For an app to be 10x better, than, say, Uber, it would have to straight up teleport you to your destination.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3) Examples of real 3x ideas:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;• Dropbox/Box: Cheaply share files without coordination or friction&lt;/p&gt;
-
-&lt;p&gt;• Instacart: Get groceries delivered—without a big cost premium&lt;/p&gt;
-
-&lt;p&gt;• Uber: Get a cab 3x faster, in 3x more locations, and for cheaper&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4) So, where do these 3x ideas come from?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;From the creation of new infrastructure—either technological or legal.&lt;/p&gt;
-
-&lt;p&gt;I keep an eye on this. For example:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;New technologies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You cannot customize any elements and timelines&lt;/strong&gt;Pixiko: &lt;em&gt;Our solutions allow you to change, customize templates absolutely for your tasks. It is good practice to borrow techniques from different templates to get new quality content.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Monotonous templates, I see them from my competitors&lt;/strong&gt;Pixiko: &lt;em&gt;This is absolute taste. Creating truly original content is a very creative and costly story. We discuss quick and everyday tasks that we can solve.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Badly design&lt;/strong&gt;Pixiko: &lt;em&gt;We offer a large number of templates, which is only growing every day. Therefore, you can choose truly worthy templates for yourself.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;For different formats (vertical, horizontal, square) templates lose their identity&lt;/strong&gt;Pixiko: &lt;em&gt;Creating a single adaptive template is a very labor-intensive task, so we first of all create the most popular formats, and then we scale.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Low engagement&lt;/strong&gt;Pixiko: &lt;em&gt;If you compare static content with animation, then the choice will be obvious not in favor of simple images. Therefore, we offer just video templates, which, according to statistics, have a lot of involvement and contribute to more variability of content for your account.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;And if I have a thousand products, how can I use the template&lt;/strong&gt;Pixiko: &lt;em&gt;We have a separate solution for this kind of problem, so you can contact us by mail. An entrepreneur sends his materials and we, using our template editor, create hundreds of content variations that he can immediately use on his website or in postponed posts of social networks.&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;• Fast mobile processors&lt;/p&gt;
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
 
-&lt;p&gt;• High-capacity batteries&lt;/p&gt;
+&lt;p&gt;I hope you will try and appreciate our new product. And we will be back soon with new updates on our service, despite the hot summer days 😄&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我們製作了一款移動探索遊戲，在訪問現實生活中的地方時，你可以賺取XP並提升級別]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ou320b/we_made_a_mobile_exploration_game_where_you_earn/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ou320b/we_made_a_mobile_exploration_game_where_you_earn/</guid><pubDate>Thu, 29 Jul 2021 19:11:10 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[簡潔和用戶友好的時間框任務管理器，用於處理你的任務。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/otx6ba/clean_and_userfriendly_timeboxed_task_manager_for/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/otx6ba/clean_and_userfriendly_timeboxed_task_manager_for/</guid><pubDate>Thu, 29 Jul 2021 14:22:39 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[掙扎着要完成那個副業？也許可以嘗試進入一個不同的常規。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/otuits/struggling_to_finish_that_side_project_maybe_try/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/otuits/struggling_to_finish_that_side_project_maybe_try/</guid><pubDate>Thu, 29 Jul 2021 11:49:55 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[ManaMoney：我的最小的資金管理器現在在MVP中! 反饋嗎？]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/otetv9/manamoney_my_minimal_money_manager_is_now_in_mvp/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/otetv9/manamoney_my_minimal_money_manager_is_now_in_mvp/</guid><pubDate>Thu, 29 Jul 2021 04:29:54 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[爲創造者提供更好的Linktree替代品 🎵]]></title><description><![CDATA[我和幾個朋友爲Instagram建立了一個鏈接產品，以幫助人們更好地展示他們的音樂內容。
+更好地展示他們的音樂內容，並在多個受衆中增加轉化率。
+讀者
 
-&lt;p&gt;• Cryptocurrency architecture&lt;/p&gt;
+希望得到你們的意見：https://mylinks.ai/
 
-&lt;p&gt;• VR&lt;/p&gt;
+爲Justin Bieber製作的例子：https://mylinks.ai/elainecovers
 
-&lt;p&gt;&lt;em&gt;2. Changes in the law&lt;/em&gt;&lt;/p&gt;
+我們還...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/otgdr7/better_linktree_alternative_for_creators/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/otgdr7/better_linktree_alternative_for_creators/</guid><pubDate>Thu, 29 Jul 2021 02:56:18 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Couple friends and I built a link in bio product for Instagram to help people better display their music content and increase conversion across multiple audiences&lt;/p&gt;
 
-&lt;p&gt;• Legalization of marijuana&lt;/p&gt;
+&lt;p&gt;Would love to get your guys&amp;#39; thoughts: &lt;a href=&quot;https://mylinks.ai/&quot;&gt;https://mylinks.ai/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;• Patents expiring (And 1,000 more infrastructure examples.)&lt;/p&gt;
+&lt;p&gt;Example made for Justin Bieber: &lt;a href=&quot;https://mylinks.ai/elainecovers&quot;&gt;https://mylinks.ai/elainecovers&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;When new technological/legal infrastructure emerges, startups pounce to productize the new 3x possibilities.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We also created a creator subreddit if you&amp;#39;d like to join: &lt;a href=&quot;https://www.reddit.com/r/mylinksapp/&quot;&gt;https://www.reddit.com/r/mylinksapp/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我創建了一個電子商務的視頻購物直播平臺，我們將在10分鐘內上線測試!]]></title><description><![CDATA[由於我知道Reddit上有很多企業家，我想從技術和商業的角度來看，你們中的一些人可能會感興趣。
+從技術和商業的角度來看，你們中的一些人可能會感興趣。我們正在
+我們的目標是美國市場，已經有一些品牌和有影響力的人對我們感興趣。
+有興趣加入我們的第一次生活。
 
-&lt;p&gt;Those possibilities fall into categories:&lt;/p&gt;
+在10分鐘內，（美國東部時間18:00...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/otjxa3/ive_created_a_live_video_shopping_platform_for/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/otjxa3/ive_created_a_live_video_shopping_platform_for/</guid><pubDate>Wed, 28 Jul 2021 23:50:25 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Since I know there are a lot of entrepreneurs at Reddit, I thought it would be of interest to some of you from a technology and business point of view. We are targeting the US market and already have some brands and influencers interested in joining us for our first lives.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;1. Cost reductions:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In 10 minutes, (18:00 EDT - New York Hour) we will be doing our first beta live&lt;/strong&gt;. If you have nothing to do, one of our co-founders will do a live demo to test the platform with people outside the team.&lt;/p&gt;
 
-&lt;p&gt;• Cheaper broadband enables cloud storage (Dropbox)&lt;/p&gt;
+&lt;p&gt;Link: &lt;a href=&quot;https://hellobrand.live/watch/?v=beta&quot;&gt;https://hellobrand.live/watch/?v=beta&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;• Cheaper batteries enables electric cars (Tesla)&lt;/p&gt;
+&lt;p&gt;This event is just to test and fix bugs so any feedback is appreciated!&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;2. Better functionality:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If you want to comment on something you will have to sign up :)&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我終於部署了我的第一個社交網站，這是我從頭開始開發的！我的網站是由我自己開發的。]]></title><description><![CDATA[我只是想分享一下，我終於完成了我的第一個社交網絡應用的MVP，名爲
+名爲www.korseas.com [https://www.korseas.com/]的社交網絡應用的MVP! I
+我一直把 "建立一個社交網絡 "放在我想做的事情的清單上。
+所以我很高興終於推出了一個。
 
-&lt;p&gt;• Smartphones and 3G spawned the mobile era&lt;/p&gt;
+I...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/osvgxc/i_have_finally_deployed_my_first_social_network/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/osvgxc/i_have_finally_deployed_my_first_social_network/</guid><pubDate>Wed, 28 Jul 2021 21:12:00 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I just wanted to share that I have finally completed the MVP for my first ever Social Network application named &lt;a href=&quot;https://www.korseas.com/&quot;&gt;www.korseas.com&lt;/a&gt;! I always had &amp;quot;Building a Social Network&amp;quot; on my bucket list of things I wanted to try out, so I am very excited to have finally launched one.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;3. Brand new categories:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I am aware that it will take a lot of effort to make this site become an income stream, but to be honest, my goal is to build a site that actually benefits/impacts people and adds at least a bit of value to this world. That&amp;#39;s what keeps me going :)&lt;/p&gt;
 
-&lt;p&gt;• The legalization of marijuana spawned weed stores and weed delivery apps (And more.)&lt;/p&gt;
+&lt;p&gt;The elephant in the room is that I feel like my UI/UX skills are not doing justice to the work needed for all the rest. So that will be my focus from now on.&lt;/p&gt;
 
-&lt;p&gt;So takeaway number one is that new infrastructure spawns startups.&lt;/p&gt;
+&lt;p&gt;For those interested the tech stack I used was:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;5)&lt;/strong&gt; &lt;strong&gt;But, we&amp;#39;re not done.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;React (JS), Javalin (Java) and MongoDB (Java driver). For the analytics I am using Google Analytics.&lt;/p&gt;
 
-&lt;p&gt;For those ideas to survive in the market, I believe you need another criterion:&lt;/p&gt;
+&lt;p&gt;I wish the best to the people who are working hard on their side projects!&lt;/p&gt;
 
-&lt;p&gt;Cultural acceptance. Society has to be ready for you:&lt;/p&gt;
+&lt;p&gt;Oh also, everyone is welcome to use the site, not only Koreans living abroad :)&lt;/p&gt;
 
-&lt;p&gt;Here are startups that became possible through changes in societal behavior.&lt;/p&gt;
+&lt;p&gt;Any comments/feedbacks/questions are much appreciated! Thank you.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我剛剛發佈了由人工智能驅動的播客名稱生成器，對60多萬個播客名稱和描述進行了培訓]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ot54fp/i_just_released_aipowered_podcast_name_generator/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ot54fp/i_just_released_aipowered_podcast_name_generator/</guid><pubDate>Wed, 28 Jul 2021 08:42:28 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[text-tree-generator.com - 一個小型的在線漂亮文本（ASCII）樹生成器。]]></title><description><![CDATA[最近，我在工作中一直在做markdown文檔，需要一些東西來爲目錄結構生成漂亮的樹。
+的東西來爲目錄結構生成漂亮的樹。有幾個
+但在我不小心關閉瀏覽器標籤而丟失了我的樹之後
+瀏覽器標籤而丟失了我的樹，或者不得不把 "源文件 "存儲在一個單獨的文件中，以備...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oso3vq/texttreegeneratorcom_a_small_online_generator_for/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oso3vq/texttreegeneratorcom_a_small_online_generator_for/</guid><pubDate>Wed, 28 Jul 2021 02:35:29 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Lately I have been working on markdown documentation at work and needed something to generate pretty trees for directory structures. There are several such tools available, but after losing my tree by accidentally closing the browser tab or having to store the &amp;quot;source&amp;quot; in a separate file for editing later, I decided to make my own version: &lt;a href=&quot;https://www.text-tree-generator.com/&quot;&gt;https://www.text-tree-generator.com/&lt;/a&gt; &lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;1. Pop culture making behaviors less cool:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Maybe you&amp;#39;ll find it useful next time you need to create some docs ;)&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我的副業正在變成一個蓬勃發展的初創企業! 願意向月球衆籌嗎？]]></title><description><![CDATA[大家好。迎接https://shopocratic.com 一個零庫存的電子商務市場，該市場
+始終提供免費送貨，並接受加密貨幣作爲付款。
 
-&lt;p&gt;• Cigarettes go out of style, so we get nicotine and vaping&lt;/p&gt;
+我們有一個偉大的頂級供應商名單，並每天增加產品
+並且已經成爲美國Alexa排名前10K的網站。
 
-&lt;p&gt;• Heavy drinking goes out of style, so we get low-alcohol seltzers&lt;/p&gt;
+爲了...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/osh5g2/my_side_projects_is_turning_into_a_flourishing/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/osh5g2/my_side_projects_is_turning_into_a_flourishing/</guid><pubDate>Tue, 27 Jul 2021 22:20:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi all. Meet &lt;a href=&quot;https://shopocratic.com&quot;&gt;https://shopocratic.com&lt;/a&gt; a zero inventory ecommerce marketplace that provides free shipping always and accepts crypto currencies as payments.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;2. Mobile apps making it more normal to trust strangers:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;#39;re got a great list of top tier vendors lined up and adding products everyday and already the top 10K sites in USA acc. to Alexa.&lt;/p&gt;
 
-&lt;p&gt;• The rise of Uber, Airbnb, Tinder, and couchsurfing better acclimated society to trusting people they’ve only met over the Internet. This next part is important:&lt;/p&gt;
+&lt;p&gt;In order to scale up our growth, we&amp;#39;re taking the VC route and looking to crowdfund on Wefunder at: &lt;a href=&quot;https://wefunder.com/shopocratic/&quot;&gt;https://wefunder.com/shopocratic/&lt;/a&gt; as a pre-seed round with attractive incentives (Lower valuation and Perpetual Discounts for early investors). Feel free to schedule a call with me here if you&amp;#39;re interested in learning more about the company :) &lt;a href=&quot;https://calendly.com/tj-shopocratic/15min&quot;&gt;https://calendly.com/tj-shopocratic/15min&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;6) Implication&lt;/strong&gt;: Study changes in infrastructure plus shifts in cultural acceptance to identify what’s newly possible in your market. Here&amp;#39;s an example:&lt;/p&gt;
+&lt;p&gt;Cheers folks!&lt;br/&gt;
+TJ&lt;br/&gt;
+&lt;a href=&quot;https://tejas.expert&quot;&gt;https://tejas.expert&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[RateCollegeClubs - 學生製作的大學俱樂部評論網站]]></title><description><![CDATA[在過去一個月裏，我創建了RateCollegeClubs.com網站
+[https://RateCollegeClubs.com]，類似於RateMyProfessor，但針對大學俱樂部。
+俱樂部。大學生們可以搜索他們的學校和俱樂部，然後閱讀其他學生留下的評論。
+其他學生的評論。在我大一的時候，我瀏覽了一份...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ostp18/ratecollegeclubs_student_made_website_for_college/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ostp18/ratecollegeclubs_student_made_website_for_college/</guid><pubDate>Tue, 27 Jul 2021 21:43:27 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Over the past month, I have created the website &lt;a href=&quot;https://RateCollegeClubs.com&quot;&gt;RateCollegeClubs.com&lt;/a&gt;, pretty much RateMyProfessor but for college clubs. College students can search their school and club, then read reviews left by other students. During my freshman year, I went through a list of literally 1600 clubs just to figure out which clubs to join. Then, I sat through a couple boring ClubFest Zoom calls just to figure out I didn&amp;#39;t want to join the club anyways. As a result, I developed this and hopefully we can get enough reviews to make the website useful for other students. If you are/were involved in any clubs in college, leave some reviews!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[發佈我的無代碼組合網站建設工具--完全免費（Alpha版]]></title><description><![CDATA[網站 - https://launchweb.me [https://launchweb.me/] 🚀
 
-&lt;ol&gt;
-&lt;li&gt;Uber saw that widespread smartphone adoption with accurate GPS data made it possible to replace taxis with gig workers.&lt;/li&gt;
-&lt;/ol&gt;
+背景故事 -作爲一名UI/UX開發人員，我從事創建大量的
+網站。很快，從頭開始創建和維護這些網站是一件痛苦的事情
+所以，我轉而使用無代碼工具。
 
-&lt;p&gt;Cultural acceptance was needed here—because it was unorthodox to step into a stranger&amp;#39;s car and entrust them with your safety.&lt;/p&gt;
+在使用了幾乎所有的無代碼網站建設工具後，我...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/osro4u/released_my_nocode_portfolio_website_builder/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/osro4u/released_my_nocode_portfolio_website_builder/</guid><pubDate>Tue, 27 Jul 2021 20:49:33 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Website - &lt;a href=&quot;https://launchweb.me/&quot;&gt;https://launchweb.me&lt;/a&gt; 🚀&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;7) Okay, so let&amp;#39;s turn all this into a framework.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A bit of a back story -As a UI/UX developer, I work on creating a lot of websites. Soon, creating and maintaining these websites from scratch was a pain so, I shifted to no-code tools.&lt;/p&gt;
 
-&lt;p&gt;Here&amp;#39;s just one way to find startup ideas.&lt;/p&gt;
+&lt;p&gt;Having used almost all the no-code website builders, I noticed that; they were a lot difficult to use.You either had to watch a ton of tutorials to understand them or hire an expert to build a website for you. Both of which cost you time and money.&lt;/p&gt;
 
-&lt;p&gt;Step 1: Spot upcoming infrastructure&lt;/p&gt;
+&lt;p&gt;Moreover, if you are not a designer or a coder, you will have to buy a website template, which again does not come cheap. And you will also have to pay the website builder&amp;#39;s subscription charges.&lt;/p&gt;
 
-&lt;p&gt;Step 2: Determine if market entry is now possible&lt;/p&gt;
+&lt;p&gt;So I created Launchweb to tackle these problems.&lt;/p&gt;
 
-&lt;p&gt;Step 3: Explore second-order ideas too&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First, our editor is simple to use. You need not watch any tutorials to understand it. You can directly jump in and start customizing your website.&lt;/li&gt;
+&lt;li&gt;Instead of choosing a whole website template, Launchweb offers templates of different sections on a website. We have templates for ABOUT, PROJECTS, BLOGS, CONTACT US sections. You can use these templates as building blocks to create a unique portfolio. Kind of like lego 😄&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;8) Second, when another startup captures a 3x benefit,&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Launchweb is currently in its initial stages, but it can do the job for you. I am constantly working on improving the user experience &amp;amp; adding new features. I am also looking for alpha testers for feedback. So please do try it out and let me know what you think of it.&lt;/p&gt;
 
-&lt;p&gt;it typically produces many downstream 2x ideas.&lt;/p&gt;
+&lt;p&gt;P.S: I will be building this in public and will be sharing my journey on Twitter. So do give a follow if you are interested.(&lt;a href=&quot;https://twitter.com/zohaibsak&quot;&gt;https://twitter.com/zohaibsak&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[匿名、無自拍、無濾鏡的圖片分享應用]]></title><description><![CDATA[每天一次，你會收到一個通知，然後你有5分鐘時間拍下你周圍的東西。
+你身邊的東西。
 
-&lt;p&gt;This is a key point.&lt;/p&gt;
+沒有自拍，沒有過濾器，沒有朋友...... 每張照片都是匿名的，而且你可以看到
+看到世界各地人們生活中的真實時刻......]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ostplh/anonymous_no_selfie_no_filter_picture_sharing_app/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ostplh/anonymous_no_selfie_no_filter_picture_sharing_app/</guid><pubDate>Tue, 27 Jul 2021 20:37:15 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Once a day you get a notification, you then have 5 minutes to take a picture of what&amp;#39;s around you.&lt;/p&gt;
 
-&lt;p&gt;For example, now that millions use 3x products like Slack, Zoom, and Uber, what tools could make them less expensive, more reliable, more collaborative?&lt;/p&gt;
+&lt;p&gt;No selfies, no filters, no friends... Every picture is anonymous, and you get to see real life moments in the lives of people all around the world !&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;9) To recap:&lt;/strong&gt; One way to find startup ideas is to study infrastructure (3x ideas) and observe what emerges from startups that tackle that infrastructure (2x ideas).&lt;/p&gt;
+&lt;p&gt;iOS: &lt;a href=&quot;https://apps.apple.com/us/app/seal/id1539034522&quot;&gt;https://apps.apple.com/us/app/seal/id1539034522&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;💡 Tip:&lt;/em&gt; If you enjoyed this then maybe I can tempt you with my Twitter page where I write daily insights on startups investing like this. &lt;a href=&quot;https://twitter.com/__Uplift&quot;&gt;&lt;em&gt;Learn more →&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我建立了Moodmonk，這是一個幫助你進入積極情緒的應用程序，每天都有反思、積極的肯定和數以百計的練習! 現在可用於iOS：moodmonk.app]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o4sk84/ive_built_moodmonk_an_app_that_helps_you_get_into/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o4sk84/ive_built_moodmonk_an_app_that_helps_you_get_into/</guid><pubDate>Mon, 21 Jun 2021 20:11:56 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我們最近建立了一個簡單的應用程序，幫助你自動建立你的業務、想法或副業的品牌，並對其進行持續管理。這就是所謂的brandynth.com。我們非常感謝您的反饋 :) (並有可能獲得獎勵！)]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o4odkf/weve_recently_built_a_simple_application_that/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o4odkf/weve_recently_built_a_simple_application_that/</guid><pubDate>Mon, 21 Jun 2021 08:57:37 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我們已經建立了一個簡單的極簡主義應用程序來組織你的生活。它被稱爲 "組織你的生活"（OYL）反饋非常感謝👉🏾 oylapp.com]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o49ieh/weve_built_a_simple_minimalistic_app_to_organize/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o49ieh/weve_built_a_simple_minimalistic_app_to_organize/</guid><pubDate>Sun, 20 Jun 2021 19:12:13 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[一個個人時間管理器，將你的時間安排爲工作、休息和自由時間。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o3wz1u/a_personal_time_manager_that_arranges_your_time/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o3wz1u/a_personal_time_manager_that_arranges_your_time/</guid><pubDate>Sun, 20 Jun 2021 06:29:27 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[爲創作者提供更好的Linktree生物體內鏈接替代方案]]></title><description><![CDATA[我和幾個朋友建立了一個鏈接的生物產品，以幫助創作者更好地展示他們的內容，提高轉化率。
-他們的內容，提高轉換率，並跟蹤分析整個社會媒體的
-渠道的分析，都在一個鏈接上。
+&lt;p&gt;android: &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.appseal.seal&quot;&gt;https://play.google.com/store/apps/details?id=com.appseal.seal&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我幾周前創建的簡單句子挖掘工具的教程視頻，該工具可從句子中快速生成詞彙卡片]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/osm7k7/tutorial_video_for_simple_sentence_mining_tool_i/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/osm7k7/tutorial_video_for_simple_sentence_mining_tool_i/</guid><pubDate>Tue, 27 Jul 2021 14:21:22 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[更新：我在sideproject上發佈了關於我的youtube頻道的想法，得到了很好的迴應。謝謝你的支持!]]></title><description><![CDATA[我早些時候發帖說，我想審查你的副業，並將其記錄下來，以便
+樂趣。我得到了相當好的迴應。
 
-很想知道你們的想法：bytesize.me [https://bytesize.me/]
+這是我審查鏈接的視頻。(有些我推到第三集)
 
-示例：https://bytesize.me/postmalone]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o3pwjg/better_linktree_link_in_bio_alternative_for/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o3pwjg/better_linktree_link_in_bio_alternative_for/</guid><pubDate>Sun, 20 Jun 2021 03:27:58 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Couple friends and I built a link in bio product to help creators better display their content, increase conversion, and track analytics across social media channels all on one link.&lt;/p&gt;
+第二集：嘗試：everyhour, drop ball, answerly, reviews, pistobot,
+inmout,...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/os6n0v/update_i_posted_on_sideproject_about_my_youtube/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/os6n0v/update_i_posted_on_sideproject_about_my_youtube/</guid><pubDate>Tue, 27 Jul 2021 11:50:57 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I posted earlier that I wanted to review your sideprojects and record it for fun. I got a pretty good response. &lt;/p&gt;
 
-&lt;p&gt;Would love to get your guys&amp;#39; thoughts: &lt;a href=&quot;https://bytesize.me/&quot;&gt;bytesize.me&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here&amp;#39;s the video of me reviewing the links. (Some I pushed to episode 3)&lt;/p&gt;
 
-&lt;p&gt;Example: &lt;a href=&quot;https://bytesize.me/postmalone&quot;&gt;https://bytesize.me/postmalone&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我做了一個網絡應用，把推文轉換成圖片，在社交媒體上分享 - snaptweets.com]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o3bj63/i_made_a_web_app_to_convert_tweets_into_images/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o3bj63/i_made_a_web_app_to_convert_tweets_into_images/</guid><pubDate>Sat, 19 Jun 2021 19:25:43 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[算法上的戰利品最大化器]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o345sy/algorithmic_booty_maximiser/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o345sy/algorithmic_booty_maximiser/</guid><pubDate>Sat, 19 Jun 2021 02:59:38 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我製作了一個名爲 "彩孔與積木 "的桌球遊戲。請讓我知道你對它的看法。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o2om0l/i_have_made_a_table_hole_game_called_color_hole/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o2om0l/i_have_made_a_table_hole_game_called_color_hole/</guid><pubDate>Fri, 18 Jun 2021 20:40:45 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我們做了一個網站，你可以錄製4K視頻播客!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o2q6lp/we_made_a_website_where_you_can_record_4k_video/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o2q6lp/we_made_a_website_where_you_can_record_4k_video/</guid><pubDate>Fri, 18 Jun 2021 18:33:19 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[自動在線銀行管理跟蹤器]]></title><description><![CDATA[目前有一些撲克軟件解決方案允許你這樣做
-目前有一些撲克軟件解決方案，可以讓你通過記錄現場或在線撲克的每個會話來做到這一點。
-我一直在努力製作一個在線銀行資金追蹤器，它將自動收集這一環節的數據。
-我一直在努力製作一個在線銀行資金追蹤器，它可以自動收集這些會話數據，讓用戶輕鬆追蹤和分析你的撲克...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o2lnzt/automatic_online_bankroll_management_tracker/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o2lnzt/automatic_online_bankroll_management_tracker/</guid><pubDate>Fri, 18 Jun 2021 13:42:31 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There are currently a number of poker software solutions that allow you to do this by logging each session of live or online poker -- &lt;strong&gt;I have been working on making an online bankroll tracker which would automatically collect this session data allowing users to easily&lt;/strong&gt; track and analyze your poker performance.&lt;/p&gt;
+&lt;p&gt;Episode 2: Trying out: everyhour, drop ball, answerly, reviews, pistobot, inmout, marketfly.&lt;/p&gt;
 
-&lt;p&gt;Features I am planning on implementing would include past session tracking, game selection controls and Bankroll variation statistics etc. including multiple currencies support, Risk of ruin calculations including both online &amp;amp; live bankrolls options for custom transactions types with direct linking between your session and transactions and the option for users specific date filtering.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=-tfKh-ELctQ&quot;&gt;https://www.youtube.com/watch?v=-tfKh-ELctQ&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;I will shortly be looking for Beta users &amp;amp; would love to get your feedback and any features you would like to be added :)&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[多重宇宙，由你和AI編寫]]></title><description><![CDATA[大家好。我是一名程序員，也是一名科幻小說愛好者。從小到大，我對建造一個真正的智能機器的想法非常着迷。
-我從小就對建造一個真正的智能機器的想法非常着迷。
-就像電影 "百年好合 "中的家政機器人安德魯或 "逐出天堂 "中的SETTLER。
-"被驅逐出天堂（Rakuen Tsuihō）"中的SETTLER。畢業後，我...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o22dah/multiverse_written_by_you_and_ai/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o22dah/multiverse_written_by_you_and_ai/</guid><pubDate>Thu, 17 Jun 2021 20:25:10 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello, everyone. I am a programmer and also a science fiction enthusiast. From childhood, I am fascinated by the idea of building a real-intelligent machine, like housekeeping-robot Andrew in the movie &amp;quot;Bicentennial Man&amp;quot; or SETTLER in “Expelled from Paradise (Rakuen Tsuihō)”. After graduating, I made a lot of practical software, but my inner flame of artificial intelligence has never been extinguished. My new app &lt;a href=&quot;https://dreamily.ai&quot;&gt;dreamily.ai&lt;/a&gt; may make it possible to see a ray of light into these dreams.&lt;/p&gt;
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
 
-&lt;p&gt;Language can plot scenes, and a language model which can predict what will happen is a world simulator. For example, you can create a scene in outer space :&lt;/p&gt;
+&lt;p&gt;Here&amp;#39;s the link to the original post&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Alpha Centauri, the 13th fleet of the Free Planet Alliance is moving through here very carefully.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/oq8emc/i_started_a_youtube_channel_where_i_try_side/&quot;&gt;https://www.reddit.com/r/SideProject/comments/oq8emc/i_started_a_youtube_channel_where_i_try_side/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[剛剛啓動了我們的第一個副業項目!]]></title><description><![CDATA[嘿，夥計們。
 
-&lt;p&gt;the AI will continue to write:&lt;/p&gt;
+我們剛剛啓動了我們的第一個副業項目，名爲Next Mockup。我們真的希望
+聽到你的反饋，謝謝。
 
-&lt;p&gt;&lt;em&gt;They&amp;#39;re not sure if they want to make a big mistake and attract more attention than necessary. This is just their second attempt to find this new star system, the one that was supposedly inhabited by some sort of sentient life, but it&amp;#39;s proving unsuccessful. They&amp;#39;ve been searching for weeks now without any luck at all&lt;/em&gt;&lt;/p&gt;
+https://www.nextmockup.com/]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/os4953/just_launched_our_first_side_project/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/os4953/just_launched_our_first_side_project/</guid><pubDate>Tue, 27 Jul 2021 02:46:07 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey Guys,&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/uv81dbgdru571.png?width=2446&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8d0ff747331e52464d38b25f5f38581b888839ce&quot;&gt;https://preview.redd.it/uv81dbgdru571.png?width=2446&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8d0ff747331e52464d38b25f5f38581b888839ce&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We just launched our first side project called Next Mockup. We would really like to hear your feedback, thanks.&lt;/p&gt;
 
-&lt;p&gt;What will happen next? You can interact with AI and add a line:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nextmockup.com/&quot;&gt;https://www.nextmockup.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我的副業變成了創業公司 剛剛啓動了一個副業! 現在就報名參加測試! Zest爲團隊（遠程、混合或現場）提供精心策劃的小規模活動，供其享用]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/osa783/my_side_project_turned_startup_just_launched_a/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/osa783/my_side_project_turned_startup_just_launched_a/</guid><pubDate>Tue, 27 Jul 2021 02:21:08 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[SwipeTwitch，首次出現在世界範圍內]]></title><description><![CDATA[嘿，夥計們，我的名字叫謝爾蓋，我是一名軟件開發人員!
 
-&lt;p&gt;&lt;em&gt;Suddenly, a spaceship of unknown origin appeared on the radar&lt;/em&gt;&lt;/p&gt;
+很久以前，我有一個想法，如果你把你對Twitch的喜愛和這種方便的瀏覽方式結合起來
+的Twitch和TikTok這樣一個方便的觀看格式。
 
-&lt;p&gt;What will happen next? in Universe #1, they hide:&lt;/p&gt;
+太好了！https://swipetwitch.com/
 
-&lt;p&gt;&lt;em&gt;Suddenly, a spaceship of unknown origin appeared on the radar and quickly moved in their direction. Their ships slowed down to avoid being noticed. After a few hours, when they were certain that the ship hadn&amp;#39;t spotted them&lt;/em&gt;&lt;/p&gt;
+我想在下週錄製一個視頻，介紹如何操作這一切，並嘗試...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orzbu8/swipetwitch_first_appearance_in_the_world/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orzbu8/swipetwitch_first_appearance_in_the_world/</guid><pubDate>Mon, 26 Jul 2021 22:34:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey folks, my name is Sergey and I am a software developer!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/v4175j4buu571.png?width=2236&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ec562a9ceca24c33197ed50ffc2087088d63fd9f&quot;&gt;https://preview.redd.it/v4175j4buu571.png?width=2236&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ec562a9ceca24c33197ed50ffc2087088d63fd9f&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A very long time ago, I had an idea on the shelf that if you combine your love for Twitch and such a convenient viewing format as TikTok.&lt;/p&gt;
 
-&lt;p&gt;in Universe #2, they fight:&lt;/p&gt;
+&lt;p&gt;Great! &lt;a href=&quot;https://swipetwitch.com/&quot;&gt;https://swipetwitch.com/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;They were ready to call in reinforcements from Alpha Centauri when the ship made a sharp turn and headed straight towards them. The sensors went crazy with warnings, and as Alpha Centauri fired on it, it disappeared into a ball of fire. It wasn&amp;#39;t long before the first wave of ships started appearing behind it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I want to record a video next week on how to work all this and try to post it on ProductHunt.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/me82eg3iuu571.png?width=2218&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=65c761e87420aed8debed62fc8adab5746bf57ba&quot;&gt;https://preview.redd.it/me82eg3iuu571.png?width=2218&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=65c761e87420aed8debed62fc8adab5746bf57ba&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Get luck hackers!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[找到了這個網站，可以輕鬆地將推文變成圖片，分享到其他社交媒體，如facebook、instagram或linkedin。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/os5pzv/found_this_site_that_easily_turns_tweets_into/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/os5pzv/found_this_site_that_easily_turns_tweets_into/</guid><pubDate>Mon, 26 Jul 2021 22:14:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[剛剛啓動了我的第一個副業項目!]]></title><description><![CDATA[嘿，夥計們。
 
-&lt;p&gt;You can click &amp;quot;Go on&amp;quot; to get to the next part of the story. Or you can dive into a new magical world like:&lt;/p&gt;
+我剛剛在Product Hunt上推出了我的第一個副業項目，叫做Coursenest。
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/epji2qnhvu571.png?width=574&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=787dfdf71be8a5cf3366193970b0d4a6dc65b1af&quot;&gt;https://preview.redd.it/epji2qnhvu571.png?width=574&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=787dfdf71be8a5cf3366193970b0d4a6dc65b1af&lt;/a&gt;&lt;/p&gt;
+我真的很感謝一些反饋
 
-&lt;p&gt;You can chat with your housekeeping-robot Andrew:&lt;/p&gt;
+https://www.producthunt.com/posts/coursenest
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/jncfgtq3wu571.png?width=1422&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=eeca421b1597282705b288e6f596b61f5fda6d20&quot;&gt;https://preview.redd.it/jncfgtq3wu571.png?width=1422&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=eeca421b1597282705b288e6f596b61f5fda6d20&lt;/a&gt;&lt;/p&gt;
+祝你有個愉快的一天]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orw6ju/just_launched_my_first_side_project/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orw6ju/just_launched_my_first_side_project/</guid><pubDate>Mon, 26 Jul 2021 22:14:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey Guys,  &lt;/p&gt;
 
-&lt;p&gt;The only thing that limited the ability of &lt;a href=&quot;https://dreamily.ai&quot;&gt;dreamily.ai&lt;/a&gt; is your imagination.&lt;/p&gt;
+&lt;p&gt;I just launched my first side project called Coursenest on Product Hunt.  &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://dreamily.ai&quot;&gt;dreamily.ai&lt;/a&gt; is Free and Powerful, but I don&amp;#39;t know what will happen next after I post this first introduction of &lt;a href=&quot;https://dreamily.ai&quot;&gt;dreamily.ai&lt;/a&gt;. I hope you enjoy my work, create your multiverse, report bugs, improve AI together with me, and may AI makes our life better.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我做了WordPress黑暗模式插件]]></title><description><![CDATA[https://i.redd.it/qgiwx89c8s571.gif
+&lt;p&gt;I&amp;#39;d really appreciate some feedback!&lt;/p&gt;
 
-由於黑暗模式是非常時尚的，每個人都喜歡在黑暗模式下使用應用程序/網站。
-模式。所以最近，我的團隊開發並推出了一個新的WordPress插件。
-它已經在wordpress.org上達到了1000個活躍安裝量。如果你是一個
-WordPress用戶，那麼我請你...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o1rp9a/i_made_wordpress_dark_mode_plugin/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o1rp9a/i_made_wordpress_dark_mode_plugin/</guid><pubDate>Thu, 17 Jun 2021 13:11:56 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.producthunt.com/posts/coursenest&quot;&gt;https://www.producthunt.com/posts/coursenest&lt;/a&gt;  &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://i.redd.it/qgiwx89c8s571.gif&quot;&gt;https://i.redd.it/qgiwx89c8s571.gif&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Have a great day!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我非常喜歡我的小狗，我是一個有點老派的人；這就是爲什麼我喜歡繪畫而不是數碼照片的原因。]]></title><description><![CDATA[https://impersonateme.com/collections/custom-pet-portraits]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/os1lz6/i_love_my_doggo_very_much_and_im_a_bit_of_an/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/os1lz6/i_love_my_doggo_very_much_and_im_a_bit_of_an/</guid><pubDate>Mon, 26 Jul 2021 19:18:12 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://impersonateme.com/collections/custom-pet-portraits&quot;&gt;https://impersonateme.com/collections/custom-pet-portraits&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[今天推出了MojoAuth Product Hunt，你最喜歡的免費無密碼認證解決方案。]]></title><description><![CDATA[大家好！！😀
 
-&lt;p&gt;As the dark mode is very trendy and everyone loves to use apps/websites in dark mode. So recently, my team developed and launch a new WordPress plugin and already it hits 1000 active installations on wordpress.org.  If you are a WordPress user then I asked you to check the plugin and provide your valuable feedback.&lt;/p&gt;
+今天是個好日子。我們在MojoAuth超級興奮，因爲我們將在今天推出第一個
+今天首次在Product Hunt上推出。🚀
 
-&lt;p&gt;Free download: &lt;a href=&quot;https://wordpress.org/plugins/droit-dark-mode/&quot;&gt;https://wordpress.org/plugins/droit-dark-mode/&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我做了MotionMonkey🐵，一個基於開源技術的精簡版Youtube和Torrent播放器。在PlayStore上有售。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o107qp/i_made_motionmonkey_a_streamlined_youtube_and/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o107qp/i_made_motionmonkey_a_streamlined_youtube_and/</guid><pubDate>Wed, 16 Jun 2021 13:14:26 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[3個月了。以下是我對WeWatch所做的用戶體驗改進，我的應用程序可以讓你在你想看的電影上滑動，並與你的朋友找到匹配的電影。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o0nrdt/3_months_in_here_are_the_ux_improvements_ive_made/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/o0nrdt/3_months_in_here_are_the_ux_improvements_ive_made/</guid><pubDate>Wed, 16 Jun 2021 05:53:24 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+MojoAuth是一個無密碼認證解決方案，可以幫助你讓你的
+用戶在登錄時無需記住或輸入密碼，這反過來...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orvbpe/launched_mojoauth_product_hunt_today_your/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orvbpe/launched_mojoauth_product_hunt_today_your/</guid><pubDate>Mon, 26 Jul 2021 19:18:12 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey all!! 😀&lt;/p&gt;
+
+&lt;p&gt;Today is the day. And we’re super excited here at MojoAuth because we&amp;#39;re launching today for the first time on Product Hunt. 🚀&lt;/p&gt;
+
+&lt;p&gt;MojoAuth is a passwordless authentication solution that helps you to allow your users to login without remembering or typing password, which in turn provides stronger security to your business.&lt;/p&gt;
+
+&lt;p&gt;We’re on a mission to eliminate the need to generate a password and reduce the security risk associated with it and secure the identity of every person on the internet!&lt;/p&gt;
+
+&lt;p&gt;If you like our vision and what we&amp;#39;re building, we&amp;#39;d be grin from ear to ear if we could count on your support! 😻&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.producthunt.com/posts/mojoauth&quot;&gt;https://www.producthunt.com/posts/mojoauth&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Let your friends and community know about us. Your support and feedback mean a lot to us.🙂&lt;/p&gt;
+
+&lt;p&gt;A huge thank you, friends❤️&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[搔搔我自己的癢。與我附近的其他遠程工作者/數字遊民見面，喝杯咖啡。與孤獨作鬥爭。]]></title><description><![CDATA[我創辦Pipewing[https://pipewing.com/]是因爲我非常喜歡遠程工作。
+遠程工作。但它會不時地感到孤獨。我在想，爲什麼不
+我們爲什麼不利用數字世界來創造現實生活中的聯繫？]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orz0jo/scratching_my_own_itch_meeting_other_remote/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orz0jo/scratching_my_own_itch_meeting_other_remote/</guid><pubDate>Mon, 26 Jul 2021 14:19:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I started &lt;a href=&quot;https://pipewing.com/&quot;&gt;Pipewing&lt;/a&gt; because I really like working remotely. But it can feel lonely from time to time. I was wondering, why don&amp;#39;t we use the digital world to create real-life connections?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[🎥🎉推出! - Pyro - 創建你自己的私人YouTube平臺--零編碼發展你自己的視頻社區。]]></title><description><![CDATA[嘿，夥計們！！！。
+
+https://www.pyro.app
+
+Pyro是一個工具，可以讓你創建自己的私人YouTube。如果你曾經
+想擁有一個圍繞利基話題的視頻社區，那麼Pyro就是你的答案。
+答案。有了Pyro，你就創建了一個網站。在這個網站上，你可以
+
+ * 提交視頻 - 您網站的訪問者也可以...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ort17c/launched_pyro_create_your_very_own_private/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ort17c/launched_pyro_create_your_very_own_private/</guid><pubDate>Mon, 26 Jul 2021 11:30:27 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey guys!!!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.pyro.app&quot;&gt;https://www.pyro.app&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pyro is a tool that will let you create your own private YouTube. If you ever wanted to own a video-based community around niche topics, then Pyro is the answer. With a Pyro, you create a site. On this site you can&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submit videos - visitors to your site can also submit videos and you also have an option to review &amp;amp; approve videos.&lt;/li&gt;
+&lt;li&gt;Videos can also be added by letting Pyro search niche keywords your site is related to&lt;/li&gt;
+&lt;li&gt;All the social features are included - playlist, comments, saving etc.&lt;/li&gt;
+&lt;li&gt;Integrate with third-party tools (chatbots, Twitter etc)&lt;/li&gt;
+&lt;li&gt;Send out newsletters to your community&lt;/li&gt;
+&lt;li&gt;Apply your own design themes &amp;amp; styles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check out the the following sites that are created based on Pyro&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dataplot.co&quot;&gt;https://www.dataplot.co&lt;/a&gt; - (Data science specific community)&lt;br/&gt;
+&lt;a href=&quot;https://stand-ups.pyro.app/&quot;&gt;https://stand-ups.pyro.app&lt;/a&gt; (collection of standup comedies)&lt;br/&gt;
+&lt;a href=&quot;http://ifihadglass.com/&quot;&gt;http://ifihadglass.com&lt;/a&gt; (AR related videos)&lt;/p&gt;
+
+&lt;p&gt;We are running public beta at the moment so you&amp;#39;re welcome to give it a try for free. We will always have a free-tier too.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[200美元以上，我的第一個副業項目! - 瀏覽器擴展支付]]></title><description><![CDATA[[ExtensionPay](https://extensionpay.com)至今已賺取了超過200美元，其中100美元爲
+其中100美元是在過去30天裏賺到的! 它已經爲我的用戶賺取了超過4000美元! 嗚呼! 這就是
+開始感覺像真正的錢了! 每隔幾天就有一個新的註冊者。
+所以，我感覺到牽引力已經開始出現了。
+
+ExtensionPay...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orvi9x/200_with_my_first_side_project_browser_extension/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orvi9x/200_with_my_first_side_project_browser_extension/</guid><pubDate>Mon, 26 Jul 2021 11:14:52 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;[ExtensionPay](&lt;a href=&quot;https://extensionpay.com&quot;&gt;https://extensionpay.com&lt;/a&gt;) has made over $200 to date with $100 of that in the last 30 days! And it&amp;#39;s made over $4000 for my users! Woo! This is starting to feel like real money! There&amp;#39;s also a new signup every couple days, so it feels like traction is starting to happen.&lt;/p&gt;
+
+&lt;p&gt;ExtensionPay lets browser extension developers take payments in their extensions without needing to run their own backend. It provides a simple open-source API that developers can use right in their extensions to make a variety of payment schemes — free trial, freemium, premium, subscription, etc. And it&amp;#39;s free to use, only taking a small fee of each sale so it really de-risks monetizing browser extensions.&lt;/p&gt;
+
+&lt;p&gt;When I was just beginning to think about online businesses I brainstormed some interesting browser extensions but I was intimidated by the prospect of building a payment system — it would have taken weeks of tedious work at the minimum and I didn&amp;#39;t want to risk spending all that time only to end up with something no one would pay for. I saw that taking payments in extensions was also a problem for people on Indie Hackers and other forums.&lt;/p&gt;
+
+&lt;p&gt;When Google announced they were shutting down their Chrome Web Store payments API early in 2021, I thought there was an opportunity for a business that replaced their payment API and also worked cross-browser (unlike Chrome Store payments). I also knew that it at least had the potential to be lucrative because one of the best ways to make money is to help other people make money. The value proposition was clear — save weeks of tedious work and make money with browser extensions.&lt;/p&gt;
+
+&lt;p&gt;So I made the initial MVP in about a month. I did this as a kind of hobby because I was feeling really bored and isolated during the pandemic. I had also been really struggling (and still am!) with a severe undiagnosed health issue since the summer of 2020 which prevented me from doing more than a few hours of work a week. I had to learn to prioritize my health so I went really slowly and felt okay with just not working on ExtensionPay at all for long stretches of time. It was kind of nice in a way — since my ability to work was so limited I had to get really good at cutting out everything non-essential to get my MVP out the door.&lt;/p&gt;
+
+&lt;p&gt;Once I had something minimal working, I scraped the Chrome extension store for extensions that used Google&amp;#39;s payment API and cold-emailed basically all of them because I knew they would be looking for a replacement. Of these I got a few users and was delighted when one of them released their extension with ExtensionPay and started making money! Even though it was a small amount of money at first it felt like a big success. Most online businesses probably never make any money at all so crossing this barrier felt great. It was magical to see new sales every day, especially because I had no expectations — any income was good income.&lt;/p&gt;
+
+&lt;p&gt;Since then I&amp;#39;ve been slowly adding features and marketing in more places. I have over 130 signups and a handful of extensions out in the world making money. A Youtuber also just made a video about using ExtensionPay. It still feels like early days but I&amp;#39;m happy where ExtensionPay is going and will keep nurturing it to see what it can become.&lt;/p&gt;
+
+&lt;p&gt;I still can&amp;#39;t believe that I decided to start a business while being decimated by health issues in a global pandemic, but here we are. My blessings toward everyone&amp;#39;s good health and happiness while making side projects. ✌️&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我有一個免費的博客平臺，有電子郵件收集器、主題、分析和自定義域名功能。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orqmtc/i_have_a_free_blogging_platform_that_has_email/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orqmtc/i_have_a_free_blogging_platform_that_has_email/</guid><pubDate>Mon, 26 Jul 2021 07:50:11 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[🎥 🎬 當你需要讓你的視頻對非英語使用者開放時，我們將幫助你添加字幕和翻譯]]></title><description><![CDATA[想上來介紹一下我們的軟件和它的一些好處。
+
+我們是一個小團隊，正在建立一個產品，以幫助所有的社交媒體視頻
+編輯和製作者。我們想讓你的生活更輕鬆，我們認爲我們的
+我們認爲可以通過SubtitleBee [https://subtitlebee.com/] 🐝做到這一點。
+
+如何...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oroq5n/when_you_need_to_make_your_videos_accessible_to/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oroq5n/when_you_need_to_make_your_videos_accessible_to/</guid><pubDate>Mon, 26 Jul 2021 03:45:11 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Wanted to come up here and introduce our software and some of its benefits.&lt;/p&gt;
+
+&lt;p&gt;We&amp;#39;re a small team that&amp;#39;s building a product to help all the social media video editors and makers out there. We want to make your life easier, and we think we can do it with &lt;a href=&quot;https://subtitlebee.com/&quot;&gt;SubtitleBee&lt;/a&gt; 🐝&lt;/p&gt;
+
+&lt;p&gt;How SubtitleBee can help you?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add subtitles automatically to your vides&lt;/li&gt;
+&lt;li&gt;100+ languages available to make subtitle translations for your videos instantly&lt;/li&gt;
+&lt;li&gt;Get more views and shares on social media with subtitles.&lt;/li&gt;
+&lt;li&gt;Increase reach and engagement of your video content&lt;/li&gt;
+&lt;li&gt;Share them across social media with ease (Facebook, Twitter, LinkedIn)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Would love for you guys to check it out!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我不久前做了一個叫 "彩芽 "的益智遊戲。希望得到你的反饋。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orjgr6/i_made_a_puzzle_game_called_color_sprout_a_while/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/orjgr6/i_made_a_puzzle_game_called_color_sprout_a_while/</guid><pubDate>Sun, 25 Jul 2021 22:34:10 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[CopyAim - 免費的AI文案寫作（100%免費無限制代）。]]></title><description><![CDATA[嘿，夥計們!
+
+我很高興地宣佈，我的第一個SaaS項目 - CopyAim
+[https://copyaim.com]正在爲所有用戶採用一個完全免費的無限包!
+
+我早在2月份就開始了這個應用程序的工作，開始時只是一個小的副業，後來發展成爲一個大的項目。
+項目發展成爲一個偉大的工具，幫助數以百計的用戶......]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ork2nx/copyaim_free_ai_copywriting_100_free_unlimited/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ork2nx/copyaim_free_ai_copywriting_100_free_unlimited/</guid><pubDate>Sun, 25 Jul 2021 22:17:22 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey, guys! &lt;/p&gt;
+
+&lt;p&gt;I am excited to announce that my first SaaS project - &lt;a href=&quot;https://copyaim.com&quot;&gt;CopyAim&lt;/a&gt; is adopting a fully Free unlimited package for all users!&lt;/p&gt;
+
+&lt;p&gt;I started working on this app back in February, which started as a small side project grew up to be a great tool that helped hundreds of users and companies write nearly-perfect marketing and business copy using AI (GPT-3)&lt;/p&gt;
+
+&lt;p&gt;There are a few competitors in the field, you might have heard of them (Jarvis, copyai, etc). I was never satisfied with any of their results. All the copy is extremely weak, short, and bleak. So my goal was to create something that is 10X better, yet is affordable for users.&lt;/p&gt;
+
+&lt;p&gt;So now I have something that none of those guys ever would dare to offer, lol.&lt;/p&gt;
+
+&lt;p&gt;Up until now, I used to charge for generations, but I feel like making it completely Free is a move is a better direction.&lt;/p&gt;
+
+&lt;p&gt;So, what can CopyAim do? &lt;/p&gt;
+
+&lt;p&gt;CopyAim is a GPT-3 driven copywriting and idea brainstorming assistant. It is fully capable of writing compelling copy such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Facebook Ads&lt;/li&gt;
+&lt;li&gt;Facebook Posts&lt;/li&gt;
+&lt;li&gt;Ad Hooks&lt;/li&gt;
+&lt;li&gt;Headlines&lt;/li&gt;
+&lt;li&gt;Product Descriptions&lt;/li&gt;
+&lt;li&gt;Benefits&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;... and many more. CopyAim is also great for ideations, here are the most popular examples:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Audience Ideas&lt;/li&gt;
+&lt;li&gt;Ideal Customer Profiles&lt;/li&gt;
+&lt;li&gt;Problem Solution Ideas&lt;/li&gt;
+&lt;li&gt;Blog Post Ideas&lt;/li&gt;
+&lt;li&gt;80/20 ideas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;...and others!&lt;/p&gt;
+
+&lt;p&gt;You can do anything you want to with the end copy - like, edit, copy, delete, download as CSV.&lt;/p&gt;
+
+&lt;p&gt;As I am moving the App to a free plan, we are also introducing a new premium subscription plan - &lt;a href=&quot;https://copyaim.com/pricing&quot;&gt;CopyAim+&lt;/a&gt; (monthly, yearly and lifetime subscriptions are available).&lt;/p&gt;
+
+&lt;p&gt;This is where the app really shines and can perform miracles.&lt;/p&gt;
+
+&lt;p&gt;With CopyAim+ you will have access to advanced customization. Basically, it opens a few customizable fields for you to narrow down your desired copy. &lt;/p&gt;
+
+&lt;p&gt;Here are all current features on CopyAim+:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Brand Name - provide a name of your brand, product, or business, and CopyAim will try to include it in the copy&lt;/li&gt;
+&lt;li&gt;Audience - Provide the desired target audience, and the copy will be targeting those people (either talking TO them through the copy or brainstorm ideas around that audience)&lt;/li&gt;
+&lt;li&gt;Keywords - provide focus keyword, marketing angle, special offer, or discount - CopyAim will include it in the end output whenever it can&lt;/li&gt;
+&lt;li&gt;Tone of Voice - your end copy will be written in a certain tone of voice you choose. It&amp;#39;s not too aggressive, but you can get a hint of a very specific tone here and there.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Randomness Factor - A slider that allows you to adjust how random your end copy will be. &amp;quot;Tame&amp;quot; is for product-specific and deterministic copy, while &amp;quot;Wild&amp;quot; can wander around to more creative topics.&lt;/p&gt;
+
+&lt;p&gt;CopyAim+ is more for power users, so for regular generations, the free plan may be enough for you.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As I&amp;#39;ve mentioned, this app is my first SaaS app ever, so it might be buggy here and there. I want you guys to give it a shot, use it in your business, and I hope it helps some of you when you need an extra creativity boost.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P.S. If you are a non-profit organization interested in CopyAim - reach out to me directly in DM or at &lt;a href=&quot;mailto:ian@copyaim.com&quot;&gt;ian@copyaim.com&lt;/a&gt; and I will give you a very generous discount CopyAim+ plans&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For everyone else - enjoy, share the tool with your friends, and let me know what do you think of an app in the comments.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我在業餘時間爲博主做了一個免費的SEO工具]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/or8vkj/i_made_a_free_seo_tool_for_bloggers_in_my_spare/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/or8vkj/i_made_a_free_seo_tool_for_bloggers_in_my_spare/</guid><pubDate>Sun, 25 Jul 2021 20:22:53 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[網絡項目的想法 - 維基百科文章打字]]></title><description><![CDATA[嗨，我不是一個真正的程序員，但我想找到一個網站，可以讓我在無聊的時候通過選擇語言練習打字。
+讓我在無聊的時候練習打字，通過在維基百科上選擇特定的文章
+維基百科上的特定文章，然後把它打出來。
+
+我在Github上發現了各種類似的項目，但幾乎所有我發現的項目都
+都不允許你...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/or4naz/idea_for_web_project_typing_wikipedia_articles/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/or4naz/idea_for_web_project_typing_wikipedia_articles/</guid><pubDate>Sun, 25 Jul 2021 19:59:17 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi, I am not really a programmer but I would like to find a website that would allow me to practice my typing when I am bored, by choosing a specific article on Wikipedia and then typing it out.&lt;/p&gt;
+
+&lt;p&gt;I found various similar projects on Github, but almost all the ones that I found did not allow you to choose your own article, but instead, gives out random articles for you to type out.&lt;/p&gt;
+
+&lt;p&gt;The closest one that I found was this one-- &lt;a href=&quot;https://github.com/PeterGSWhite/typescholar&quot;&gt;https://github.com/PeterGSWhite/typescholar&lt;/a&gt; / typescholar.netlify.app/&lt;/p&gt;
+
+&lt;p&gt;This one is pretty great but it didn&amp;#39;t feel complete to me and I wasn&amp;#39;t able to type out a whole article (it gave me random excerpts). Another feature that would be cool is showing the article itself (semi-transparent) and having me type along it. Maybe there&amp;#39;s a google extension that already does this?&lt;/p&gt;
+
+&lt;p&gt;It would also be great to choose from Wikipedia.org as well as simple.wikipedia.org...&lt;/p&gt;
+
+&lt;p&gt;Would anyone like to take on this project with me? I am also willing to pay a flat rate (since I am not a programmer) in order for me to use this website for myself and practice typing haha.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[側面項目。建立這個工具是爲了擺脫產品經理的不明確的反饋!]]></title><description><![CDATA[各位朋友，大家好。
+
+我和我的朋友建立了這個名爲Polish的工具（請查看putpolish.com
+[https://putpolish.com]），因爲我們厭倦了產品經理不明確的反饋，想避免
+的反饋，並希望避免與客戶和同事之間的來回奔波。
+網站發佈時的來回奔波。
+
+有了Polish，你可以使網站...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/or6e3y/side_project_built_this_tool_to_get_rid_of/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/or6e3y/side_project_built_this_tool_to_get_rid_of/</guid><pubDate>Sun, 25 Jul 2021 19:59:17 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello folks,&lt;/p&gt;
+
+&lt;p&gt;I and my friend have built this tool called Polish (check &lt;a href=&quot;https://putpolish.com&quot;&gt;putpolish.com&lt;/a&gt;) as we were tired of unclear feedback from product managers and wanted to avoid to-and-fro with clients and colleagues around the time of website releases.&lt;/p&gt;
+
+&lt;p&gt;With Polish, you can make website approvals faster and speed up your release cycles. We&amp;#39;re very excited about the product and would love for this awesome group to try us out.&lt;/p&gt;
+
+&lt;p&gt;Please give it a spin and let us know your feedback. We are on [&lt;a href=&quot;mailto:hello@putpolish.com&quot;&gt;hello@putpolish.com&lt;/a&gt;](mailto:&lt;a href=&quot;mailto:hello@putpolish.com&quot;&gt;hello@putpolish.com&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Thanks&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[你是否經營着一個自籌資金的*賺錢的生意？]]></title><description><![CDATA[讓我們制定一個清單!
+
+請回復您的網站 :)
+
+任何類型的企業都算。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oqw8bj/do_you_run_a_selffunded_profitable_business/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/oqw8bj/do_you_run_a_selffunded_profitable_business/</guid><pubDate>Sun, 25 Jul 2021 18:29:43 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Let’s make a list!&lt;/p&gt;
+
+&lt;p&gt;Reply with your website :)&lt;/p&gt;
+
+&lt;p&gt;Any type of business counts.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
