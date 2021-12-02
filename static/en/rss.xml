@@ -1,485 +1,491 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 02 Nov 2021 04:36:32 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Has your side project ever become your main project?]]></title><description><![CDATA[Just wondering if side projects make it to the main project? We all know a
-number of companies that started as a side project but became the main
-product/project somewhere.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 02 Dec 2021 04:38:42 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I launched an automated flight search service]]></title><description><![CDATA[I travel by plane a lot and I know that searching for the cheapest flights can
+be tedious, humdrum, and time-consuming. The flight prices change very often due
+to various factors, therefore it can be really exhausting to search for the best
+fares.
 
-I tried 2-3 side projects which are either closed or continue to be side
-projects. Just wondering if people here started with…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pfef84/has_your_side_project_ever_become_your_main/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pfef84/has_your_side_project_ever_become_your_main/</guid><pubDate>Tue, 31 Aug 2021 22:03:58 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Just wondering if side projects make it to the main project? We all know a number of companies that started as a side project but became the main product/project somewhere.&lt;/p&gt;
+That's why I started building an automated flight…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pyry61/i_launched_an_automated_flight_search_service/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pyry61/i_launched_an_automated_flight_search_service/</guid><pubDate>Thu, 30 Sep 2021 23:30:29 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I travel by plane a lot and I know that searching for the cheapest flights can be tedious, humdrum, and time-consuming. The flight prices change very often due to various factors, therefore it can be really exhausting to search for the best fares. &lt;/p&gt;
 
-&lt;p&gt;I tried 2-3 side projects which are either closed or continue to be side projects. Just wondering if people here started with a side project/hustle and converted it into main projects? How was your journey if you would like to share?&lt;/p&gt;
+&lt;p&gt;That&amp;#39;s why I started building an automated flight search service. The idea is the user customize search once and after that, our service regularly scans thousands of flight options, finds the best dates, and tracks price changes to find the cheapest offers, sending the best deals to the user&amp;#39;s email address.&lt;/p&gt;
 
-&lt;p&gt;What made you decide to take it up as your main project?&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I couldn't stand all the terrible AWS S3 clones, so I built yet another one.]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pf6zdn/i_couldnt_stand_all_the_terrible_aws_s3_clones_so/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pf6zdn/i_couldnt_stand_all_the_terrible_aws_s3_clones_so/</guid><pubDate>Tue, 31 Aug 2021 22:03:58 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Google chrome dino game]]></title><description><![CDATA[Hello everyone, I have made a google chrome dino game using javascript. Please
-star the repo if you like the code.
+&lt;p&gt;After 3 months, we finally launched the first iteration of the service called Manyflights - &lt;a href=&quot;https://manyflights.io&quot;&gt;https://manyflights.io&lt;/a&gt;.&lt;/p&gt;
 
-https://github.com/karthikNedunchezhiyan/google-chrome-dino]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pf7p0r/google_chrome_dino_game/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pf7p0r/google_chrome_dino_game/</guid><pubDate>Tue, 31 Aug 2021 20:36:53 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello everyone, I have made a google chrome dino game using javascript. Please star the repo if you like the code.&lt;/p&gt;
+&lt;p&gt;This is only the beginning, we&amp;#39;ve got a lot of work ahead, so any advice and feedback from the community will be really useful! &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/karthikNedunchezhiyan/google-chrome-dino&quot;&gt;https://github.com/karthikNedunchezhiyan/google-chrome-dino&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Clubhouse for texting]]></title><description><![CDATA[Hey all, I recently built and released Ponder. It's a social media app for
-invite-only text threads that anyone can read and subscribe to. Content on
-Twitter has approximately zero nuance so I'd like to see more podcast-like
-content over text.
+&lt;p&gt;Best,&lt;/p&gt;
 
- * Invited users can write messages
- * Everyone else…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pfcg7u/clubhouse_for_texting/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pfcg7u/clubhouse_for_texting/</guid><pubDate>Tue, 31 Aug 2021 19:43:25 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey all, I recently built and released Ponder. It&amp;#39;s a social media app for invite-only text threads that anyone can read and subscribe to. Content on Twitter has approximately zero nuance so I&amp;#39;d like to see more podcast-like content over text.&lt;/p&gt;
+&lt;p&gt;Niki.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Blobby: Habit Tracker meets Tamagotchi]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pys1zn/blobby_habit_tracker_meets_tamagotchi/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pys1zn/blobby_habit_tracker_meets_tamagotchi/</guid><pubDate>Thu, 30 Sep 2021 21:22:12 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Calendar for serious dreamers – Lightpad.ai v2-alpha]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pylc3m/calendar_for_serious_dreamers_lightpadai_v2alpha/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pylc3m/calendar_for_serious_dreamers_lightpadai_v2alpha/</guid><pubDate>Thu, 30 Sep 2021 21:01:48 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[The future of sharing. How my nfc tag helps me daily stream my social media with just one tap.]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pyqgpe/the_future_of_sharing_how_my_nfc_tag_helps_me/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pyqgpe/the_future_of_sharing_how_my_nfc_tag_helps_me/</guid><pubDate>Thu, 30 Sep 2021 21:01:48 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Stable : Connecting freelancers and companies. Manage freelance talent and find the person you need, when you need them.]]></title><description><![CDATA[Hi Everyone,
+I built an application called Stable, with stable companies can manage their
+stable of freelancers and discover new talent via the Stable community.
+Freelancers can manage their availability, portfolio, and skills, and invite the
+companies they work with to join. There are lots of cool…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pyoyrz/stable_connecting_freelancers_and_companies/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pyoyrz/stable_connecting_freelancers_and_companies/</guid><pubDate>Thu, 30 Sep 2021 19:55:59 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi Everyone,&lt;br/&gt;
+I built an application called Stable, with stable companies can manage their stable of freelancers and discover new talent via the Stable community. Freelancers can manage their availability, portfolio, and skills, and invite the companies they work with to join. There are lots of cool tools for companies and freelancers in the pipeline and best of all for freelancers it is free to join.&lt;br/&gt;
+This is a beta release so visit &lt;a href=&quot;https://stableapp.io/&quot;&gt;https://stableapp.io/&lt;/a&gt; and click Request Access Code if you want to take a look. Any feedback is greatly appreciated, thanks!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[After 9 months, I launched my landing page builder product]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pykg4p/after_9_months_i_launched_my_landing_page_builder/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pykg4p/after_9_months_i_launched_my_landing_page_builder/</guid><pubDate>Thu, 30 Sep 2021 15:24:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[LycheeList: A simple web app for your grocery list. No frills, no ads, no account needed.]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/py77v9/lycheelist_a_simple_web_app_for_your_grocery_list/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/py77v9/lycheelist_a_simple_web_app_for_your_grocery_list/</guid><pubDate>Thu, 30 Sep 2021 03:49:09 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I was frustrated for not getting enough done, so built a tool to keep me on track and focused]]></title><description><![CDATA[Like most of you, I struggle with the endless waves of dopamine on the internet.
+On one hand you need the internet to function, but on the other it's a clear
+impediment to getting things done.
 
-&lt;ul&gt;
-&lt;li&gt;Invited users can write messages&lt;/li&gt;
-&lt;li&gt;Everyone else can read and subscribe to any thread&lt;/li&gt;
-&lt;/ul&gt;
+So I built a minimalist chrome extension to prevent distractions before they
+start and redirect me to what…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pxwtmk/i_was_frustrated_for_not_getting_enough_done_so/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pxwtmk/i_was_frustrated_for_not_getting_enough_done_so/</guid><pubDate>Thu, 30 Sep 2021 01:17:02 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Like most of you, I struggle with the endless waves of dopamine on the internet. On one hand you need the internet to function, but on the other it&amp;#39;s a clear impediment to getting things done.&lt;/p&gt;
 
-&lt;p&gt;Any feedback (good or bad) on the design concept would be appreciated. Could you see yourself using something like this if there was enough content?&lt;/p&gt;
+&lt;p&gt;So I built a minimalist chrome extension to prevent distractions before they start and redirect me to what I should be working on. I&amp;#39;d love to hear your feedback! &lt;a href=&quot;https://foldsocks.com/&quot;&gt;foldsocks.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.producthunt.com/posts/ponder-7&quot;&gt;https://www.producthunt.com/posts/ponder-7&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Learning what matters to your users]]></title><description><![CDATA[As a designer, I got tired of trying to put my user research in tools like
-Confluence that weren't really created for this purpose. I love tools like
-Airtable, Miro, and Figma but it's also a lot to stitch together a clear
-understanding of who the user is across all these tools- especially if you…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pf8r8m/learning_what_matters_to_your_users/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pf8r8m/learning_what_matters_to_your_users/</guid><pubDate>Tue, 31 Aug 2021 19:00:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As a designer, I got tired of trying to put my user research in tools like Confluence that weren&amp;#39;t really created for this purpose. I love tools like Airtable, Miro, and Figma but it&amp;#39;s also a lot to stitch together a clear understanding of who the user is across all these tools- especially if you have multiple projects.   &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/79j5crtlfgq71.png?width=2186&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=171d9bc6429c0f375237100954e4dae8426f2a61&quot;&gt;https://preview.redd.it/79j5crtlfgq71.png?width=2186&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=171d9bc6429c0f375237100954e4dae8426f2a61&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Launched the biggest 3D library in the world]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/py4w7y/launched_the_biggest_3d_library_in_the_world/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/py4w7y/launched_the_biggest_3d_library_in_the_world/</guid><pubDate>Wed, 29 Sep 2021 22:24:36 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I just released a "Youtube name generator" over the weekend by training a massive neural network]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pxvppg/i_just_released_a_youtube_name_generator_over_the/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pxvppg/i_just_released_a_youtube_name_generator_over_the/</guid><pubDate>Wed, 29 Sep 2021 17:00:27 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I created an app for windowsOS that makes it easier for designers and web-developers to measure anything on their screens by just clicking and dragging around the cursor.]]></title><description><![CDATA[https://preview.redd.it/ofo3xsgsteq71.png?width=366&format=png&auto=webp&s=4ce4dd6925c725e0b46f9db7e1f6cbcf1fcca5d0]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pxro48/i_created_an_app_for_windowsos_that_makes_it/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pxro48/i_created_an_app_for_windowsos_that_makes_it/</guid><pubDate>Wed, 29 Sep 2021 11:29:35 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;
 
-&lt;p&gt;That&amp;#39;s why I started building &lt;a href=&quot;http://www.personifyhq.com&quot;&gt;Personify&lt;/a&gt; on the side of my full-time job leading design to make user research more actionable and accessible for my product teams.   &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/ofo3xsgsteq71.png?width=366&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4ce4dd6925c725e0b46f9db7e1f6cbcf1fcca5d0&quot;&gt;https://preview.redd.it/ofo3xsgsteq71.png?width=366&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4ce4dd6925c725e0b46f9db7e1f6cbcf1fcca5d0&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Platform for Getting Feedback on your Yoga Postures]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pxm038/platform_for_getting_feedback_on_your_yoga/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pxm038/platform_for_getting_feedback_on_your_yoga/</guid><pubDate>Wed, 29 Sep 2021 04:53:34 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Self-Parking Car Evolution Simulator]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/px7w98/selfparking_car_evolution_simulator/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/px7w98/selfparking_car_evolution_simulator/</guid><pubDate>Tue, 28 Sep 2021 16:53:10 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I launched a multivitamin business exactly 1 year ago, here's what I have learnt]]></title><description><![CDATA[Hey Guys,
 
-&lt;p&gt;&lt;strong&gt;What is it?&lt;/strong&gt;&lt;/p&gt;
+Josh here - I founded hakamount [https://hakamount.co.uk/] this time last year
+whilst working full time for a bank in London. In a global pandemic, starting a
+multivitamin company was the obvious natural move for me...
 
-&lt;p&gt;It&amp;#39;s a persona based framework that focuses on identifying core needs, pain points, and responsibilities of your users rather than demographics or attitudinal data that&amp;#39;s just really arbitrary.   &lt;/p&gt;
+I've learnt a heck of a lot over the past 12 months, so I thought I'd…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pwqxhx/i_launched_a_multivitamin_business_exactly_1_year/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pwqxhx/i_launched_a_multivitamin_business_exactly_1_year/</guid><pubDate>Tue, 28 Sep 2021 06:36:49 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey Guys,&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;How does it work?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Josh here - I founded &lt;a href=&quot;https://hakamount.co.uk/&quot;&gt;hakamount&lt;/a&gt; this time last year whilst working full time for a bank in London. In a global pandemic, starting a multivitamin company was the obvious natural move for me...&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Build the first draft of your persona based on what you know.&lt;/li&gt;
-&lt;li&gt;Set a research goal of how many users you want to interview.&lt;/li&gt;
-&lt;li&gt;Bookmark links to your research wherever you store it (GDrive, Dropbox, etc.) and build up a unified view of your user knowledge.&lt;/li&gt;
-&lt;li&gt;Once you&amp;#39;ve bookmarked user research to reach your goal - you can publish the persona to our Gallery to share your knowledge and inspire others. (Kind of like a Dribbble for researched personas.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;I&amp;#39;ve learnt a heck of a lot over the past 12 months, so I thought I&amp;#39;d share some of my learnings, and hopefully it can help someone on their journey.&lt;/p&gt;
 
-&lt;p&gt;We recently released our second Beta release after 5 months of work refining some of the user experience and we&amp;#39;ve got some &lt;a href=&quot;https://www.notion.so/personify/Roadmap-83ee1b79793248ef84c32e288284e45e&quot;&gt;ideas&lt;/a&gt; of what we could work on next - but we really want that to be informed by our users and their &lt;a href=&quot;https://personifyhq.typeform.com/roadmapvote&quot;&gt;feedback&lt;/a&gt;.  &lt;/p&gt;
+&lt;p&gt;Here goes...&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s been a fun project to work on and I hope it brings some value to your side projects as you work on yours!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Get free press coverage for your project or startup 💡]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pelgxi/get_free_press_coverage_for_your_project_or/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pelgxi/get_free_press_coverage_for_your_project_or/</guid><pubDate>Tue, 31 Aug 2021 17:03:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[OK JSON - A native Mac app to format, view, query JSON]]></title><description><![CDATA[OK JSON is my new app that I've been working on in the last couple months.
+&lt;p&gt;&lt;strong&gt;1. Word of Mouth is the goal&lt;/strong&gt;&lt;/p&gt;
 
-Due to the recent events with regard to native apps switching to Electron, I
-would like to emphasize that OK JSON is built with AppKit, with the exceptions
-of the In-App purchase page and preferences, which is built with…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pex4l8/ok_json_a_native_mac_app_to_format_view_query_json/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pex4l8/ok_json_a_native_mac_app_to_format_view_query_json/</guid><pubDate>Tue, 31 Aug 2021 14:31:03 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;OK JSON is my new app that I&amp;#39;ve been working on in the last couple months.&lt;/p&gt;
+&lt;p&gt;When people receive your product, they need to be &amp;#39;wowed&amp;#39;. This could be due to the packaging, speed of delivery, the product itself. But it needs to make an impact.&lt;/p&gt;
 
-&lt;p&gt;Due to the recent events with regard to native apps switching to Electron, I would like to emphasize that OK JSON is built with AppKit, with the exceptions of the In-App purchase page and preferences, which is built with SwiftUI.&lt;/p&gt;
+&lt;p&gt;If you&amp;#39;re successful at this, then these people will tell their friends - this is easily the best marketing you can get. Wow your customer.&lt;/p&gt;
 
-&lt;p&gt;OK JSON is a JSON formatter and viewer, well suited for developers who need to work with JSON frequently, especially web developers. With OK JSON, you can view JSON in a tree view with beautiful syntax highlight.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Shipping&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h1&gt;Features:&lt;/h1&gt;
+&lt;p&gt;I spent the first 3 months packaging all of the orders myself, whilst working fulltime for a bank. It was exhausting, and more importantly, ate up all my free time in the evenings.&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Format JSON in Pasteboard with keyboard shortcut.&lt;/li&gt;
-&lt;li&gt;View JSON in tree view with beautiful syntax highlight.&lt;/li&gt;
-&lt;li&gt;Query with JSONPath and compare with JSON Patch.&lt;/li&gt;
-&lt;li&gt;Various ways to open JSON documents.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;I was spending hours packaging orders when I could have been doing more valuable things like marketing. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/8kdtfwicwlk71.png?width=2560&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=fde84e78ba6550c07fa531ae0c25f8ac9aa0e31d&quot;&gt;Main Window&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Outsource your shipping as soon as it becomes viable, you won&amp;#39;t regret it.&lt;/p&gt;
 
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Don&amp;#39;t Be Afraid To Ask For Help&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/b7zb7iufwlk71.png?width=2560&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4791db5e027bfc1ad9d8b05e3374283e522d5dbc&quot;&gt;JSONPath Wndow&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;When I launched, I messaged 500 of my Facebook friends letting them know. About 10 bought! Not amazing returns, but not awful!&lt;/p&gt;
 
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+&lt;p&gt;You&amp;#39;ll be shocked how willing your friends are to help you, but don&amp;#39;t be afraid to ask!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/mnyx47krylk71.png?width=2560&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=49468f7031cbcde454c35df648e91fae91961be5&quot;&gt;More Features&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Brand Partnerships&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h1&gt;Website&lt;/h1&gt;
+&lt;p&gt;Growing can be really difficult as a start up, especially if you&amp;#39;re budget is tight. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://okjson.app/&quot;&gt;OK JSON - Format and View JSON with Native Mac App&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We found partnering up with 1 or 2 brands who could stock our product on their website to be super effective. It gave us 2 new audiences with customers willing to buy. On those days where your Shopify store does 10 views, it feels great to have some sales come in from your partnerships.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/app/id1576121509&quot;&gt;Download OK JSON on Mac App Store&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I built a FREE tool that writes Cover Letters for your next job or internship]]></title><description><![CDATA[Hello guys,
+&lt;p&gt;&lt;strong&gt;5. Pay The Money&lt;/strong&gt;&lt;/p&gt;
 
-I have been building Research AI for about a month now. Today I released a free
-tool that writes cover letters using AI. You can check it out at the below link:
+&lt;p&gt;If you&amp;#39;re a new founder, chances are you&amp;#39;ve been scouring Fiverr trying to find someone to create your logo. Heck, I did. £10 for someone to make it, awesome.&lt;/p&gt;
 
-https://researchai.co/free-tools]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pewki8/i_built_a_free_tool_that_writes_cover_letters_for/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pewki8/i_built_a_free_tool_that_writes_cover_letters_for/</guid><pubDate>Tue, 31 Aug 2021 12:22:51 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello guys,&lt;/p&gt;
+&lt;p&gt;However, a few months later, after building some knowledge in the industry, I realised our logo sucked.&lt;/p&gt;
 
-&lt;p&gt;I have been building Research AI for about a month now. Today I released a free tool that writes cover letters using AI. You can check it out at the below link:&lt;/p&gt;
+&lt;p&gt;It really made that saying hit home, &amp;quot;buy cheap by twice&amp;quot;. Luckily, we didn&amp;#39;t make that mistake with our website hosting platform. Shopify is worth every bit of the monthly fee, highly recommend to those considering!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://researchai.co/free-tools&quot;&gt;https://researchai.co/free-tools&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Question for side project creators!]]></title><description><![CDATA[Hi everyone, I would like to ask you what stack are you using for your side
-project.
+&lt;p&gt;&lt;strong&gt;6. Repeat Purchases&lt;/strong&gt;&lt;/p&gt;
 
-From front end technology, to back end, hosting, etc.
+&lt;p&gt;I didn&amp;#39;t know how important these were until about month 6. Turns out, it&amp;#39;s a lot cheaper to retain existing customers than it is finding new ones.&lt;/p&gt;
 
-For example, if you would like to start a project with a back end and a database
-what would you use? And for a static website?
+&lt;p&gt;Also, if customers are repeatedly buying your product, it shows good product market fit. The holy grail - a space in the industry where your product meets the needs of your user. &lt;/p&gt;
 
-Let me know in the comments,…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/peofsg/question_for_side_project_creators/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/peofsg/question_for_side_project_creators/</guid><pubDate>Tue, 31 Aug 2021 08:54:07 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone, I would like to ask you what stack are you using for your side project. &lt;/p&gt;
+&lt;p&gt;Find ways to incentivise repeat purchases, whether that&amp;#39;s a slick email campaign, or a valuable subscription offer.&lt;/p&gt;
 
-&lt;p&gt;From front end technology, to back end, hosting, etc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;For example, if you would like to start a project with a back end and a database what would you use? And for a static website?&lt;/p&gt;
+&lt;p&gt;And that&amp;#39;s it, 6 things I&amp;#39;ve learnt on this founder journey of mine. Hopefully it was able to help someone out their take the next step in their own journey.&lt;/p&gt;
 
-&lt;p&gt;Let me know in the comments, I’m really curious and looking for inspiration 🙂&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Inspired by online communities, I've been keeping a list of the best ones]]></title><description><![CDATA[The Hive Index [https://thehiveindex.com/] started as a list of curated
-entrepreneurship communities
+&lt;p&gt;Peace,&lt;/p&gt;
 
-By now I've expanded it to include over 400 communities across 67 topics. For
-each community, I tag it with platform + features (like forum, chat, newsletter,
-perks, job board, etc) so that folks…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/peu84v/inspired_by_online_communities_ive_been_keeping_a/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/peu84v/inspired_by_online_communities_ive_been_keeping_a/</guid><pubDate>Tue, 31 Aug 2021 02:37:35 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://thehiveindex.com/&quot;&gt;The Hive Index&lt;/a&gt; started as a list of curated entrepreneurship communities&lt;/p&gt;
+&lt;p&gt;Josh&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Website Builder using React & Redux]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pw3nh0/website_builder_using_react_redux/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pw3nh0/website_builder_using_react_redux/</guid><pubDate>Mon, 27 Sep 2021 18:26:21 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[A great read for those looking to push their side projects - Fake It Till You Make It: When It Works, When It Doesn’t, and Why]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pwg3l5/a_great_read_for_those_looking_to_push_their_side/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pwg3l5/a_great_read_for_those_looking_to_push_their_side/</guid><pubDate>Mon, 27 Sep 2021 16:57:50 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I'm finally launching my web app on ProductHunt - a 3D device mockup builder.]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pwjrav/im_finally_launching_my_web_app_on_producthunt_a/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pwjrav/im_finally_launching_my_web_app_on_producthunt_a/</guid><pubDate>Mon, 27 Sep 2021 16:19:03 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Productivity timer that care for heath! Stay productivity and heathy at the same time. Available on Android/iOS/WearOS. Link in the comment 💁‍♂️]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pw6ten/productivity_timer_that_care_for_heath_stay/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pw6ten/productivity_timer_that_care_for_heath_stay/</guid><pubDate>Mon, 27 Sep 2021 14:20:30 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[[Android] I recently launched a location sharing app with my brother for self-delivered restaurants and other self-delivered industries. Feedback would be appreciated.]]></title><description><![CDATA[With the app, you will automatically generate a web page that shows your
+location, remaining time and distance to your destination.
 
-&lt;p&gt;By now I&amp;#39;ve expanded it to include over 400 communities across 67 topics. For each community, I tag it with platform + features (like forum, chat, newsletter, perks, job board, etc) so that folks looking for communities can find one that fits their needs.&lt;/p&gt;
+You can link socialmedia or your website on the page. You can also include text
+such as a discount code.
 
-&lt;p&gt;It&amp;#39;s been a fun little project to work on, and I&amp;#39;ve been enjoying growing it over time. I&amp;#39;ve definitely met some very cool people in the process, and it&amp;#39;s inspired other projects for me to work on.&lt;/p&gt;
+An example of a link the customer may see: wayo.pl/rgxbs…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pwdg7m/android_i_recently_launched_a_location_sharing/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pwdg7m/android_i_recently_launched_a_location_sharing/</guid><pubDate>Mon, 27 Sep 2021 11:44:08 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;With the app, you will automatically generate a web page that shows your location, remaining time and distance to your destination.&lt;/p&gt;
 
-&lt;p&gt;If you know any good ones that I should add, or would like to request a new topic to curate, let me know!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[A workspace for all your projects, ideas, notes and documents.]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pemwno/a_workspace_for_all_your_projects_ideas_notes_and/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pemwno/a_workspace_for_all_your_projects_ideas_notes_and/</guid><pubDate>Mon, 30 Aug 2021 23:37:34 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Color palette generator]]></title><description><![CDATA[Hey all,
+&lt;p&gt;You can link socialmedia or your website on the page. You can also include text such as a discount code.&lt;/p&gt;
 
-I made this color palette generator to help me out in my own web design
-projects: https://couleur.io/
+&lt;p&gt;&lt;strong&gt;An example of a link the customer may see:&lt;/strong&gt; &lt;a href=&quot;https://wayo.pl/rgxbs&quot;&gt;wayo.pl/rgxbs&lt;/a&gt;&lt;/p&gt;
 
-It takes advantage of HSL colors in CSS, which I find makes it so much easier to
-work with colors in a comprehensive way.
+&lt;p&gt;----------------------------------------------------------------------------&lt;/p&gt;
 
-Really hope it'll be helpful to some!]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pelxiv/color_palette_generator/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pelxiv/color_palette_generator/</guid><pubDate>Mon, 30 Aug 2021 18:51:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey all,&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PAGE:&lt;/strong&gt; &lt;a href=&quot;https://getwayo.com&quot;&gt;https://getwayo.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;I made this color palette generator to help me out in my own web design projects: &lt;a href=&quot;https://couleur.io/&quot;&gt;https://couleur.io/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;It takes advantage of HSL colors in CSS, which I find makes it so much easier to work with colors in a comprehensive way.&lt;/p&gt;
-
-&lt;p&gt;Really hope it&amp;#39;ll be helpful to some!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I made an AI that learns to play Flappy Bird using C++ and SFML]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pdy2a1/i_made_an_ai_that_learns_to_play_flappy_bird/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pdy2a1/i_made_an_ai_that_learns_to_play_flappy_bird/</guid><pubDate>Mon, 30 Aug 2021 08:55:24 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[If you're looking for side projects or have one...]]></title><description><![CDATA[If you're looking for side projects, or are even working on one, check out this
-page [https://circlebatch.com/]. These are people working on side projects and
-are looking for others to collaborate with. Feel free to add your own if you're
-looking for collaborators as well! :)]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pec639/if_youre_looking_for_side_projects_or_have_one/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pec639/if_youre_looking_for_side_projects_or_have_one/</guid><pubDate>Mon, 30 Aug 2021 07:43:57 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If you&amp;#39;re looking for side projects, or are even working on one, check out this &lt;a href=&quot;https://circlebatch.com/&quot;&gt;page&lt;/a&gt;. These are people working on side projects and are looking for others to collaborate with. Feel free to add your own if you&amp;#39;re looking for collaborators as well! :)&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I made an app that helps you build Habits]]></title><description><![CDATA[Hi Guys
-
-I`ve been working on an app that helps you build habits like eating healthy or
-going to the gym!
-
-You can add any habit you want and see your progress.
-
-The app reminds you of reflecting on the habits every day so you will never
-forget it.
-
-Im confident that it will help you achieve all…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pe0dru/i_made_an_app_that_helps_you_build_habits/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pe0dru/i_made_an_app_that_helps_you_build_habits/</guid><pubDate>Sun, 29 Aug 2021 20:33:27 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi Guys&lt;/p&gt;
-
-&lt;p&gt;I`ve been working on an app that helps you build habits like eating healthy or going to the gym!&lt;/p&gt;
-
-&lt;p&gt;You can add any habit you want and see your progress.&lt;/p&gt;
-
-&lt;p&gt;The app reminds you of reflecting on the habits every day so you will never forget it.&lt;/p&gt;
-
-&lt;p&gt;Im confident that it will help you achieve all your dreams and eliminate some of your problems.&lt;/p&gt;
-
-&lt;p&gt;I tried it myself with a few colleagues and it worked for all of us!&lt;/p&gt;
-
-&lt;p&gt;Here is the link if you want to check it out&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Apple:&lt;/strong&gt; &lt;a href=&quot;https://apps.apple.com/ch/app/reflect-check/id1555762987&quot;&gt;&lt;strong&gt;https://apps.apple.com/ch/app/reflect-check/id1555762987&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Android:&lt;/strong&gt; &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.Oxygenn.ReflectCheck&quot;&gt;&lt;strong&gt;https://play.google.com/store/apps/details?id=com.Oxygenn.ReflectCheck&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I hope you like it :)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GOOGLE PLAY:&lt;/strong&gt; &lt;a href=&quot;https://play.google.com/store/apps/details?id=pl.wayo&quot;&gt;https://play.google.com/store/apps/details?id=pl.wayo&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;#x200B;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/lv2fugdz7ck71.png?width=1242&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=094bc1400b858decac8dc27f3efa52dd0c0bf372&quot;&gt;https://preview.redd.it/lv2fugdz7ck71.png?width=1242&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=094bc1400b858decac8dc27f3efa52dd0c0bf372&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feedback would be appreciated.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Business plan essentials]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pvz31e/business_plan_essentials/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pvz31e/business_plan_essentials/</guid><pubDate>Sun, 26 Sep 2021 22:41:01 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I have built KV Store: Config or settings store in Redis with beautiful UI and code generation]]></title><description><![CDATA[GitHub: https://github.com/Ananto30/kv-store
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/co8slodz7ck71.png?width=1242&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=6b5d973d7137d44a6fd59c961731570f90c4b0e6&quot;&gt;https://preview.redd.it/co8slodz7ck71.png?width=1242&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=6b5d973d7137d44a6fd59c961731570f90c4b0e6&lt;/a&gt;&lt;/p&gt;
+Use KV Store to store app settings or other configs that are frequently changed.
+The purpose is to avoid redeploying for simple env var or config changes.
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/ap0xv6ez7ck71.png?width=1242&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=30012b684d08a81c65728bbf67ec40ad8200d57b&quot;&gt;https://preview.redd.it/ap0xv6ez7ck71.png?width=1242&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=30012b684d08a81c65728bbf67ec40ad8200d57b&lt;/a&gt;&lt;/p&gt;
+It also generates codes (Python & Java for now) to ease development.]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pvt4ri/i_have_built_kv_store_config_or_settings_store_in/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pvt4ri/i_have_built_kv_store_config_or_settings_store_in/</guid><pubDate>Sun, 26 Sep 2021 21:37:17 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;GitHub: &lt;a href=&quot;https://github.com/Ananto30/kv-store&quot;&gt;https://github.com/Ananto30/kv-store&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/bmsrxodz7ck71.png?width=1242&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=471ec1cd8d7adfd6d553d856e8b388481f1bba1c&quot;&gt;https://preview.redd.it/bmsrxodz7ck71.png?width=1242&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=471ec1cd8d7adfd6d553d856e8b388481f1bba1c&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[A professional network specifically for software engineering]]></title><description><![CDATA[The Full Stack - A professional network built for Software Engineers.
+&lt;p&gt;Use KV Store to store app settings or other configs that are frequently changed.  The purpose is to avoid redeploying for simple env var or config changes.&lt;/p&gt;
 
-https://thefullstack.network
-[https://thefullstack.network/invite/rsideproject21]
+&lt;p&gt;It also generates codes (Python &amp;amp; Java for now) to ease development.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[A new way to monetize small/medium podcasts]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pvwd2m/a_new_way_to_monetize_smallmedium_podcasts/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pvwd2m/a_new_way_to_monetize_smallmedium_podcasts/</guid><pubDate>Sun, 26 Sep 2021 16:56:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[GoodBrief - A random generator for design briefs. Looking for feedback!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pvuc1a/goodbrief_a_random_generator_for_design_briefs/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pvuc1a/goodbrief_a_random_generator_for_design_briefs/</guid><pubDate>Sun, 26 Sep 2021 16:22:47 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Incubator for Teen Startups]]></title><description><![CDATA[Hey Everyone!
 
-It's been a long term itch of mine to start a platform like this - similar to
-platforms I admire like Behance and Dribbble, The Full Stack is a…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pdv5yq/a_professional_network_specifically_for_software/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pdv5yq/a_professional_network_specifically_for_software/</guid><pubDate>Sun, 29 Aug 2021 18:46:38 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The Full Stack - A professional network built for Software Engineers.&lt;/p&gt;
+Being a startup founder myself (having bootstrapped my startup for the past 7
+years), I know the problems faced during the initial days to raise funding or
+even find potential business partners specially if you are a teen.
 
-&lt;p&gt;&lt;a href=&quot;https://thefullstack.network/invite/rsideproject21&quot;&gt;https://thefullstack.network&lt;/a&gt;&lt;/p&gt;
+I started my startup at 18, and it took me so many months…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pv64di/incubator_for_teen_startups/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pv64di/incubator_for_teen_startups/</guid><pubDate>Sat, 25 Sep 2021 23:07:54 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey Everyone!&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s been a long term itch of mine to start a platform like this - similar to platforms I admire like Behance and Dribbble, The Full Stack is a platform designed for software engineering that I wished had existed throughout my career and to this very day. I am excited with the aim this platform helps engineers, managers and teams on their journey.&lt;/p&gt;
+&lt;p&gt;Being   a startup founder myself (having bootstrapped my startup for the past 7   years), I know the problems faced during the initial days to raise   funding or even find potential business partners specially if you are a   teen.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Showcase you and your projects on a professional network specifically for Software Engineering.&lt;/li&gt;
-&lt;li&gt;Connect with like minded engineers and build a more meaningful network (without the spam)&lt;/li&gt;
-&lt;li&gt;Don’t let your work get overlooked, let it connect you to opportunities from Teams and Engineering Managers looking for engineers just like you.&lt;/li&gt;
-&lt;li&gt;Unlike other networks liked LinkedIn, (there are no recruiters) when &amp;quot;real&amp;quot; engineering hiring managers reach out to you on The Full Stack, you get paid into your wallet for reading and responding to opportunities, putting you in control.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;I started my startup at   18,  and it took me so many months even to find out if I was doing   every  thing correctly. I didn&amp;#39;t have any fund or contacts, did  everything from  scratch, so I know how difficult the initial days are.&lt;/p&gt;
 
-&lt;p&gt;For anyone interested, the platform is built in Next.js, Tailwind, Spring, NodeJS, MongoDB with integrations to Mux and SendGrid&lt;/p&gt;
+&lt;p&gt;Based   on our past experiences, me along with some of my entrepreneur  partners  we have decided to launch our free Incubation Program which  will help  teens launch their business and get their first set of  customers.&lt;/p&gt;
 
-&lt;p&gt;Would really appreciate your feedback, input and learnings from everyone.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The program is completely free&lt;/strong&gt;   to apply (Also we won&amp;#39;t take any equity). If you are a teen/ or know      someone who is teen having an awesome startup idea/prototype, can  apply  for our 3 month &lt;a href=&quot;https://cleverharvey.com/incubation/&quot;&gt;incubation program here&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Go to &lt;a href=&quot;https://thefullstack.network/invite/rsideproject21&quot;&gt;https://thefullstack.network&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And also it would be awesome, if I could get any feedback :)&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Built a realtime server performance monitoring application using react, node, socket.io and mongodb]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pvd1qb/built_a_realtime_server_performance_monitoring/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pvd1qb/built_a_realtime_server_performance_monitoring/</guid><pubDate>Sat, 25 Sep 2021 21:01:18 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Fish/boid simulation! Let me know what you guys think]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/puzzxq/fishboid_simulation_let_me_know_what_you_guys/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/puzzxq/fishboid_simulation_let_me_know_what_you_guys/</guid><pubDate>Sat, 25 Sep 2021 18:32:09 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I made a website that lists notice period details of every company in the world]]></title><description><![CDATA[Hey Guys, This idea just popped in my mind when i was hesitated to ask HR about
+the notice period in company. I did try to search this up on internet , but
+couldn't really find anything. hence decided to build this one.
 
-&lt;p&gt;Many thanks&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I built a game to help entrepreneurs find ideas and get inspired]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pddjki/i_built_a_game_to_help_entrepreneurs_find_ideas/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pddjki/i_built_a_game_to_help_entrepreneurs_find_ideas/</guid><pubDate>Sun, 29 Aug 2021 13:26:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Learn cutting-edge tech hands-on with gorehearse.com. It's where you learn by researching and building rather than just watching.]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pdtb86/learn_cuttingedge_tech_handson_with_gorehearsecom/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pdtb86/learn_cuttingedge_tech_handson_with_gorehearsecom/</guid><pubDate>Sun, 29 Aug 2021 12:33:28 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I created a web app to create beautiful lyric cards from your favorite songs with ease]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pd9hht/i_created_a_web_app_to_create_beautiful_lyric/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pd9hht/i_created_a_web_app_to_create_beautiful_lyric/</guid><pubDate>Sun, 29 Aug 2021 02:00:24 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Kanban view for Evernote]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pdf3gt/kanban_view_for_evernote/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pdf3gt/kanban_view_for_evernote/</guid><pubDate>Sat, 28 Aug 2021 22:49:30 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Made a Free tool for translating between coding Languages. (https://translate-code.com/) It is based on top of OpenAI codex model which is state of the art code generation model.]]></title><description><![CDATA[Hi guys,
+I am currently gathering data points for the notice period.
 
-We just made a tool for you to translate between coding languages (Python,
-JavaScript, Java, C++, Ruby). You would be able to translate between any of
-those languages to any other one of them.
+Here's a quick…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pv2a0c/i_made_a_website_that_lists_notice_period_details/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pv2a0c/i_made_a_website_that_lists_notice_period_details/</guid><pubDate>Sat, 25 Sep 2021 17:49:35 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey  Guys, This idea just popped in my mind when i was hesitated to ask HR  about the notice period in company. I did try to search this up on  internet , but couldn&amp;#39;t really find anything. hence decided to build  this one.&lt;/p&gt;
 
-We are opening it for free usage for a limited period to get some feedback and
-improve the…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pdemb5/made_a_free_tool_for_translating_between_coding/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pdemb5/made_a_free_tool_for_translating_between_coding/</guid><pubDate>Sat, 28 Aug 2021 22:22:02 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi guys, &lt;/p&gt;
+&lt;p&gt;I am currently gathering data points for the notice period.&lt;/p&gt;
 
-&lt;p&gt;We just made a tool for you to translate between coding languages (Python, JavaScript,  Java, C++, Ruby). You would be able to translate between any of those languages to any other one of them. &lt;/p&gt;
+&lt;p&gt;Here&amp;#39;s a quick MVP. Any feedback highly appreciated :)&lt;/p&gt;
 
-&lt;p&gt;We are opening it for free usage for a limited period to get some feedback and improve the service. We have a lot of plans to add more languages and framework and a lot more. &lt;/p&gt;
-
-&lt;p&gt;you could check it out at: &lt;a href=&quot;https://translate-code.com/&quot;&gt;Translate-code&lt;/a&gt;. Feedback is appreciated.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[A service that sends in-app messages via API to Web, iOS & Android.]]></title><description><![CDATA[This is something I've been working on for a while. It started out as a side
-project, but over time evolved into something else, after around 1 year of
-working on the core technology, I decided to go full time, that was December
-2019.
-
-To give you a brief intro, Gist gives you the tools to build and…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pdagv5/a_service_that_sends_inapp_messages_via_api_to/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pdagv5/a_service_that_sends_inapp_messages_via_api_to/</guid><pubDate>Sat, 28 Aug 2021 17:04:40 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This is something I&amp;#39;ve been working on for a while. It started out as a side project, but over time evolved into something else, after around 1 year of working on the core technology, I decided to go full time, that was December 2019.&lt;/p&gt;
-
-&lt;p&gt;To give you a brief intro, Gist gives you the tools to build and send in-app messages to Web, iOS &amp;amp; Android.&lt;/p&gt;
-
-&lt;p&gt;Think of Gist as a tool within your toolbox, like how you would use Mailgun for transactional email or Twilio for SMS. Gist does the same for in-app messages, it offers an API to queue personalized messages and a message builder to create cross-platform messages.&lt;/p&gt;
-
-&lt;p&gt;In October I&amp;#39;ll be removing the invite system so anyone can just go in and create an account. If you want to be reminded when that happens please add yourself to &lt;a href=&quot;https://mailchi.mp/6a22e439c3fd/gist-access&quot;&gt;this list&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Please have a look at &lt;a href=&quot;https://gist.build/&quot;&gt;Gist&lt;/a&gt; and let me know your thoughts.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I will buy your Side Project :)]]></title><description><![CDATA[Interested to get into SaaS space and looking to buy some Side Projects which
-you might not have time to develop or maintain. Budget - $1k-$10k
-
-Looking for only Quality projects not open source scripts.]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pd6tam/i_will_buy_your_side_project/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pd6tam/i_will_buy_your_side_project/</guid><pubDate>Sat, 28 Aug 2021 16:01:22 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Interested to get into SaaS space and looking to buy some Side Projects which you might not have time to develop or maintain. Budget - $1k-$10k&lt;/p&gt;
-
-&lt;p&gt;Looking for only Quality projects not open source scripts.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Create Personal Portfolio Using Github Api with Blog]]></title><description><![CDATA[For a developer, a personal portfolio plays an important role to showcase
-his/her works, reach to potential clients or land a job. But making it requires
-a tremendous amount of works and time. Also maintaining it manually with the
-latest project is a pain.
-
-What if you could create your portfolio in…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pcsgqe/create_personal_portfolio_using_github_api_with/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pcsgqe/create_personal_portfolio_using_github_api_with/</guid><pubDate>Sat, 28 Aug 2021 14:52:14 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;For a developer, a personal portfolio plays an important role to showcase his/her works, reach to potential clients or land a job. But making it requires a tremendous amount of works and time. Also maintaining it manually with the latest project is a pain.&lt;/p&gt;
-
-&lt;p&gt;What if you could create your portfolio in 5 minutes just by providing your Github username and even host it without any cost? Do you want to display your skills, job history, education history, or even dev.to posts to your website? Then you are in right place.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.whatismynoticeperiod.xyz/&quot;&gt;https://www.whatismynoticeperiod.xyz/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&amp;#x200B;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://i.redd.it/9fuv0xbfvxj71.gif&quot;&gt;https://i.redd.it/9fuv0xbfvxj71.gif&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here&amp;#39;s the sheet link: &lt;/p&gt;
 
-&lt;p&gt;Introducing &lt;strong&gt;ezProfile&lt;/strong&gt; to kickstart your personal portfolio with Github Api and blog.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1cF6cw2FbuNyt833b1IzpHheuMj4S1l0vJ4aFo1q82PQ/edit?usp=sharing&quot;&gt;https://docs.google.com/spreadsheets/d/1cF6cw2FbuNyt833b1IzpHheuMj4S1l0vJ4aFo1q82PQ/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Watch me build a product and launch in 30 days with just HTML and CSS]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pva4yn/watch_me_build_a_product_and_launch_in_30_days/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pva4yn/watch_me_build_a_product_and_launch_in_30_days/</guid><pubDate>Sat, 25 Sep 2021 17:37:24 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Finally, I launched Codsletter: turn any blog into a periodical newsletter automatically!]]></title><description><![CDATA[Hello and good morning to everyone on Reddit,
 
-&lt;p&gt;✓ 21 Themes&lt;/p&gt;
+I'm glad to tell you that finally (after a lot of time) I was able to finish a
+side project. It is very simple, also the motivation is: it is a tool that I
+need for (my blog), so I caught the ball and I published it on Heroku and on
+Github.
 
-&lt;p&gt;✓ Google Analytics&lt;/p&gt;
+The URL of…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pv5j6y/finally_i_launched_codsletter_turn_any_blog_into/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pv5j6y/finally_i_launched_codsletter_turn_any_blog_into/</guid><pubDate>Sat, 25 Sep 2021 13:33:37 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello and good morning to everyone on Reddit, &lt;/p&gt;
 
-&lt;p&gt;✓ Meta Tags&lt;/p&gt;
+&lt;p&gt;I&amp;#39;m glad to tell you that finally (after a lot of time) I was able to finish a side project. It is very simple, also the motivation is: it is a tool that I need for (my blog), so I caught the ball and I published it on Heroku and on Github.&lt;/p&gt;
 
-&lt;p&gt;✓ Avatar and Bio&lt;/p&gt;
+&lt;p&gt;The URL of the application is: &lt;a href=&quot;https://codsletter.herokuapp.com/&quot;&gt;https://codsletter.herokuapp.com/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;✓ Social Links&lt;/p&gt;
+&lt;p&gt;While, if you want to know how it works or why I created it specifically, this is my blog post: &lt;a href=&quot;https://codingadventures.netlify.app/finally-i-launched-codsletter-turn-any-blog-into-a-periodically-newsletter-without-automatically/&quot;&gt;https://codingadventures.netlify.app/finally-i-launched-codsletter-turn-any-blog-into-a-periodically-newsletter-without-automatically/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;✓ Skills&lt;/p&gt;
+&lt;p&gt;Thank you for any advice or feedback! :-)&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[FakeWord.org - Fake word generator. Fake words that sound real.]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/puug3i/fakewordorg_fake_word_generator_fake_words_that/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/puug3i/fakewordorg_fake_word_generator_fake_words_that/</guid><pubDate>Sat, 25 Sep 2021 02:17:08 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[99avatars.com - Avatars for humans and computers]]></title><description><![CDATA[HI all,
 
-&lt;p&gt;✓ Experience&lt;/p&gt;
+I wanted to share a quick and fun sideproject I've been working on:
+99avatars.com [https://99avatars.com].
 
-&lt;p&gt;✓ Education&lt;/p&gt;
+You can manually create and download an svg avatar or you can use the API. I
+have tons of ideas for making the avatars 'better' and more versatile and I'll
+implement them over the…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pur2s5/99avatarscom_avatars_for_humans_and_computers/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pur2s5/99avatarscom_avatars_for_humans_and_computers/</guid><pubDate>Fri, 24 Sep 2021 22:57:31 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;HI all,&lt;/p&gt;
 
-&lt;p&gt;✓ Projects&lt;/p&gt;
+&lt;p&gt;I wanted to share a quick and fun sideproject I&amp;#39;ve been working on: &lt;a href=&quot;https://99avatars.com&quot;&gt;99avatars.com&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;✓ Blog Posts&lt;/p&gt;
+&lt;p&gt;You can manually create and download an svg avatar or you can use the API. I have tons of ideas for making the avatars &amp;#39;better&amp;#39; and more versatile and I&amp;#39;ll implement them over the coming weeks. Also, the API will be upgraded with more options and customisations.&lt;/p&gt;
 
-&lt;p&gt;To view a live example, &lt;a href=&quot;https://www.arifszn.com/ezprofile&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I want to stay close to the simple form factor I have now for the avatars, but it might be a cool opportunity to collaborate with someone that is a more talented illustrator than me to create different styles and options and make it even more useful.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Repo:&lt;/strong&gt; &lt;a href=&quot;https://github.com/arifszn/ezprofile&quot;&gt;&lt;strong&gt;https://github.com/arifszn/ezprofile&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Telegram Bots Rating (Top 500)]]></title><description><![CDATA[Hello people and robots,
-I've created a rating of telegram bots. Bots in the list are sorted by number of
-chats they are installed in. For another project of mine I have crawled lists of
-users of 800k public telegram groups. Based on these data I have created rating
-of bots. It is here…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pd76jf/telegram_bots_rating_top_500/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pd76jf/telegram_bots_rating_top_500/</guid><pubDate>Sat, 28 Aug 2021 14:27:14 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello people and robots,&lt;br/&gt;
-I&amp;#39;ve created a rating of telegram bots. Bots in the list are sorted by number of chats they are installed in. For another project of mine I have crawled lists of users of 800k public telegram groups. Based on these data I have created rating of bots. It is here &lt;a href=&quot;https://tgbots.io/&quot;&gt;https://tgbots.io&lt;/a&gt; First two places are occupied by my bots because I know 100% groups where my bots are installed. But for other bots I know only subset of groups where they are installed because I do not have list of ALL public telegram groups.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I created a free app for developers to generate iOS App Icons quickly]]></title><description><![CDATA[Hi everyone 👋,
+&lt;p&gt;Anyway, hope you check it out and have some fun.&lt;/p&gt;
 
-I have just released a free app Devsigner helping everyone to create
-production-graded app icons for their iOS apps easily. You can find the app
-here: https://apps.apple.com/us/app/devsigner/id1573136365
-
-I am an iOS developer and have a passtion of creating iOS apps. But most of…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pd6ux4/i_created_a_free_app_for_developers_to_generate/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pd6ux4/i_created_a_free_app_for_developers_to_generate/</guid><pubDate>Sat, 28 Aug 2021 13:52:17 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone 👋,&lt;/p&gt;
-
-&lt;p&gt;I have just released a free app Devsigner helping everyone  to create production-graded app icons for their iOS apps easily. You can find the app here: &lt;a href=&quot;https://apps.apple.com/us/app/devsigner/id1573136365&quot;&gt;https://apps.apple.com/us/app/devsigner/id1573136365&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I am an iOS developer and have a passtion of creating iOS apps. But most of the time, I find myself spending more time in creating graphic assets for my apps than writing code. Especially for the app icons, where iOS developers need to generate a lot of sizes for different purposes in catalog assets. Moreover a developer doesn&amp;#39;t necessary has enough designig skills or required tools to create such icons easily.&lt;/p&gt;
-
-&lt;p&gt;Devsigner tries to solve this problem by providing a simple tool to help any developer to create an app icon in an easy way.&lt;/p&gt;
-
-&lt;p&gt;💕 Multiple icon fonts such as Material Fonts from Google, Fluent System from Microsoft, and Fontawesome
-🥰 Twitter emojis
-🔡 Over hundred built-in fonts from iOS&lt;/p&gt;
-
-&lt;p&gt;You can find more info at the app &lt;a href=&quot;https://devsigner.antran.app/&quot;&gt;landing page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The app supports generation of asset catalogs and they can be imported into Xcode directly.&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;d love to hear your feedback and feel free to suggest new ideas or tell me what is missing from the app. I will try my best to get them implemented. Feel free to leave comment here or contact me on &lt;a href=&quot;https://twitter.com/antranapp&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I'm building 100% Serverless Elasticsearch]]></title><description><![CDATA[I'm an SDE at AWS and for a while now I've been working in my spare time on a
-side project to build a fully Serverless search engine. I decided to target
-Elasticsearch, being the most used search engine database out there. I am
-determined to fix, or at least improve where I can, on the following…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pcfnmp/im_building_100_serverless_elasticsearch/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pcfnmp/im_building_100_serverless_elasticsearch/</guid><pubDate>Sat, 28 Aug 2021 02:54:20 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m an SDE at AWS and for a while now I&amp;#39;ve been working in my spare time on a side project to build a fully Serverless search engine. I decided to target Elasticsearch, being the most used search engine database out there. I am determined to fix, or at least improve where I can, on the following issues:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Elasticsearch is incredibly annoying to configure. There are hundreds of settings and configurations to choose, and many of them are one way doors - for example, once you configure your shard count you cannot change it without a full migration to reindex your data into a new index.&lt;/li&gt;
-&lt;li&gt;Similar to anything that isnt serverless, having to constantly monitor and worry about CPU, memory pressure and other metrics is something no one has time for in the real world. Elasticsearch has launched an autoscaling policy feature, but this will still hit issues for users who have big jumps in usage and leaves yet another complexity for the user to configure.&lt;/li&gt;
-&lt;li&gt;Again, common to serverless is the issue of developers having to over-provision their instances and have unused capacity just sitting around - seems like a loss for everyone involved.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I thought I&amp;#39;d reach out to the community to see if anyone like me would like to see Serverless Search and whether they would find it useful in their applications.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[This app lets you track any number from any website]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pclgxu/this_app_lets_you_track_any_number_from_any/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pclgxu/this_app_lets_you_track_any_number_from_any/</guid><pubDate>Sat, 28 Aug 2021 01:38:48 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[My friends and I created a service that lets you collect and summarize reviews from across the internet]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pcidiw/my_friends_and_i_created_a_service_that_lets_you/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pcidiw/my_friends_and_i_created_a_service_that_lets_you/</guid><pubDate>Fri, 27 Aug 2021 21:44:19 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[A Facebook bot that I made to unfriend people who didn't react to my post in the past 4 years.]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pcjisc/a_facebook_bot_that_i_made_to_unfriend_people_who/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pcjisc/a_facebook_bot_that_i_made_to_unfriend_people_who/</guid><pubDate>Fri, 27 Aug 2021 09:23:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Sharing a cool font and design tip to help you with marketing]]></title><description><![CDATA[Hi everyone! I work on a series called FontDiscovery. Every week I create a
+&lt;p&gt;p.s. the Guess Who game is more a gimmick and not what this is about perse (but I had a lot of fun building it anyway)&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Communicating gentleness with this font for your projects]]></title><description><![CDATA[Hi everyone! I work on a series called FontDiscovery. Every week I create a
 digestible visual guide about fonts, marketing, and design ideas to help
-founders and markers step up their marketing and get creative! This week, I
-share a graffiti font for flashy marketing projects like swags. I also…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pc5p25/sharing_a_cool_font_and_design_tip_to_help_you/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pc5p25/sharing_a_cool_font_and_design_tip_to_help_you/</guid><pubDate>Fri, 27 Aug 2021 05:19:23 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone! I work on a series called FontDiscovery. Every week I create a digestible visual guide about fonts, marketing, and design ideas to help founders and markers step up their marketing and get creative! This week, I share a graffiti font for flashy marketing projects like swags. I also share creative tips about stickers, which is a great tool to DIY and help you grow your brand awareness. If you have to create designs for your projects and business, try these and let me know what you think!&lt;/p&gt;
+founders and markers step up their marketing and get creative.
 
-&lt;h1&gt;Font of the Week: Disko&lt;/h1&gt;
+This week, I share a font that communicates gentleness in your marketing. we
+also talk…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/punh2m/communicating_gentleness_with_this_font_for_your/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/punh2m/communicating_gentleness_with_this_font_for_your/</guid><pubDate>Fri, 24 Sep 2021 21:26:37 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone! I work on a series called FontDiscovery. Every week I create a digestible visual guide about fonts, marketing, and design ideas to help founders and markers step up their marketing and get creative.&lt;/p&gt;
 
-&lt;p&gt;Disko is a fat, graffiti-inspired font that feels a little old school. The letters, puffy like marshmallows, remind you of bubble letters*.* At its natural state (if you don&amp;#39;t manipulate the letter-spacing), Disko letters overlap to create a hand-drawn vibe. Disk communicates loud, funkiness, urban in a bold and colloquial tone. Because it has a colloquial, urban tone, it is only appropriate for particular brands. For example, those focusing on youth, pop culture, urban spaces, or similar. It may not be right for something that looks to be classic or serious. &lt;/p&gt;
+&lt;p&gt;This week, I share a font that communicates gentleness in your marketing. we also talk about open source projects as marketing. If you have to create designs for your projects and business, try these and let me know what you think!&lt;/p&gt;
 
-&lt;h1&gt;Design Idea of the Week: Stickers as an opportunity&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Font of the Week: Averia&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Stickers are a great way to get your business name out there. At conferences and events, you will see stickers all over. Stickers increase brand awareness and are relatively easy to DIY. If you have a printer, you can even make them at home with adhesive paper. While you could be using your logo, the design can also be an opportunity to build up emotional connections with your customers. What if you use a word or catchphrase? What if you create a cute mascot? What if you use custom memes for your brand?&lt;/p&gt;
+&lt;p&gt;Averia family has swelled-up strokes that give a brush appearance, hand-crafted feeling. Averia is created by averaging all the fonts on the designer&amp;#39;s computer. There are several different styles of Averia: Averia Libre is an average of all the fonts; Averia Sans Libre includes is the average of all the sans serif, whereas Averia Serif Libre is the average of all the serifs. This font family communicates warmth, artisanal, and gentleness. It gives your project a gentle and tender feeling. Averia Sans Libre feels the most gentle because it looks thinner and softer than other style versions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How to use it for design and marketing?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;- Each Serif, Sans, and Libre version has three weights and is available in regular and italic styles.&lt;br/&gt;
+- Averia Serif and Sans serif can pair with each other&lt;br/&gt;
+- Serif is good for editorial; Sans and Libre is excellent for body copy&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Marketing Idea of the Week: Open Source Project&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;An open-source project is a community project that everyone can contribute. Many fonts in this newsletter are open-sourced. The project files are on Github, and anyone can download the source files and create modifications to them. Having a community project like this can foster a sense of community and empowerment through group ownership. Free projects that allow everyone can modify and share can be a great source of marketing.&lt;/p&gt;
 
 &lt;p&gt;I share tips like this weekly, you can &lt;a href=&quot;https://fonts.substack.com/&quot;&gt;subscribe&lt;/a&gt; if you feel like. If you would like to read the original post, you can see it at fonts.substack.com.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/9ho779xwyqj71.png?width=1518&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=906c9486e0fcfb05f1c1504fe1d17ab061ae0214&quot;&gt;https://preview.redd.it/9ho779xwyqj71.png?width=1518&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=906c9486e0fcfb05f1c1504fe1d17ab061ae0214&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[JustOne, Nonprofit social media app (alternative to Instagram), feedback appreciated]]></title><description><![CDATA[https://preview.redd.it/s31ek7u06rj71.jpg?width=1116&format=pjpg&auto=webp&s=be639fcf022f1a56b180ff0f9aa5f72329508f7c
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/4jzjrlzsahp71.png?width=1518&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d7ce453e553257a93fc31c3b0ef6d61f3f4949d0&quot;&gt;https://preview.redd.it/4jzjrlzsahp71.png?width=1518&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d7ce453e553257a93fc31c3b0ef6d61f3f4949d0&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[A hacker news newsletter with goals of rethinking reddit]]></title><description><![CDATA[The site is a work in progress. In order to overcome the double-sided market
+problem I'm starting with a weekly newsletter of deeply important Hacker News
+posts. An alternative to an addictive infinite list of interesting posts. The
+site only selects those posts you need to read - no news is good…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pupn42/a_hacker_news_newsletter_with_goals_of_rethinking/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pupn42/a_hacker_news_newsletter_with_goals_of_rethinking/</guid><pubDate>Fri, 24 Sep 2021 19:56:48 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The site is a work in progress. In order to overcome the double-sided market problem I&amp;#39;m starting with a weekly newsletter of deeply important Hacker News posts. An alternative to an addictive infinite list of interesting posts. The site only selects those posts you need to read - no news is good news.&lt;/p&gt;
 
-Hello everyone,
+&lt;p&gt;Posts are selected by estimating the result of a referendum on &amp;quot;is this deeply important for you to know?&amp;quot; By using statistics we can make an educated guess as to what posts you would find deeply important without even asking you.&lt;/p&gt;
 
-As you know, in recent years social media companies have started to control and
-manipulate society. Algorithms promote content that sparks outrage, hate,…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pc6hxv/justone_nonprofit_social_media_app_alternative_to/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pc6hxv/justone_nonprofit_social_media_app_alternative_to/</guid><pubDate>Fri, 27 Aug 2021 04:04:16 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/s31ek7u06rj71.jpg?width=1116&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=be639fcf022f1a56b180ff0f9aa5f72329508f7c&quot;&gt;https://preview.redd.it/s31ek7u06rj71.jpg?width=1116&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=be639fcf022f1a56b180ff0f9aa5f72329508f7c&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hello everyone,&lt;/p&gt;
-
-&lt;p&gt;As you know, in recent years social media companies have started to control and manipulate society. Algorithms promote content that sparks outrage, hate, and amplifies biases to further monetize us. A lot of concerned users have already left social media long time ago because they couldn&amp;#39;t find a better alternative. Unfortunately, they continue to destroy our communities every day. We believe, there should be some independent and public-owned social media alternatives to private social media networks. (#TheSocialDilemma #biasedbanning)&lt;/p&gt;
-
-&lt;p&gt;We created a new social media project, called &amp;quot;JustOne&amp;quot;. JustOne is a women &amp;amp; LGBTQIA+ managed nonprofit ethical photo sharing social media network. It is also going to be fully open source and run on a decentralized network.&lt;/p&gt;
-
-&lt;p&gt;Note: We greatly value your feedback. And also, looking for other co-founders for partnership. Please DM me for the Testflight invitations, but also feel free to provide general feedback about the idea. Thank you!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Meet the Netflix of Writing Apps ✨]]></title><description><![CDATA[Yup, the title says it all. I recently launched a new version of the
-first-of-its-kind mood-inducing text editor that lets you write in a completely
-distraction free zone as the background plays ambient music according to your
-mood/writing theme.
-
-It's free to use on laptop/desktop devices at…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pc6lwj/meet_the_netflix_of_writing_apps/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pc6lwj/meet_the_netflix_of_writing_apps/</guid><pubDate>Thu, 26 Aug 2021 21:28:20 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Yup, the title says it all. I recently launched a new version of the first-of-its-kind mood-inducing text editor that lets you write in a completely distraction free zone as the background plays ambient music according to your mood/writing theme.&lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s free to use on &lt;strong&gt;laptop/desktop&lt;/strong&gt; devices at &lt;a href=&quot;https://frostwriter.com/&quot;&gt;frostwriter.com&lt;/a&gt;. Recommended browser: Chrome. Headphones recommended.&lt;/p&gt;
-
-&lt;p&gt;Keep reading if you wanna learn more about the new features.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/7h7q85227rj71.png?width=635&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=33b6bcccc34a48367fd3fd316afc848b8578110b&quot;&gt;https://preview.redd.it/7h7q85227rj71.png?width=635&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=33b6bcccc34a48367fd3fd316afc848b8578110b&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Frost 3.0 had the following features which users loved the most :&lt;/p&gt;
+&lt;p&gt;The eventual goal is to recreate Reddit with the discussion reflecting the desires of all users and not just the most active and passionate. We aim to accomplish this with several tools:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Completely distraction-free&lt;/li&gt;
-&lt;li&gt;Ad-free Music&lt;/li&gt;
-&lt;li&gt;Ability to download your file&lt;/li&gt;
-&lt;li&gt;Dark theme&lt;/li&gt;
-&lt;li&gt;Overall ad-free experience&lt;/li&gt;
+&lt;li&gt;  Democratic moderation: elected moderators, statistical sampling, referendums, and designated proxies&lt;/li&gt;
+&lt;li&gt;  Moderating visibility: up voting a post makes you as responsible for it as the poster&lt;/li&gt;
+&lt;li&gt;  Being optimized for users, not investors&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;4.0 takes all these features to the next level by bringing features like minimal dynamic backgrounds, full bleed, background shuffle, and over 30 ambient themes.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://efficientdemocracy.com/about/what-is-this&quot;&gt;https://efficientdemocracy.com/about/what-is-this&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Inspiration behind the application:&lt;/strong&gt; I just wanted to have a platform for writers and poets who wish to write to music. Nobody has the time to search for the &amp;#39;perfect&amp;#39; soundtrack while writing and you just can&amp;#39;t afford to get the muse get away while doing so.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://efficientdemocracy.com/&quot;&gt;https://efficientdemocracy.com/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;It was just featured on Product Hunt too and I&amp;#39;d love to see what you guys think: &lt;a href=&quot;https://www.producthunt.com/posts/frost-4-0&quot;&gt;https://www.producthunt.com/posts/frost-4-0&lt;/a&gt; !!&lt;/p&gt;
+&lt;p&gt;Sidenote: I spent way too long writing something that should have taken a programmer a weekend :/ There are still a lot of rough edges but I think there the core is there.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I've been working on a DIY Batmobile™ kit that will teach kids STEM for over a year now]]></title><description><![CDATA[Hi everyone,
+
+My name is Albert, and I’m a 22-year-old tech-lover creating fun and educational
+electronic devices 😄
+
+I wanted to share my latest project with the rest of the group - it’s named
+CircuitMess Batmobile™️ 🦇🚗
+
+CircuitMess is a small business that I’m trying to build based on the idea…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/puimpg/ive_been_working_on_a_diy_batmobile_kit_that_will/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/puimpg/ive_been_working_on_a_diy_batmobile_kit_that_will/</guid><pubDate>Fri, 24 Sep 2021 14:14:27 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt;
+
+&lt;p&gt;My name is Albert, and I’m a 22-year-old tech-lover creating fun and educational electronic devices 😄&lt;/p&gt;
+
+&lt;p&gt;I wanted to share my latest project with the rest of the group - it’s named CircuitMess Batmobile™️ 🦇🚗&lt;/p&gt;
+
+&lt;p&gt;CircuitMess is a small business that I’m trying to build based on the idea of bringing excitement and joy via fun electronic kits to people all around the world. 🌎&lt;/p&gt;
+
+&lt;p&gt;CircuitMess Batmobile™️ is an AI-powered DIY Batmobile kit made in cooperation with Warner Bros.&lt;/p&gt;
+
+&lt;p&gt;It’s running on an ESP32 with a 32-bit Nuvoton coprocessor MCU, and an ESP8266 is powering the remote controller.&lt;/p&gt;
+
+&lt;p&gt;I’ve been negotiating with WB and working on this product for the past year and a half. Being a huge Batman fan myself, getting to work with the people behind Batman as a brand was a dream come true! ✨&lt;/p&gt;
+
+&lt;p&gt;I’ve designed this kit to teach everyone about cutting-edge technologies, such as machine learning, computer vision, AI, IoT, and much more, while feeling like the Caped Crusader. 🦇&lt;/p&gt;
+
+&lt;p&gt;Everything I do is also open source, Arduino compatible, and hackable. 💻&lt;/p&gt;
+
+&lt;p&gt;I would appreciate your honest feedback on the product! 😄&lt;br/&gt;
+You can join my discord channel for updates and discussions: &lt;a href=&quot;https://discord.gg/UZkp89eN4y&quot;&gt;https://discord.gg/UZkp89eN4y&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thank you for your time 👋&lt;/p&gt;
 
 &lt;p&gt;&amp;#x200B;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/vj04ocq57rj71.png?width=635&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=572b84ea6575556ab4055094b8968a6d4834cdc9&quot;&gt;https://preview.redd.it/vj04ocq57rj71.png?width=635&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=572b84ea6575556ab4055094b8968a6d4834cdc9&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Greatest side project ever!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pc0mlm/greatest_side_project_ever/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pc0mlm/greatest_side_project_ever/</guid><pubDate>Thu, 26 Aug 2021 18:52:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Auto correct Spelling, punctuation and grammar]]></title><description><![CDATA[Hi, This is my tiny project built in Pytorch. would like your feedback.
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/hiifuwd82gp71.jpg?width=512&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=7b15bdb8508152ac7501d7a218d80343b4b0b7dd&quot;&gt;https://preview.redd.it/hiifuwd82gp71.jpg?width=512&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=7b15bdb8508152ac7501d7a218d80343b4b0b7dd&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I built chatlike.xyz - live chat with your web visitors via Discord]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pufjtq/i_built_chatlikexyz_live_chat_with_your_web/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pufjtq/i_built_chatlikexyz_live_chat_with_your_web/</guid><pubDate>Fri, 24 Sep 2021 11:16:11 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I created a tool to find blogs & newsletters in your Twitter follows]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ptv6bj/i_created_a_tool_to_find_blogs_newsletters_in/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ptv6bj/i_created_a_tool_to_find_blogs_newsletters_in/</guid><pubDate>Thu, 23 Sep 2021 18:28:13 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I added scrolling screenshots, object eraser and customizable hotkeys to Shottr. Still free.]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ptvnpz/i_added_scrolling_screenshots_object_eraser_and/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ptvnpz/i_added_scrolling_screenshots_object_eraser_and/</guid><pubDate>Thu, 23 Sep 2021 15:17:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Transcriber: AI-Powered Audio & Video Transcription Chatbot]]></title><description><![CDATA[Looking for a way to transcribe your audio or video files? With AI-powered
+Transcriber bot, you can quickly and accurately convert audio or video into text
+and subtitles!
 
-https://www.textcorrect.co/
+https://speechtext.ai/transcriber
 
-Not sure how to advertise and get traffic :) please suggest your ideas to grow.]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbxqme/auto_correct_spelling_punctuation_and_grammar/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbxqme/auto_correct_spelling_punctuation_and_grammar/</guid><pubDate>Thu, 26 Aug 2021 18:37:13 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi, This is my tiny project built in Pytorch. would like your feedback. &lt;/p&gt;
+https://slack.com/apps/A024SEU6D4M-transcriber
 
-&lt;p&gt;&lt;a href=&quot;https://www.textcorrect.co/&quot;&gt;https://www.textcorrect.co/&lt;/a&gt; &lt;/p&gt;
+Transcriber allows you to create transcripts…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pt7njm/transcriber_aipowered_audio_video_transcription/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pt7njm/transcriber_aipowered_audio_video_transcription/</guid><pubDate>Thu, 23 Sep 2021 12:13:29 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Looking for a way to transcribe your audio or video files? With AI-powered Transcriber bot, you can quickly and accurately convert audio or video into text and subtitles!&lt;/p&gt;
 
-&lt;p&gt;Not sure how to advertise and get traffic :)  please suggest your ideas to grow.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Emulating a CPU in software]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pc0q9r/emulating_a_cpu_in_software/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pc0q9r/emulating_a_cpu_in_software/</guid><pubDate>Thu, 26 Aug 2021 16:52:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[⚘ Patera - Like Notion but readers can interact with numbers]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbys6s/patera_like_notion_but_readers_can_interact_with/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbys6s/patera_like_notion_but_readers_can_interact_with/</guid><pubDate>Thu, 26 Aug 2021 13:38:42 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Game Scry, explore games by clicking categories, any feedback appreciated]]></title><description><![CDATA[https://game-scry.online/
+&lt;p&gt;&lt;a href=&quot;https://speechtext.ai/transcriber&quot;&gt;&lt;strong&gt;https://speechtext.ai/transcriber&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-Why:
+&lt;p&gt;&lt;a href=&quot;https://slack.com/apps/A024SEU6D4M-transcriber&quot;&gt;&lt;strong&gt;https://slack.com/apps/A024SEU6D4M-transcriber&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-I'm a game dev and I like brainstorming and daydreaming about categories and
-genres. It can also function as a news feed just to see what games have buzz
-currently, although right now it's just 'all time popular', not 'recent popular'
-which is in the works.
+&lt;p&gt;Transcriber allows you to create transcripts for audio recordings, videos, podcasts, interviews, phone calls, and webinars. It can transcribe files from your device, files accessible over public URLs, data from cloud storages, audio distribution sites, social media platforms (YouTube, Vimeo, Dailymotion, TikTok, Facebook, and more).&lt;/p&gt;
 
-How it…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbdp99/game_scry_explore_games_by_clicking_categories/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbdp99/game_scry_explore_games_by_clicking_categories/</guid><pubDate>Thu, 26 Aug 2021 07:55:32 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://game-scry.online/&quot;&gt;https://game-scry.online/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Main features:&lt;/p&gt;
 
-&lt;p&gt;Why: &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Speech recognition&lt;/strong&gt;. Our cutting-edge AI transcription technology will automatically transcribe your files with close to human accuracy.&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi language&lt;/strong&gt;. Transcription service supports multiple languages, dialects, and accents.&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automatic punctuation and casing&lt;/strong&gt;. Audio and video transcriptions include commas, full stops, question marks, periods.&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Online transcript editor&lt;/strong&gt;. In-browser interface helps users to edit and review automatic transcription results.&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced export&lt;/strong&gt;. Download your transcript in TXT, DOCX, XSLX, PDF, SRT, VTT, and many other formats.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I wrote a script that automatically detects interesting trends on Reddit, Google, and niche forums]]></title><description><![CDATA[I started the project because I'm always looking for trends myself and thought
+that it would be an interesting programming challenge. I've been refining the
+script for a while now and slowly but steadily the results are becoming more
+interesting. So far I've "niched down" by focusing on tech trends,…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ptrjnm/i_wrote_a_script_that_automatically_detects/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ptrjnm/i_wrote_a_script_that_automatically_detects/</guid><pubDate>Thu, 23 Sep 2021 10:38:38 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I started the project because I&amp;#39;m always looking for trends myself and thought that it would be an interesting programming challenge. I&amp;#39;ve been refining the script for a while now and slowly but steadily the results are becoming more interesting. So far I&amp;#39;ve &amp;quot;niched down&amp;quot; by focusing on tech trends, crypto trends, and e-commerce trends. Probably I&amp;#39;ll have to niche down more a bit further down the road.&lt;/p&gt;
 
-&lt;p&gt;I&amp;#39;m a game dev and I like brainstorming and daydreaming about categories and genres.  It can also function as a news feed just to see what games have buzz currently, although right now it&amp;#39;s just &amp;#39;all time popular&amp;#39;, not &amp;#39;recent popular&amp;#39; which is in the works.&lt;/p&gt;
+&lt;p&gt;Here are a few interesting trends the script dug up recently.&lt;/p&gt;
 
-&lt;p&gt;How it works:&lt;/p&gt;
+&lt;h2&gt;Pulumi (Software)&lt;/h2&gt;
 
-&lt;p&gt;Anyone can post any game, any stage of dev, historical or current, and click tags to index it.  I aim to keep streamlining the tags to keep it intuitive to browse, although the tag cloud is starting to get a little crowded.  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/yn1yrcyu28p71.png?width=640&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e9a32b86ffabcb5a92e6fb12730475418f7f504c&quot;&gt;https://preview.redd.it/yn1yrcyu28p71.png?width=640&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e9a32b86ffabcb5a92e6fb12730475418f7f504c&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Permissions:&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&quot;https://www.pulumi.com/&quot;&gt;Pulumi&lt;/a&gt; is a collection of open source, cross-platform cloud development tools that make it easy to build, deploy, and manage modern infrastructure. (Buzzword: Infrastructure as Code) &lt;/p&gt;
 
-&lt;p&gt;A game owner can &amp;#39;claim&amp;#39; their game entry if someone else is doin it wrong and they want to take over.  Otherwise it&amp;#39;s a FFA.&lt;/p&gt;
+&lt;p&gt;• Pulumi can be used to build modern applications and containers, deploy and manage modern infrastructure, and develop and deploy cloud native microservices and serverless functions. &lt;/p&gt;
 
-&lt;p&gt;Tech:&lt;/p&gt;
+&lt;p&gt;• The software is open-source but still generates $1.4M in revenue through offerings for businesses who need more advanced features and support.&lt;/p&gt;
 
-&lt;p&gt;All the game data is returned client side currently, which makes searching licketysplit fast.  But eventually I&amp;#39;ll have to switch to cached serverside searches.  I might websocket the searches though to try to preserve the feel.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Getting Some Press Coverage - And What I Learned About Backlink Building]]></title><description><![CDATA[It has been six months since I started Pipewing.com [http://pipewing.com/] with
-the idea to connect digital nomads and remote workers from the same location.
+&lt;p&gt;&lt;strong&gt;Storysome (App)&lt;/strong&gt;&lt;/p&gt;
 
-After getting noticed at r/SideProject [https://www.reddit.com/r/SideProject]
-and over at r/digitalnomad…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbtalk/getting_some_press_coverage_and_what_i_learned/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbtalk/getting_some_press_coverage_and_what_i_learned/</guid><pubDate>Thu, 26 Aug 2021 06:18:12 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It has been six months since I started &lt;a href=&quot;http://pipewing.com/&quot;&gt;Pipewing.com&lt;/a&gt; with the idea to connect digital nomads and remote workers from the same location.&lt;/p&gt;
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
 
-&lt;p&gt;After getting noticed at &lt;a href=&quot;https://www.reddit.com/r/SideProject&quot;&gt;r/SideProject&lt;/a&gt; and over at &lt;a href=&quot;https://www.reddit.com/r/digitalnomad&quot;&gt;r/digitalnomad&lt;/a&gt;, things picked up. Great blogs started to mention Pipewing, e.g., here: &lt;a href=&quot;https://www.makeuseof.com/apps-guides-to-become-a-digital-nomad-and-work-as-you-travel/&quot;&gt;https://www.makeuseof.com/apps-guides-to-become-a-digital-nomad-and-work-as-you-travel/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/yz2lfezv28p71.png?width=640&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=5704749b739b26f1fa01905d4d1a1b0bc5b587c6&quot;&gt;https://preview.redd.it/yz2lfezv28p71.png?width=640&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=5704749b739b26f1fa01905d4d1a1b0bc5b587c6&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;These are big blogs with high domain authority. Here is my opinion: &lt;strong&gt;If you build something that is of true value, it will be shared by blogs, on social media, etc. If it is not - maybe your product isn&amp;#39;t as valuable after all.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&quot;https://apps.apple.com/us/app/storysome-completed-story/id1523768162&quot;&gt;Storysome&lt;/a&gt; is a mobile reading app focused on “attractive werewolf” and romance stories.&lt;/p&gt;
 
-&lt;p&gt;I did a lot of content marketing for other projects and products as well. Sometimes it&amp;#39;s worth spending the time and money to build a strong backlink profile and press coverage. Sometimes it is not.&lt;/p&gt;
+&lt;p&gt;• Besides its niche focus, a unique feature is that users have to buy coins that they can use to purchase access to book chapters.&lt;/p&gt;
 
-&lt;p&gt;If you&amp;#39;re in the early stage of a side project or startup, maybe it&amp;#39;s a great idea to inform your target audience about what you&amp;#39;re doing without being overly aggressive. If people share what you do, you know you&amp;#39;re on to something.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Weekend project: https://ThisIdeaDoesNotExist.com]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbrvi9/weekend_project_httpsthisideadoesnotexistcom/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbrvi9/weekend_project_httpsthisideadoesnotexistcom/</guid><pubDate>Thu, 26 Aug 2021 05:13:52 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[DevStack | A collaborative portal for sharing projects and ideas and getting feedback.]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbar3o/devstack_a_collaborative_portal_for_sharing/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbar3o/devstack_a_collaborative_portal_for_sharing/</guid><pubDate>Thu, 26 Aug 2021 02:49:38 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Spectrum - A tool that applies color palettes instantly to any design- right there in the browser!]]></title><description><![CDATA[No need to spend hours finding the right palette and later realizing it doesn't
-work on your project. With colorspectrum.design [https://colorspectrum.design/],
-visualize how colors interact on your design as you shuffle palettes.
+&lt;p&gt;• Many similar pay-per-chapter apps like &lt;a href=&quot;https://apps.apple.com/us/app/storyaholic-short-story/id1550545662&quot;&gt;Storyaholic&lt;/a&gt; (romantic short stories), &lt;a href=&quot;https://apps.apple.com/us/app/foxnovel-read-story-books/id1521785429&quot;&gt;Foxnovel&lt;/a&gt; (“hottest web novels”), and &lt;a href=&quot;https://apps.apple.com/us/app/webfic/id1517946671&quot;&gt;Webfic&lt;/a&gt; are also growing rapidly right now. &lt;/p&gt;
 
-https://reddit.com/link/pbj8q5/video/227ix85h9kj71/player]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbj8q5/spectrum_a_tool_that_applies_color_palettes/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbj8q5/spectrum_a_tool_that_applies_color_palettes/</guid><pubDate>Thu, 26 Aug 2021 02:08:54 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;No need to spend hours finding the right palette and later realizing it doesn&amp;#39;t work on your project. With &lt;a href=&quot;https://colorspectrum.design/&quot;&gt;colorspectrum.design&lt;/a&gt;&lt;strong&gt;,&lt;/strong&gt; visualize how colors interact on your design as you shuffle palettes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Microacquire (Company)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://reddit.com/link/pbj8q5/video/227ix85h9kj71/player&quot;&gt;https://reddit.com/link/pbj8q5/video/227ix85h9kj71/player&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Meme Search - Deep learning powered search | Demo+Github repo in comments]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbc1pd/meme_search_deep_learning_powered_search/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pbc1pd/meme_search_deep_learning_powered_search/</guid><pubDate>Wed, 25 Aug 2021 15:21:08 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Organize Your Web with WebCrate - A Open Source Bookmarking Tool]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pb75e1/organize_your_web_with_webcrate_a_open_source/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pb75e1/organize_your_web_with_webcrate_a_open_source/</guid><pubDate>Wed, 25 Aug 2021 09:34:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Camera Offset Project offers an excuse to turn your video feed off and save the environment!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pawtmh/camera_offset_project_offers_an_excuse_to_turn/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pawtmh/camera_offset_project_offers_an_excuse_to_turn/</guid><pubDate>Tue, 24 Aug 2021 22:53:19 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[We Launched Our First-Ever Product 🎉]]></title><description><![CDATA[After months of hard work, We are excited to announce the launch of our new
-product CloudLAN on ProductHunt 🤩
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
 
-What is CloudLAN - It is an essential tool for the new normal of work from
-anywhere, check us out → https://www.producthunt.com/posts/simply5-cloudlan
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/bx9u3b6x28p71.png?width=640&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=568610dc8dfdfead196c53b9974ee1dbc0156f0d&quot;&gt;https://preview.redd.it/bx9u3b6x28p71.png?width=640&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=568610dc8dfdfead196c53b9974ee1dbc0156f0d&lt;/a&gt;&lt;/p&gt;
 
-The idea of this product came along…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pakd7x/we_launched_our_firstever_product/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pakd7x/we_launched_our_firstever_product/</guid><pubDate>Tue, 24 Aug 2021 20:22:23 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;After months of hard work, We are excited to announce the launch of our new product CloudLAN on ProductHunt 🤩&lt;/p&gt;
+&lt;p&gt;• &lt;a href=&quot;https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F21ef65d2-5b1f-4cc3-82ac-9b0fef9384a1_640x240.png&quot;&gt;Microacquire is a startup acquisition marketplace, founded by&lt;/a&gt; &lt;a href=&quot;https://twitter.com/agazdecki&quot;&gt;Andrew Gazdecki&lt;/a&gt; in January 2020.  &lt;/p&gt;
 
-&lt;p&gt;What is CloudLAN - It is an essential tool for the new normal of work from anywhere, check us out → &lt;a href=&quot;https://www.producthunt.com/posts/simply5-cloudlan&quot;&gt;https://www.producthunt.com/posts/simply5-cloudlan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;• The company takes no broker fee from sellers but only charges a subscription fee from user who want to see all listing. &lt;/p&gt;
 
-&lt;p&gt;The idea of this product came along when we all are moved to a new normal hybrid working. So we just tried and launched our product cloudLAN which helps remote teams and businesses to access their business systems, servers, and office data from working anywhere! &lt;/p&gt;
+&lt;p&gt;• Microacquire currently generates $846,000 in ARR from 3000+ paying subscribers and recently &lt;a href=&quot;https://twitter.com/agazdecki/status/1413224994864173056&quot;&gt;raised&lt;/a&gt; $6.3M from investors like Jeremy Levine, Naval Ravikant, and Andreas Klinger.&lt;/p&gt;
 
-&lt;p&gt;Please comment your thoughts, looking forward to it 🤝🏻&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[FREE: Send Contents From Telegram To Notion - @NotKiteBot]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pap45w/free_send_contents_from_telegram_to_notion/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pap45w/free_send_contents_from_telegram_to_notion/</guid><pubDate>Tue, 24 Aug 2021 16:35:35 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I created this quick ad for the product we developed at my startup.. our dev skills are clearly better than our graphic design skills. Is the ad worth paying for to post on social media or will it make us look bad? Would really appreciate your POV!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/panfkj/i_created_this_quick_ad_for_the_product_we/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/panfkj/i_created_this_quick_ad_for_the_product_we/</guid><pubDate>Tue, 24 Aug 2021 15:45:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I built my first Mac app for my own need, then I found out that others love it too.]]></title><description><![CDATA[Hi everyone,
+&lt;p&gt;&lt;strong&gt;Packy McCormick (Person)&lt;/strong&gt;&lt;/p&gt;
 
-Back weeks ago, I felt bored with my Mac which I spent the whole day coding on.
-Besides, I missed the peaceful moments that my puppy was sleeping around while I
-studied during school time.
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
 
-Then I came up with the idea to build an app that shows a sleeping pet on the
-menu bar, and the…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/paml0z/i_built_my_first_mac_app_for_my_own_need_then_i/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/paml0z/i_built_my_first_mac_app_for_my_own_need_then_i/</guid><pubDate>Tue, 24 Aug 2021 15:24:38 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/filhad8y28p71.png?width=640&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7c3e0c2bff86225a76d58170f84f3b6569ab4e6a&quot;&gt;https://preview.redd.it/filhad8y28p71.png?width=640&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7c3e0c2bff86225a76d58170f84f3b6569ab4e6a&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Back weeks ago, I felt bored with my Mac which I spent the whole day coding on. Besides, I missed the peaceful moments that my puppy was sleeping around while I studied during school time.  &lt;/p&gt;
+&lt;p&gt;• &lt;a href=&quot;https://twitter.com/packyM&quot;&gt;Packy&lt;/a&gt; writes the &lt;a href=&quot;https://www.notboring.co/&quot;&gt;Not Boring&lt;/a&gt; newsletter on Substack which he started in May 2019..&lt;/p&gt;
 
-&lt;p&gt;Then I came up with the idea to build an app that shows a sleeping pet on the menu bar, and the pet might remind you to take a break too (I am a fan of the Pomodoro technique). I was so excited about that and spent nights and weekends building it. Besides, I ordered the freelance designer to sketch the icon pack too.  &lt;/p&gt;
+&lt;p&gt;  • So far he has published 240 issues and attracted more than 70,000 subscribers&lt;/p&gt;
 
-&lt;p&gt;After finishing MVP, I shared it with some of my friends for feedback. After several feedback loops, I improved the app and released the first version on Mac App Store as a paid app ($3.99).&lt;/p&gt;
+&lt;p&gt;• The newsletter is monetized through ads and a &lt;a href=&quot;https://pallet.xyz/list/not-boring/jobs&quot;&gt;niche job board&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Then, several days ago, I decided to share on /macapps subreddit to get more feedback. Unbelievably, it became a hit. I got a lot of great comments and feature requests that I have not even thought of. Some of them even had a private chat with me. They are so nice to give me suggestions. The most useful ones are from a CTO who gave me an actionable list of feedback.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Muddy Bites (Product)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Then, after gathering feedback, I jumped into updating the app and releasing a new version within 24 hours. Wow, people love that, especially, the users who had requests for new pets. I added 3 new ones in that version. It reinforced what I learned that &amp;quot;listening to the users and making them happy&amp;quot; is a correct direction for product development and business. And the great idea usually is the one that solves our own problem.  &lt;/p&gt;
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
 
-&lt;p&gt;By the way, here is my app (PetBar) on &lt;a href=&quot;https://apps.apple.com/jp/app/petbar-a-pet-on-your-menu-bar/id1580266242?l=en&amp;amp;mt=12&quot;&gt;App Store&lt;/a&gt; in case you want to check it out.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/hq9x0r9z28p71.png?width=640&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=15a1e6e54f854988ee3bb685dc00306c50d4980a&quot;&gt;https://preview.redd.it/hq9x0r9z28p71.png?width=640&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=15a1e6e54f854988ee3bb685dc00306c50d4980a&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading and have a nice day.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Distinct.css]]></title><description><![CDATA[A command line utility for finding duplicate or conflicting css rules.
+&lt;p&gt;• &lt;a href=&quot;https://www.muddybites.com/&quot;&gt;Muddy Bites&lt;/a&gt; are mini waffle cones filled with chocolate. &lt;/p&gt;
 
-Check it out here [https://github.com/timthedev07/distinct.css]]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pajvng/distinctcss/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pajvng/distinctcss/</guid><pubDate>Tue, 24 Aug 2021 13:00:06 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;A command line utility for finding duplicate or conflicting css rules.&lt;/p&gt;
+&lt;p&gt;• They market the snack as “the best part of sundae cones” and have more than 50,000 online order. &lt;/p&gt;
 
-&lt;p&gt;Check it out &lt;a href=&quot;https://github.com/timthedev07/distinct.css&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;• Muddy Bites are distributed by an ecommerce company of the same name, which was founded by Jarod Steffes and Tyler DeVos in 2018 and originally started with a &lt;a href=&quot;https://www.kickstarter.com/projects/muddybites/muddy-bites-bite-sized-waffle-cones-filled-with-ch-0?lang=de&quot;&gt;Kickstarter campaign&lt;/a&gt; that raised $15.989 from 427 backers.&lt;/p&gt;
+
+&lt;p&gt;--------&lt;/p&gt;
+
+&lt;p&gt;My plan is to share the five most interesting finds together with some background information in a &lt;a href=&quot;https://trendbriefings.substack.com&quot;&gt;free weekly newsletter&lt;/a&gt; and offer full access to the trend signal database for a small fee. I&amp;#39;ve launched the project five months ago on Product Hunt and it&amp;#39;s currently generating around $800 MRR:&lt;/p&gt;
+
+&lt;p&gt;There&amp;#39;s certainly still some tweaking I need to do, so I&amp;#39;d love to hear if these kinds of trends are interesting. Also any ideas for interesting directions I could point the script would be awesome. I also have some prediction charts but I&amp;#39;m not sure how to share them here as no images and links are allowed.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I created a tool to make scheduling meetings easier.]]></title><description><![CDATA[Hey everybody!
+
+My name is Ricky and I’m a software engineer and entrepreneur. 6 months ago I
+got fired from my job and had to spend 2 months interviewing for new jobs. It
+was absolute hell coordinating interviews with my recruiter.
+
+Finding times that I’m available, relaying it back to her, her…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ptefs2/i_created_a_tool_to_make_scheduling_meetings/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ptefs2/i_created_a_tool_to_make_scheduling_meetings/</guid><pubDate>Thu, 23 Sep 2021 08:53:58 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everybody!&lt;/p&gt;
+
+&lt;p&gt;My name is Ricky and I’m a software engineer and entrepreneur. 6 months ago I got fired from my job and had to spend 2 months interviewing for new jobs. It was absolute hell coordinating interviews with my recruiter.&lt;/p&gt;
+
+&lt;p&gt;Finding times that I’m available, relaying it back to her, her checking to see if the companies could get someone available for X day at Y time to do the interview, and multiplied by at least a dozen companies at one time.&lt;/p&gt;
+
+&lt;p&gt;I created &lt;a href=&quot;https://getschedulr.com/&quot;&gt;Schedulr&lt;/a&gt;, a tool that saves time and the headache of back-and-forth emailing to coordinate times between you and someone you need to meet with.&lt;/p&gt;
+
+&lt;p&gt;Schedulr allows you to import your calendars from Google, Outlook, and soon, iCloud to automatically find times you’re available to meet. Just send your link to anyone and they can schedule a meeting with you.&lt;/p&gt;
+
+&lt;p&gt;Speaking to a few friends and colleagues, they told me a tool like this would be extremely helpful for scheduling all different types of meetings, so I wanted to share it with the community here.&lt;/p&gt;
+
+&lt;p&gt;I would love your feedback, as well as to discuss the pain points you face. Schedulr has a forever free plan, and I am giving away free premium licenses to the first 10 people who ask.&lt;/p&gt;
+
+&lt;p&gt;Hopefully Schedulr can be useful to you.&lt;/p&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/rlhh9kd2r3p71.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3aec25998ae5dc9ea6e56b728129580c3dfa06ac&quot;&gt;https://preview.redd.it/rlhh9kd2r3p71.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3aec25998ae5dc9ea6e56b728129580c3dfa06ac&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I created a site to check if your location is actually hidden (even with a VPN).]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ptcmwn/i_created_a_site_to_check_if_your_location_is/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ptcmwn/i_created_a_site_to_check_if_your_location_is/</guid><pubDate>Wed, 22 Sep 2021 18:59:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[UPDATE: I made an app to grow a plant while you focus on your mac]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pt8dq2/update_i_made_an_app_to_grow_a_plant_while_you/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pt8dq2/update_i_made_an_app_to_grow_a_plant_while_you/</guid><pubDate>Wed, 22 Sep 2021 15:43:19 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[New affordable e-Bikes with a patent-pending non-welded frame]]></title><description><![CDATA[I present to you the updated design of my Hybrid Pedelec. It can be equipped
+with a 250 or 500W Mid-drive with a peak torque up to 100Nm, and a removable
+battery with a capacity of 14-21Ah (504-1008Wh), which will allow to ride from
+60 to 120km (35-75mi). I kindly ask you to rate the updated…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pt73ix/new_affordable_ebikes_with_a_patentpending/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pt73ix/new_affordable_ebikes_with_a_patentpending/</guid><pubDate>Wed, 22 Sep 2021 14:45:46 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I present to you the updated design of my Hybrid Pedelec. It can be equipped with a 250 or 500W Mid-drive with a peak torque up to 100Nm, and a removable battery with a capacity of 14-21Ah (504-1008Wh), which will allow to ride from 60 to 120km (35-75mi). I kindly ask you to rate the updated appearance and to express your opinion.&lt;/p&gt;
+
+&lt;p&gt;After this model’s prototype has been successfully tested during the last 4.5 thousand km, it can be reasonably concluded that the frame construction, weighing about 3 kg, made without welding using Hybrid glue-rivet technology, perfectly withstands movement both on the broken asphalt of city streets, and on country bumpy roads.&lt;/p&gt;
+
+&lt;p&gt;An important design feature of this model frame is also the fact that it can be equipped with an 8-speed chain drive, single-speed chain drive or carbon belt drive for your choice. According to calculations, the weight of my Hybrid Pedelec, depending on the battery capacity, type and power of the drive, will be in the range from 18 to 22 kg.&lt;/p&gt;
+
+&lt;p&gt;As you can see in the photo, my Hybrid Pedelec will be equipped with fenders, bright headlights and a rear brake light. As for the additional equipment of the bike with a rear rack, I suppose to install several serial variants on the prototype and conduct their comparative testing in the near future.&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;Details: &lt;a href=&quot;https://avialbikes.com/pre-order/mid-drive-e-bike/&quot;&gt;https://avialbikes.com/pre-order/mid-drive-e-bike/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/t1thy3z9z1p71.jpg?width=1024&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=4c9e911a037b67ff545db0105594be1e6b68a4c8&quot;&gt;https://preview.redd.it/t1thy3z9z1p71.jpg?width=1024&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=4c9e911a037b67ff545db0105594be1e6b68a4c8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/vblg5sy9z1p71.jpg?width=1024&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=6680b6c507cfa76db739a547f16e5cd1e9d50889&quot;&gt;https://preview.redd.it/vblg5sy9z1p71.jpg?width=1024&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=6680b6c507cfa76db739a547f16e5cd1e9d50889&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/4x77n9l9z1p71.jpg?width=1024&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=24056efaa4079d4794faf3208822fc8b538ff5a9&quot;&gt;https://preview.redd.it/4x77n9l9z1p71.jpg?width=1024&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=24056efaa4079d4794faf3208822fc8b538ff5a9&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I created at a task planner for people who don't like to organize tasks]]></title><description><![CDATA[Hi there 👋
+
+I don't like to-do lists or project management tools. I always find them to
+either take too much time to use correctly or have too few features.
+
+That's why I built Weekrise. It combines a calendar and a to-do list into a
+simple interface. The app is intentionally simple without…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pt3sky/i_created_at_a_task_planner_for_people_who_dont/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/pt3sky/i_created_at_a_task_planner_for_people_who_dont/</guid><pubDate>Wed, 22 Sep 2021 10:44:44 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi there 👋&lt;/p&gt;
+
+&lt;p&gt;I don&amp;#39;t like to-do lists or project management tools. I always find them to either take too much time to use correctly or have too few features.&lt;/p&gt;
+
+&lt;p&gt;That&amp;#39;s why I built Weekrise. It combines a calendar and a to-do list into a simple interface. The app is intentionally simple without sacrificing useful features. That way, the time it takes to organize your tasks is as small as possible.&lt;/p&gt;
+
+&lt;p&gt;It has built-in support for projects, repeating tasks, subtasks, multiple team members, backlogs, and more.&lt;/p&gt;
+
+&lt;p&gt;Before building Weekrise I tried a bunch of task-management apps but struggled with most of them. Either they took too much time to organize well, or they didn&amp;#39;t have the features I needed.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m looking for ideas and feedback, so please tell me what you think of it, either in the comments or by clicking the feedback button in Weekrise.&lt;/p&gt;
+
+&lt;p&gt;P.S. Weekrise is 100% free. You can get started at &lt;a href=&quot;https://weekrise.com/&quot;&gt;weekrise.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/zy8rrtfcw0p71.png?width=1440&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a4ed2a99859741e3a2dea129685a16385d536739&quot;&gt;https://preview.redd.it/zy8rrtfcw0p71.png?width=1440&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a4ed2a99859741e3a2dea129685a16385d536739&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I made the non-fiction library, new website and newsletter with AirBnb style search for non-fiction only books.]]></title><description><![CDATA[Hi everyone,
+
+https://preview.redd.it/kgswup6w0uo71.png?width=2048&format=png&auto=webp&s=8c7b901170bf87a7d6da0d51da9ee6f5f6c0a23c
+
+I made a new website where I build non-fiction database.
+Want to ask for your suggestions about my project.
+
+I am a non-fiction reader, reading mostly biographies,…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/psfwdc/i_made_the_nonfiction_library_new_website_and/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/psfwdc/i_made_the_nonfiction_library_new_website_and/</guid><pubDate>Wed, 22 Sep 2021 10:04:57 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/kgswup6w0uo71.png?width=2048&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8c7b901170bf87a7d6da0d51da9ee6f5f6c0a23c&quot;&gt;https://preview.redd.it/kgswup6w0uo71.png?width=2048&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8c7b901170bf87a7d6da0d51da9ee6f5f6c0a23c&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I made a new website where I build non-fiction database.&lt;br/&gt;
+Want to ask for your suggestions about my project.   &lt;/p&gt;
+
+&lt;p&gt;I am a non-fiction reader, reading mostly biographies, history, productivity and such.  I would like to create a go-to place for non-fiction readers. For now thinking providing newsletter and a clean interface to search in a database.   &lt;/p&gt;
+
+&lt;p&gt;Demo of this project is launched at: &lt;a href=&quot;https://thenonfictionlibrary.com&quot;&gt;https://thenonfictionlibrary.com&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;My question to you I guess would be what would it takes to make people like this website and be a happy user?   &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m just getting started, pretty much created just a clean website where I can build features on top. What features to add I want to define with non-fiction users. Will it make sense?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Hey guys, I created a list of 75 info-product side hustles you can use for free!!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/psumh3/hey_guys_i_created_a_list_of_75_infoproduct_side/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/psumh3/hey_guys_i_created_a_list_of_75_infoproduct_side/</guid><pubDate>Wed, 22 Sep 2021 04:30:55 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[⚡️The ultimate SAAS template]]></title><description><![CDATA[My template to quickstart a SAAS project with
+Typescript/Next.js/NextAuth.js/Prisma/Stripe/Tailwindcss/Postgresql
+
+https://github.com/gmpetrov/utlimate-saas-js
+
+Stop loosing time implementing authentication and payment over and over again.
+Focus on what brings value to your customers]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/psqk8e/the_ultimate_saas_template/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/psqk8e/the_ultimate_saas_template/</guid><pubDate>Tue, 21 Sep 2021 23:58:21 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My template to quickstart a SAAS project with Typescript/Next.js/NextAuth.js/Prisma/Stripe/Tailwindcss/Postgresql&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/gmpetrov/utlimate-saas-js&quot;&gt;https://github.com/gmpetrov/utlimate-saas-js&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Stop loosing time implementing authentication and payment over and over again.&lt;br/&gt;
+Focus on what brings value to your customers&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[I created a chrome extension, that detects rickrolling links.]]></title><description><![CDATA[Hey, I am a computer science and economist student. I finished my freshman year
+a couple of weeks ago. I wanted during the break, before going back to
+university for my sophomore year to join a hackathon or two and do some projects
+on the side. Well, I joined a hackathon and didn't do any projects…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/psq0ol/i_created_a_chrome_extension_that_detects/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/psq0ol/i_created_a_chrome_extension_that_detects/</guid><pubDate>Tue, 21 Sep 2021 22:06:25 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey, I am a computer science and economist student. I finished my freshman year a couple of weeks ago. I wanted during the break, before going back to university for my sophomore year to join a hackathon or two and do some projects on the side. Well, I joined a hackathon and didn&amp;#39;t do any projects until now, so because uni is starting in a couple of weeks and not having a lot of time, I decided my project should be small. I juiced my brain for ideas until I decided on the genius idea of creating a chrome extension, that detects rickrolling links. I did this whole thing on python, it&amp;#39;s quite simple actually when you right-click there is an option where it says if you wanna check if it&amp;#39;s a rickroll, through machine learning it sees if the video&amp;#39;s audio is the same as the original rickrolls audio (I did this because people use different links aside from the original Never Gonna Give You Up music video. I created a youtube video, illustrating what I did a how I did it accompanied by the source code on GitHub and a link to download the extension. This is the &lt;a href=&quot;https://www.youtube.com/watch?v=pVbPq99jyJY&quot;&gt;video&lt;/a&gt; if you want to watch it. I hope y&amp;#39;all enjoy it :)&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[NENT.dev - A library of super-light web-components for web-app functionality (SPA, routing, data-binding, etc) without scripting (plus no framework or build process required)]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/psjm5k/nentdev_a_library_of_superlight_webcomponents_for/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/psjm5k/nentdev_a_library_of_superlight_webcomponents_for/</guid><pubDate>Tue, 21 Sep 2021 17:56:57 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I made a simple blogging platform]]></title><description><![CDATA[I got tired of using the bloated blogging platforms out there. They were too
+rigid, slow (some of them) and didn't have a simple UI.
+
+Therefore I made my blogging platform, QuickPublisher. Its a basic blogging
+platform, super fast with a minimalist design. You are now able to write those
+blog posts…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/psh1gh/i_made_a_simple_blogging_platform/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/psh1gh/i_made_a_simple_blogging_platform/</guid><pubDate>Tue, 21 Sep 2021 14:17:42 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I got tired of using the bloated blogging platforms out there. They were too rigid, slow (some of them) and didn&amp;#39;t have a simple UI.&lt;/p&gt;
+
+&lt;p&gt;Therefore I made my blogging platform, QuickPublisher. Its a basic blogging platform, super fast with a minimalist design. You are now able to write those blog posts without distracting your readers with heavy designs and ads.&lt;/p&gt;
+
+&lt;p&gt;Currently my platform has 335 daily active users. Want to give it a spin? &lt;a href=&quot;https://quickpublisher.online/&quot;&gt;https://quickpublisher.online&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Got any feedback? please do let me know.&lt;/p&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
