@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 07 Dec 2021 15:08:56 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[势头。智能习惯跟踪器的Notion]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ramn9b/momentum_smart_habit_tracker_for_notion/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ramn9b/momentum_smart_habit_tracker_for_notion/</guid><pubDate>Tue, 07 Dec 2021 14:46:07 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[codelib.club：在开源的应用程序中寻找解决方案，学习和构建更好的软件]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>嗨，</p> <p>我和我的朋友遇到了这个问题
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 07 Dec 2021 19:40:32 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我正在为软件开发人员创建一个笔记应用程序。]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>它完成了所有的基本任务，如创建一个
+笔记本、添加待办事项和代码支持等所有基本任务，此外它还扫描所有的 git 仓库
+并为每个仓库创建一个笔记本，其中有三个子笔记本（git tasks,
+任务和wiki），git任务为每个新的分支创建笔记......]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rb5njk/i_am_creating_a_notes_app_for_software_developers/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rb5njk/i_am_creating_a_notes_app_for_software_developers/</guid><pubDate>Tue, 07 Dec 2021 19:21:03 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;It does all basic tasks like creating a notebook, adding todos, and code support, etc plus it scans all git repositories and creates a notebook for each repository with 3 subnotebooks (git tasks, tasks, and wiki) and git tasks create notes for every new branch automatically. Please check out &amp;lt;a href=&quot;https://upnotes.io/&quot;&amp;gt;https://upnotes.io&amp;lt;/a&amp;gt; . Any feedback, suggestion, and criticism are appreciated. Thanks.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/euk5ybrjy5481.png?width=1015&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=7ffe63347067ba9bf28d3d917cfb4083d3084f7d&quot;&amp;gt;https://preview.redd.it/euk5ybrjy5481.png?width=1015&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=7ffe63347067ba9bf28d3d917cfb4083d3084f7d&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[势头。智能习惯跟踪器的Notion]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ramn9b/momentum_smart_habit_tracker_for_notion/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ramn9b/momentum_smart_habit_tracker_for_notion/</guid><pubDate>Tue, 07 Dec 2021 14:46:07 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[codelib.club：在开源的应用程序中寻找解决方案，学习和构建更好的软件]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>嗨，</p> <p>我和我的朋友遇到了这个问题
 -- 在另一个项目中，我们应该使用一些我们一无所知的javascript库。
 我们在另一个项目中应该使用一些我们一无所知的javascript库，而在谷歌上搜索其他人是如何使用这些库的，却没有任何结果。
 <p>因此，我们在互联网上搜索了开放源码库，并创建了一个 "开放源码库"。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/raux0e/codelibclub_find_solutions_in_open_sourced_apps/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/raux0e/codelibclub_find_solutions_in_open_sourced_apps/</guid><pubDate>Tue, 07 Dec 2021 13:47:37 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey,&amp;lt;/p&amp;gt;
@@ -344,38 +354,4 @@ Twitter.com...]]></description><link>https://sideproject.buzzing.cc/reddit/r/Sid
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/octopyweb&quot;&gt;I also document my journey on twitter if you&amp;#39;re interested&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you have any questions or suggestions, feel free to comment below and I&amp;#39;ll answer!&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我做了一个应用程序，可以让你创建一个备忘录竞赛，并提高你的受众参与度]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/r4cjui/i_made_an_app_that_lets_you_create_a_meme_contest/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/r4cjui/i_made_an_app_that_lets_you_create_a_meme_contest/</guid><pubDate>Sun, 28 Nov 2021 21:32:04 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我为独立制作人做了一个社区。两年后，它已经发展到2000名成员，而且还有点盈利。]]></title><description><![CDATA[背景故事
-
-两年半前，我还是一个流浪的想当创客的人，在寻找一个可以加入的创客社区。
-创始人/制造商的社区，我可以加入。我开始主持每月一次的在线缩放会议
-我开始为独立创客主持每月一次的在线变焦会议，并最终发展成更多的东西。现在我们有超过
-现在，我们的Slack上有超过2000名成员，每月还在做...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/r4ai4d/i_made_a_community_for_indie_makers_after_two/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/r4ai4d/i_made_a_community_for_indie_makers_after_two/</guid><pubDate>Sun, 28 Nov 2021 20:54:53 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;h1&gt;Backstory&lt;/h1&gt;
-
-&lt;p&gt;Two and a half years ago I was a nomadic wannabe maker looking for a community of founders/makers I could join. I started hosting a monthly online zoom session for indie makers that eventually grew into something more. Now we have more than 2,000 members in our Slack, still do monthly meetups, and recently secured a bunch of partner benefits from companies like AWS and Stripe. I make some money from sponsorships and a paid membership tier.&lt;/p&gt;
-
-&lt;h1&gt;The Community&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://indieworldwide.co/&quot;&gt;Indie Worldwide&lt;/a&gt; mostly lives on Slack. At least once a month we have a general meetup. We moved off of Zoom a while ago and now use Hopin. We also invite bootstrapped startup founders for live Q&amp;amp;A sessions and have a podcast (of course). It&amp;#39;s free to join.&lt;/p&gt;
-
-&lt;h1&gt;How I built it&lt;/h1&gt;
-
-&lt;p&gt;Just Zoom at first. I&amp;#39;d collect registrations using an events tool called Mixily (which I also used to work for as a freelancer). Later on we added a Facebook group and then a Slack group. We have a website built using a framework called Gatsby, which is honestly overkill for what&amp;#39;s mostly just a landing page. Hosting is free on GitHub pages.&lt;/p&gt;
-
-&lt;h1&gt;Growing 400% in a year&lt;/h1&gt;
-
-&lt;p&gt;This last year we went from about 400 members to now over 2,000 (counting by active Slack members). A lot of the growth came from a challenge we ran called &lt;a href=&quot;https://100in100.co/&quot;&gt;100 users 100 days&lt;/a&gt;. The idea of the challenge was to get 100 new paying users in 100 days, with a leaderboard and weekly mastermind sessions for accountability. Definitely hope to run another round of the challenge soon.&lt;/p&gt;
-
-&lt;h1&gt;Making some money&lt;/h1&gt;
-
-&lt;p&gt;We made some money this year for the first time, about $10,000 in total. Nowhere close to enough to go full time, but gives me hope this could be my full time job at some point!&lt;/p&gt;
-
-&lt;p&gt;About 60% of the revenue came from Founders&amp;#39; Club, which is the paid tier for Indie Worldwide. Founders&amp;#39; Club is a lot like Lunchclub. We match you to other indie makers based on revenue and interests and then send out introductions once a week. There are currently about 60 members who&amp;#39;ve paid between $60 and $120 to join.&lt;/p&gt;
-
-&lt;p&gt;As of last week Founders&amp;#39; Club also includes access to free resources from Strip, AWS, Mongo, Twilio, and more totally more than $30,000 in free benefits. I hope to add a lot more benefits over the next couple months.&lt;/p&gt;
-
-&lt;p&gt;The other 40% came from sponsorships for the community and the 100 in 100 challenge. Sponsors pay to get their logo on our events and website. We also started a newsletter this month and sponsors can pay to include a short pitch for their service in the newsletter.&lt;/p&gt;
-
-&lt;h1&gt;Plans for the future&lt;/h1&gt;
-
-&lt;p&gt;Seeing the growth and making some profits this year make me want to try and turn this into a full-time endeavor. I want to improve the value of the paid-tier offering and figure out how to market it better. If we could get to a consistent $3,000/month I&amp;#39;d be able to cover my living expenses fully and possibly quit my day-job as a freelance software engineer. If we grew the audience then I could also start charging sponsors more.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我做了一个应用程序，可以让你创建一个备忘录竞赛，并提高你的受众参与度]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/r4cjui/i_made_an_app_that_lets_you_create_a_meme_contest/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/r4cjui/i_made_an_app_that_lets_you_create_a_meme_contest/</guid><pubDate>Sun, 28 Nov 2021 21:32:04 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
