@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 07 Dec 2021 22:55:13 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我的Notion-2-Knowledge Base工具刚刚达到1000美元的总收入（400美元的MRR）。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rb178v/my_notion2knowledge_base_tool_just_hit_1000_in/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rb178v/my_notion2knowledge_base_tool_just_hit_1000_in/</guid><pubDate>Tue, 07 Dec 2021 22:37:37 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我在做一个程序，不用编码就能建立移动应用和网络。它已经达到了alpha阶段，但我对目前的进展感到自豪：）请告诉我你的想法。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ramg2f/im_making_a_program_to_build_mobile_apps_and_webs/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ramg2f/im_making_a_program_to_build_mobile_apps_and_webs/</guid><pubDate>Tue, 07 Dec 2021 21:45:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我正在为软件开发人员创建一个笔记应用程序。]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>它完成了所有的基本任务，如创建一个
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Dec 2021 03:07:11 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[满足通用用户界面工具包（Web） v1.0]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rb6k4j/meet_universal_ui_kit_web_v10/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rb6k4j/meet_universal_ui_kit_web_v10/</guid><pubDate>Wed, 08 Dec 2021 02:49:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我的Notion-2-Knowledge Base工具刚刚达到1000美元的总收入（400美元的MRR）。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rb178v/my_notion2knowledge_base_tool_just_hit_1000_in/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rb178v/my_notion2knowledge_base_tool_just_hit_1000_in/</guid><pubDate>Tue, 07 Dec 2021 22:37:37 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我在做一个程序，不用编码就能建立移动应用和网络。它已经达到了alpha阶段，但我对目前的进展感到自豪：）请告诉我你的想法。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ramg2f/im_making_a_program_to_build_mobile_apps_and_webs/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ramg2f/im_making_a_program_to_build_mobile_apps_and_webs/</guid><pubDate>Tue, 07 Dec 2021 21:45:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我正在为软件开发人员创建一个笔记应用程序。]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>它完成了所有的基本任务，如创建一个
 笔记本、添加待办事项和代码支持等所有基本任务，此外它还扫描所有的 git 仓库
 并为每个仓库创建一个笔记本，其中有三个子笔记本（git tasks,
 任务和wiki），git任务为每个新的分支创建笔记......]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rb5njk/i_am_creating_a_notes_app_for_software_developers/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rb5njk/i_am_creating_a_notes_app_for_software_developers/</guid><pubDate>Tue, 07 Dec 2021 19:21:03 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;It does all basic tasks like creating a notebook, adding todos, and code support, etc plus it scans all git repositories and creates a notebook for each repository with 3 subnotebooks (git tasks, tasks, and wiki) and git tasks create notes for every new branch automatically. Please check out &amp;lt;a href=&quot;https://upnotes.io/&quot;&amp;gt;https://upnotes.io&amp;lt;/a&amp;gt; . Any feedback, suggestion, and criticism are appreciated. Thanks.&amp;lt;/p&amp;gt;
@@ -281,47 +281,4 @@ Flipped: you need to match in order to continue&amp;lt;/p&amp;gt;
 &lt;p&gt;Feedback welcome :)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://disneywaits.com/&quot;&gt;Disney Waits&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[我做了Kizie.co，一个成熟的网络Twitter客户端。]]></title><description><![CDATA[Kizie.co首页时间轴
-[https://preview.redd.it/jw8my8b1ge281.png?width=1600&format=png&auto=webp&s=9958cf6ca67d34036926808dbcc6c8811384d16e]
-
-你好，独立黑客们，我是Rishi [https://kizie.co/thelifeofrishi]。
-
-我一直在做Kizie.co [https://Kizie.co]，它几乎是所有的
-Twitter.com...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/r4e4ko/i_made_kizieco_a_fullfledged_twitter_client_for/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/r4e4ko/i_made_kizieco_a_fullfledged_twitter_client_for/</guid><pubDate>Mon, 29 Nov 2021 02:42:05 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/jw8my8b1ge281.png?width=1600&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9958cf6ca67d34036926808dbcc6c8811384d16e&quot;&gt;Kizie.co home timeline&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hello indie-hackers, I&amp;#39;m &lt;a href=&quot;https://kizie.co/thelifeofrishi&quot;&gt;Rishi&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;ve been working on &lt;a href=&quot;https://Kizie.co&quot;&gt;Kizie.co&lt;/a&gt;, it&amp;#39;s almost all of what &lt;a href=&quot;https://Twitter.com&quot;&gt;Twitter.com&lt;/a&gt; has and more.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt; &lt;a href=&quot;https://Twitter.com&quot;&gt;Twitter.com&lt;/a&gt; has some UX issues and has lots of ads. For example, with &lt;a href=&quot;https://Kizie.co&quot;&gt;Kizie.co&lt;/a&gt; you can quickly preview videos/GIFs/photos in full aspect-ratio just by hovering on the thumbnails, this issue is still not completely fixed in Twitter.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/8k1jdkcxde281.png?width=1454&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d01fd928502cfe5a4a559c3008e4b22bd960be21&quot;&gt;Quick Media Preview, hover on thumbnail to see full photo, works for Videos and GIFs too&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;Kizie also has Reader Mode for links, so you can read blog posts and articles right in the app itself in a simple reader-friendly interface.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://i.redd.it/155p3n7vee281.gif&quot;&gt;Reader mode for links&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;- You can double click on the white-space area of the tweet to like it :)&lt;/p&gt;
-
-&lt;p&gt;- You can save links to be read later&lt;/p&gt;
-
-&lt;p&gt;- You get Analytics for your tweets showing information like Profile views, Link Clicks, Impressions and more&lt;/p&gt;
-
-&lt;p&gt;- There has been good amount of effort into writing tweets and threads, you can save tweet/thread drafts, there&amp;#39;s Twitter Preview to see how the thread would look like before posting.&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://preview.redd.it/c2uus4jgfe281.png?width=3134&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4de3198d73c50bc5a30cc3afabc318cb18144ea4&quot;&gt;Thread preview&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;#x200B;&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;m a solo developer working on Kizie since over 6 months or so now. I&amp;#39;m using Next.js, TailwindCSS, Supabase. It&amp;#39;s by far my favorite side-project and I love how I am inspired by the hustle community on Twitter. I would love to know your feedback on the app and any suggestions that can make it better. Please sign up and share your views, thanks :)&lt;/p&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
