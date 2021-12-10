@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Dec 2021 17:58:43 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[Codeprints.dev - 为你的GitHub贡献（或git仓库）获得个性化的打印。]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>今天我想和大家分享一个侧面项目
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Dec 2021 20:02:22 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我做了一个应用程序，只是为了对LastPass说F%$K]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>在秋天，我的密码管理人LastPass。
+他们决定对访问其他设备上的密码收取月费。
+你可以选择电脑或手机，这就削弱了我在一半设备上登录的能力。
+</p> <p>与其支付2.9欧元/月的费用......]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rdel5q/i_made_an_app_just_to_say_fk_to_lastpass/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rdel5q/i_made_an_app_just_to_say_fk_to_lastpass/</guid><pubDate>Fri, 10 Dec 2021 19:27:50 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;In autumn my password manger, LastPass, decided they would charge a monthly subscription to access passwords on other devices, you could choose computer or phone, crippling my ability to login in Reddit in half my devices...&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Rather than paying the €2.90/month I planned &amp;lt;strong&amp;gt;a more cleaver way to say &amp;amp;quot;f%$k you&amp;amp;quot;: invest a bunch of my time (and programing supper powers) to create a competitor without subscriptions!&amp;lt;/strong&amp;gt; Muahahahahaha. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So here it is Pocket Pass Manager, you can access your passwords from any device forever, for the same price a month of LastPass. &amp;lt;a href=&quot;https://apps.apple.com/us/app/pocket-pass-manager/id1563839314&quot;&amp;gt;You can download Pocket Pass Manager here.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So, &amp;lt;strong&amp;gt;Pocket Pass Manager = F$%K LastPass.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If someone knows the LastPass CEO (or some one working there) please share this middle finger to them (preferably with an screenshot of your purchase).&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Codeprints.dev - 为你的GitHub贡献（或git仓库）获得个性化的打印。]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>今天我想和大家分享一个侧面项目
 在过去的几个月里，我和几个朋友一直在一起工作。
 <a href="https://Codeprints.dev">https://Codeprints.dev</a>是一个工具，它可以利用你的个人GitHub贡献，并允许你将你的个人贡献与GitHub上的其他人分享。
 你的个人GitHub贡献，并允许你购买一个...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rdamo8/codeprintsdev_get_a_personalized_print_of_your/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rdamo8/codeprintsdev_get_a_personalized_print_of_your/</guid><pubDate>Fri, 10 Dec 2021 17:41:32 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Today I&amp;amp;#39;d like to share a side project I&amp;amp;#39;ve been working on together with a few friends over the past few months: &amp;lt;a href=&quot;https://Codeprints.dev&quot;&amp;gt;https://Codeprints.dev&amp;lt;/a&amp;gt; is a tool that takes your personal GitHub contributions and allows you to purchase a high-quality print of it.&amp;lt;/p&amp;gt;
@@ -206,79 +218,4 @@ href="https://AtariOnline.org">AtariOnline.org</a>致力于保护和
 &amp;lt;p&amp;gt;Memify is very simple to use: just upload your picture, select a layout, change the text, and share to anyone! Memify is available only for iPhone right now but is making its way towards iPad too. Some features include the ability to change: text size, text colour, text font, the boldness for some fonts and I also included Dark Mode for those prefers darker colours. There are NO WATERMARKS for your peace of mind. New content will most likely be posted each month! I&amp;amp;#39;m constantly working on trying to improve it and if you have any suggestions please feel free to post it down in the comments :)&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Thanks for your support!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我是一个内向的人--做了一个应用程序来帮助保持与人的联系]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>&#x200B;</p>...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/r86viz/im_an_introvert_made_an_app_to_help_maintain/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/r86viz/im_an_introvert_made_an_app_to_help_maintain/</guid><pubDate>Fri, 03 Dec 2021 21:55:14 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/9mo6rlmdod381.png?width=1024&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=204fd81560337e73fdea92d354c2b2c7a3cfc6d8&quot;&amp;gt;https://preview.redd.it/9mo6rlmdod381.png?width=1024&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=204fd81560337e73fdea92d354c2b2c7a3cfc6d8&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://communiqai.com&quot;&amp;gt;https://communiqai.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I developed this app to help people communicate more frequently, particularly in light of the pandemic. It has helped me and many others and I’ve received some great feedback so far.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;As the app is now out of beta testing, I am looking for feedback from interested parties. For the first 50 people that provide valuable and MEANINGFUL FEEDBACK to the short one-page of questions that are &amp;lt;a href=&quot;https://forms.gle/qFBPLTrbeuPWgNiu7&quot;&amp;gt;here&amp;lt;/a&amp;gt;, I will happily send free upgrade promo codes!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;The app has no ads&amp;lt;/strong&amp;gt; and complements your default SMS text messaging, call and email apps. It is currently available in 94 counties and regions.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Also, the app is Android-only. While I’d love to make such an app for iPhones, Apple is too restrictive when it comes to advanced functionality like this, but I did receive approval from Google for this functionality.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Lastly, if you’d like to read a story about how the app came to fruition, it’s available &amp;lt;a href=&quot;https://medium.com/@mtc.dev/my-first-android-app-story-331c98270ec4?source=friends_link&amp;amp;amp;sk=d01250707057ed71f2c7af8ed4ac9eea&quot;&amp;gt;here&amp;lt;/a&amp;gt;. It’s a bit technical and covers the complexities of indie app development as a side project, my eureka moments, repeated failures with app store policies and starting from ground zero.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Thank you!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Without further ado:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;CommuniqAI is a smart device automation tool for SMS text messages, calls and email that’ll help you stay in touch with those who mean the most to you—and it’ll be there for you through life’s many distractions.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Let’s face it, some of us are better at communicating than others. Rather than forgetting or being “too busy” to reach out to those who are important to you, CommuniqAI will cleverly send text messages of your choosing to, and smartly prompt you to call and email, the people you care about. Whether that person is a significant other, family member, friend, or even a patient, CommuniqAI will help you stay in constant contact.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Some people are, very much, against automation technology like this, but we believe that anything that can help keep communication high between loved ones is, in the long run, a good thing. CommuniqAI, by default, will not take any action and largely act as a helpful reminder, and we recommend this type of use.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Warning: CommuniqAI works well when used sparingly with simple messages—perhaps too well. While it’ll keep you in regular contact with the significant people in your life, they’ll be inclined to reply back and, at this time, CommuniqAI is not intelligent enough to reply in context—so you’ll need to reply back yourself.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Features&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Automatically send custom SMS text messages, with scheduling and opportunistic randomization&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Automatically start a call, with reminders, near the end of the period selected&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Automatically start a prepopulated email, with reminders, on a regular basis&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Complements your default SMS text messaging, call and email apps&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Won’t automatically send a message if:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;o You are in a call with this person&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;o You recently missed a call from this person (configurable)&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;o This person recently sent a message and you didn’t reply (configurable)&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Won’t automatically start a call if you:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;o Are in a call with this person&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;o Were in a call with this person and didn’t end the period selected with a missed call&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Modern Android design with a dark theme&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Supports multiple people (when upgraded)&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Won’t repeat the last message sent&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Set a maximum number of messages per day, week or month&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Notifications for upcoming messages (configurable)&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Notifications populated with recent conversation history and favorite messages (favorites are currently available on Android 9.0 and later)&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Time zone aware (it’ll do the right thing regardless of where you are)&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• Upcoming messages can be easily edited, disabled, postponed, skipped or quickly changed to other frequently sent messages&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;• History of what automation actions were taken and why&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
