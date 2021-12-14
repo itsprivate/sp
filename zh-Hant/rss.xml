@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 14 Dec 2021 11:56:35 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我帶回了YouTube的 "不喜歡 "計數器]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>大家好！</p> <p>昨天我發了一個
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 14 Dec 2021 20:04:04 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個網站，列出了我使用的或覺得有趣的超級開發工具。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rgdlys/i_made_a_website_to_list_superb_devtools_i_use_or/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rgdlys/i_made_a_website_to_list_superb_devtools_i_use_or/</guid><pubDate>Tue, 14 Dec 2021 19:27:12 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我帶回了YouTube的 "不喜歡 "計數器]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>大家好！</p> <p>昨天我發了一個
 視頻，其中我解釋了我如何建立一個瀏覽器擴展，以顯示一個視頻的
 瀏覽器擴展，顯示一個視頻的不喜歡數量。</p> <p>這是個小項目，但做起來還是很有趣的。
 </p> <p>希望你喜歡：...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rg4bo2/i_brought_back_the_youtube_dislike_counter/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rg4bo2/i_brought_back_the_youtube_dislike_counter/</guid><pubDate>Tue, 14 Dec 2021 11:34:47 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello everyone!&amp;lt;/p&amp;gt;
@@ -328,24 +328,4 @@ href="https://www.figma.com/proto/2tHKu1BShbCxXmwhuYJXdF/Medusa-Express...]]></d
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/euk5ybrjy5481.png?width=1015&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=7ffe63347067ba9bf28d3d917cfb4083d3084f7d&quot;&amp;gt;https://preview.redd.it/euk5ybrjy5481.png?width=1015&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=7ffe63347067ba9bf28d3d917cfb4083d3084f7d&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[勢頭。智能習慣跟蹤器的Notion]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ramn9b/momentum_smart_habit_tracker_for_notion/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ramn9b/momentum_smart_habit_tracker_for_notion/</guid><pubDate>Tue, 07 Dec 2021 14:46:07 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[codelib.club：在開源的應用程序中尋找解決方案，學習和構建更好的軟件]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>嗨，</p> <p>我和我的朋友遇到了這個問題
--- 在另一個項目中，我們應該使用一些我們一無所知的javascript庫。
-我們在另一個項目中應該使用一些我們一無所知的javascript庫，而在谷歌上搜索其他人是如何使用這些庫的，卻沒有任何結果。
-<p>因此，我們在互聯網上搜索了開放源碼庫，並創建了一個 "開放源碼庫"。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/raux0e/codelibclub_find_solutions_in_open_sourced_apps/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/raux0e/codelibclub_find_solutions_in_open_sourced_apps/</guid><pubDate>Tue, 07 Dec 2021 13:47:37 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;My friend and I had this problem -- in another project, we were supposed to use a few javascript libs we knew nothing about, and googling for how others use them wasn&amp;amp;#39;t fruitful.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;So we scraped open-source repos on the internet and created a serchable index where you can find apps by the dependencies they use and check out their code, explore other solutions etc. We&amp;amp;#39;re guessing more developers are searching the nets for inspiration.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;And here we are a few nights after the first scrape with the first crude UI to test whether it would be useful for anybody. For now, it&amp;amp;#39;s just a fraction of the most popular javascript GitHub repos.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://codelib.club&quot;&amp;gt;https://codelib.club&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Does this make sense? Does the CTA on the landing page make sense? How do you search code online? Would you use a tool like this or know a tool like this?&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Any feedback would be much appreciated. Thanks!!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/87bm4qx683481.jpg?width=1300&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=79ec1019da380ccfb12d29a5908cfebbacf3c4a2&quot;&amp;gt;https://preview.redd.it/87bm4qx683481.jpg?width=1300&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=79ec1019da380ccfb12d29a5908cfebbacf3c4a2&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[勢頭。智能習慣跟蹤器的Notion]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ramn9b/momentum_smart_habit_tracker_for_notion/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ramn9b/momentum_smart_habit_tracker_for_notion/</guid><pubDate>Tue, 07 Dec 2021 14:46:07 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
