@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Dec 2021 06:05:31 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[3 Simple SEO tips for your side project]]></title><description><![CDATA[<!-- SC_OFF --><div class="md"><p>Hey there, my name is Tiago and I am the host
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Dec 2021 09:36:45 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I built Pipewing, where you can network with other people from your city.]]></title><description><![CDATA[<!-- SC_OFF --><div class="md"><p>It&#39;s super simple. You place a marker on a
+world map. Then, from the world map, you select the people you&#39;d like to
+meet. The people you have selected can then book a call with you. And vice
+versa.</p> <p><a…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ricnc6/i_built_pipewing_where_you_can_network_with_other/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ricnc6/i_built_pipewing_where_you_can_network_with_other/</guid><pubDate>Fri, 17 Dec 2021 09:14:42 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;It&amp;amp;#39;s super simple. You place a marker on a world map. Then, from the world map, you select the people you&amp;amp;#39;d like to meet. The people you have selected can then book a call with you. And vice versa.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://pipewing.com/&quot;&amp;gt;https://pipewing.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I thought this might be interesting, because&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;It&amp;amp;#39;s location-specific (unlike e.g. Lunchclub)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;You don&amp;amp;#39;t need to go to physical meetups&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;You don&amp;amp;#39;t get spam messages (unlike on e.g. LinkedIn)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;It will always fit your schedule&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;So far, people really like it and a lot have signed up already. Although it is hard to get critical mass in all regions.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;What do you think is the single biggest risk why this project might fail?&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[3 Simple SEO tips for your side project]]></title><description><![CDATA[<!-- SC_OFF --><div class="md"><p>Hey there, my name is Tiago and I am the host
 of the Wannabe Entrepreneur podcast. I just published my <a
 href="https://wannabe-entrepreneur.com/episodes/174">chat</a> with an SEO expert
 (Roberto Robles) 🧙‍♂️. He has been working in SEO for more than 15 years…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ri3y8u/3_simple_seo_tips_for_your_side_project/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ri3y8u/3_simple_seo_tips_for_your_side_project/</guid><pubDate>Fri, 17 Dec 2021 05:41:18 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey there, my name is Tiago and I am the host of the Wannabe Entrepreneur podcast.
@@ -336,10 +355,4 @@ Angel is noisy,…]]></description><link>https://sideproject.buzzing.cc/reddit/r
 &amp;lt;p&amp;gt;Fun fact: learned to code in 30 days to build this out&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Welcome feedback and questions!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I made 2048 game where you can set any field size]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rclph0/i_made_2048_game_where_you_can_set_any_field_size/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rclph0/i_made_2048_game_where_you_can_set_any_field_size/</guid><pubDate>Thu, 09 Dec 2021 17:33:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[[Question] As a maker, what do you struggle with when marketing your work?]]></title><description><![CDATA[<!-- SC_OFF --><div class="md"><p>I myself am a maker, primarily working on iOS
-and macOS apps, but I&#39;ve always found the making the easy part. What&#39;s
-hard for me is marketing: Creating marketing media (videos, images), creating a
-landing page and reaching out to press and potential…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rcez3g/question_as_a_maker_what_do_you_struggle_with/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rcez3g/question_as_a_maker_what_do_you_struggle_with/</guid><pubDate>Thu, 09 Dec 2021 14:29:20 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I myself am a maker, primarily working on iOS and macOS apps, but I&amp;amp;#39;ve always found the making the easy part. What&amp;amp;#39;s hard for me is marketing: Creating marketing media (videos, images), creating a landing page and reaching out to press and potential customers.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;m interested in how others see this. What do you struggle with w.r.t. marketing?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I made 2048 game where you can set any field size]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rclph0/i_made_2048_game_where_you_can_set_any_field_size/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rclph0/i_made_2048_game_where_you_can_set_any_field_size/</guid><pubDate>Thu, 09 Dec 2021 17:33:00 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>

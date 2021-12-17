@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Dec 2021 06:05:31 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[为你的副业提供3个简单的SEO提示]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>大家好，我的名字是Tiago，我是Wannabe企业家播客的主持人。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Dec 2021 09:36:45 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我建立了Pipewing，在这里你可以与你所在城市的其他人建立联系。]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>它超级简单。你在世界地图上放置一个标记
+世界地图。然后，从世界地图上，你选择你想认识的人
+见面。你选择的人然后可以与你预约通话。反之亦然。
+反之亦然。</p> <p><a...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ricnc6/i_built_pipewing_where_you_can_network_with_other/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ricnc6/i_built_pipewing_where_you_can_network_with_other/</guid><pubDate>Fri, 17 Dec 2021 09:14:42 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;It&amp;amp;#39;s super simple. You place a marker on a world map. Then, from the world map, you select the people you&amp;amp;#39;d like to meet. The people you have selected can then book a call with you. And vice versa.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://pipewing.com/&quot;&amp;gt;https://pipewing.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I thought this might be interesting, because&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;It&amp;amp;#39;s location-specific (unlike e.g. Lunchclub)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;You don&amp;amp;#39;t need to go to physical meetups&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;You don&amp;amp;#39;t get spam messages (unlike on e.g. LinkedIn)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;It will always fit your schedule&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;So far, people really like it and a lot have signed up already. Although it is hard to get critical mass in all regions.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;What do you think is the single biggest risk why this project might fail?&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[为你的副业提供3个简单的SEO提示]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>大家好，我的名字是Tiago，我是Wannabe企业家播客的主持人。
 我是Wannabe Entrepreneur播客的主持人。我刚刚发表了我的<
 href="https://wannabe-entrepreneur.com/episodes/174">聊天</a>，与一位SEO专家
 (Roberto Robles) 🧙♂️。他从事SEO工作已经超过15年了...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ri3y8u/3_simple_seo_tips_for_your_side_project/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ri3y8u/3_simple_seo_tips_for_your_side_project/</guid><pubDate>Fri, 17 Dec 2021 05:41:18 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey there, my name is Tiago and I am the host of the Wannabe Entrepreneur podcast.
@@ -336,10 +355,4 @@ href="https://topstartups.io/">交互式数据库</a>的顶级创业公司和
 &amp;lt;p&amp;gt;Fun fact: learned to code in 30 days to build this out&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Welcome feedback and questions!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了2048游戏，你可以设置任何领域的大小]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rclph0/i_made_2048_game_where_you_can_set_any_field_size/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rclph0/i_made_2048_game_where_you_can_set_any_field_size/</guid><pubDate>Thu, 09 Dec 2021 17:33:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[[问题]作为一个创客，你在推销你的作品时，有什么困难？]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>我自己是一个制作者，主要从事iOS
-和macOS应用程序，但我一直认为制作是最容易的部分。困难的是
-对我来说困难的是营销。创建营销媒体（视频、图片），创建一个
-创建一个登陆页面，并与媒体和潜在客户联系。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rcez3g/question_as_a_maker_what_do_you_struggle_with/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rcez3g/question_as_a_maker_what_do_you_struggle_with/</guid><pubDate>Thu, 09 Dec 2021 14:29:20 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I myself am a maker, primarily working on iOS and macOS apps, but I&amp;amp;#39;ve always found the making the easy part. What&amp;amp;#39;s hard for me is marketing: Creating marketing media (videos, images), creating a landing page and reaching out to press and potential customers.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;m interested in how others see this. What do you struggle with w.r.t. marketing?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了2048游戏，你可以设置任何领域的大小]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rclph0/i_made_2048_game_where_you_can_set_any_field_size/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rclph0/i_made_2048_game_where_you_can_set_any_field_size/</guid><pubDate>Thu, 09 Dec 2021 17:33:00 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
