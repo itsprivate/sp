@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 19 Dec 2021 14:08:04 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我做了一个网站，你可以通过在200个字符或更短的时间内投递你的创业公司来寻找联合创始人、创始团队或其他专业人士。你的反馈将是一个很大的帮助。]]></title><description><![CDATA[<！--SC_OFF --><div class="md"><p><a
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 19 Dec 2021 16:57:19 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[SankeyDiagram.net - 一个可视化流程的工具，如你的预算[免费+开源]]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjzmtw/sankeydiagramnet_a_tool_to_visualize_flows_like/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjzmtw/sankeydiagramnet_a_tool_to_visualize_flows_like/</guid><pubDate>Sun, 19 Dec 2021 16:39:18 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一个网站，你可以通过在200个字符或更短的时间内投递你的创业公司来寻找联合创始人、创始团队或其他专业人士。你的反馈将是一个很大的帮助。]]></title><description><![CDATA[<！--SC_OFF --><div class="md"><p><a
 href="https://cofinds.com/">cofinds.com</a></p> <p>用户可以浏览并申请与他们感兴趣的帖子合作。
 在他们认为有趣的帖子上进行合作。此外，你可以
 订阅您最喜欢的主题，与该主题相关的帖子将被分组到您的主页上。
@@ -315,23 +315,4 @@ ALPHA构建，仍有许多功能缺失，但核心的基本...]]></description><
 &amp;lt;p&amp;gt;5 Save the new playlist to Spotify with the save button (bottom right)&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Suggestions are welcome!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我是如何从一个内部工具创建一个侧面的SaaS项目的[parsio.io] [电子邮件解析器]]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>&#x200B;</p>...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rdcikq/how_i_created_a_side_saas_project_from_an/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rdcikq/how_i_created_a_side_saas_project_from_an/</guid><pubDate>Sat, 11 Dec 2021 16:22:55 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/34iixmzdks481.jpg?width=2099&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=e35ce7679142658b885405a9565465c164cf8a60&quot;&amp;gt;https://preview.redd.it/34iixmzdks481.jpg?width=2099&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=e35ce7679142658b885405a9565465c164cf8a60&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;http://parsio.io/&quot;&amp;gt;Parsio.io&amp;lt;/a&amp;gt; &amp;amp;#39;s story began a couple of years ago. At this time we were developing e-commerce and CRM extensions and selling them on different marketplaces.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Once someone purchases an extension, the marketplace sends us order and customer details. Some of our extensions used license keys that we needed to (1) generate and (2) send to customers ASAP.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;As these marketplaces don&amp;amp;#39;t have any API we were literally keeping our eyes peeled for any new email in our company&amp;amp;#39;s inbox to manually generate and send the license (imagine this nightmare).&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We tried out a couple of pretty expensive solutions ($500+/mo) but the result was not as good as we wanted. So we finally came up with our own internal solution that saved us hundreds of hours (and a lot of money). We are using it a couple of years already and finally launched it as a SaaS product so everyone can use it.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We don&amp;amp;#39;t have any special expectations about how helpful it will be to other people and businesses so we are still experementing and collecting user feedbacks. However, we have our first users coming (mostly) from Quora.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This is very motivating and we are working hard to make of &amp;lt;a href=&quot;http://parsio.io/&quot;&amp;gt;Parsio.io&amp;lt;/a&amp;gt; a powerful email parser suitable for everyone.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We are actively collecting user feedbacks so we are open for discussion and advices.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Could this kind of tools be helpful for your business or project? What&amp;amp;#39;s the price you are ready to pay?&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
