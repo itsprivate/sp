@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 19 Dec 2021 09:18:19 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個電子郵件分析器來提取和分享電子郵件附件]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>鏈接 - <a
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 19 Dec 2021 14:08:04 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個網站，你可以通過在200個字符或更短的時間內投遞你的創業公司來尋找聯合創始人、創始團隊或其他專業人士。你的反饋將是一個很大的幫助。]]></title><description><![CDATA[<！--SC_OFF --><div class="md"><p><a
+href="https://cofinds.com/">cofinds.com</a></p> <p>用戶可以瀏覽並申請與他們感興趣的帖子合作。
+在他們認爲有趣的帖子上進行合作。此外，你可以
+訂閱您最喜歡的主題，與該主題相關的帖子將被分組到您的主頁上。
+在您的主頁上分組...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjta1g/i_made_a_website_where_you_can_find_cofounders/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjta1g/i_made_a_website_where_you_can_find_cofounders/</guid><pubDate>Sun, 19 Dec 2021 13:46:57 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://cofinds.com/&quot;&amp;gt;cofinds.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Users can browse and apply to collaborate on the posts that they find interesting. In addition, you can subscribe to your favorite topics and the posts relevant to the topic are grouped together in your home page. This is an MVP. I am looking forward to hearing your feedback. It would be a great help. In addition, you can also submit your feedback at &amp;lt;a href=&quot;https://cofinds.com/contact&quot;&amp;gt;cofinds.com/contact&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個電子郵件分析器來提取和分享電子郵件附件]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>鏈接 - <a
 href="https://moogle.cc/nirvaancms.html">https://moogle.cc/nirvaancms.html</a
 </p> <p>我已經厭倦了在我的項目中使用內容之前將其上傳到S3，所以我建立了一個系統，從電子郵件中提取附件並將其存儲在
 所以我建立了一個系統，從電子郵件中提取附件並將其存儲在一個
@@ -327,28 +334,4 @@ ALPHA構建，仍有許多功能缺失，但核心的基本...]]></description><
 &amp;lt;p&amp;gt;We are actively collecting user feedbacks so we are open for discussion and advices.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Could this kind of tools be helpful for your business or project? What&amp;amp;#39;s the price you are ready to pay?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我的隱私瀏覽器應用程序似乎終於得到了一些愛😁]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>夥計，做一個安卓開發者很困難。
-特別是如果你一個人要做所有的事情--開發、設計、維護、營銷、支持以及與運營有關的任何事情。
-談到這個問題時，他說："我覺得我的工作很重要。
-</p> <p>我和其他開發者一樣，感到非常自豪......]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rdvssp/finally_seem_to_be_getting_some_love_for_my/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rdvssp/finally_seem_to_be_getting_some_love_for_my/</guid><pubDate>Sat, 11 Dec 2021 11:13:52 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Man, it&amp;amp;#39;s tough to be an android dev.. specially if you&amp;amp;#39;re alone trying to do everything - development, designing, maintenance, marketing, support and literally anything associated with running an app.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;i, like any other developer, feel very proud of what i&amp;amp;#39;ve made: &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=cybersky.snapsearch&quot;&amp;gt;Snap Search&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I truly feel it provides incredible value and lives up to it&amp;amp;#39;s promise - providing a secure and safe way to search the web, quickly.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Some highlight features:&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;⚡️ ZERO permissions&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;⚡️ Better Ad-Tracker-Analytics Blocking&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;⚡️ Over 60 Search Engines&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;⚡️ Inbuilt VPN &amp;amp;amp; TOR Protection&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;⚡️ Force Dark Mode, Translate Pages and more!&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;It feels good that it&amp;amp;#39;s started to receive some appreciation, like this &amp;lt;a href=&quot;https://www.youtube.com/watch?v=543Gerg_DF8&quot;&amp;gt;Youtube video&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;If you want to &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=cybersky.snapsearch&quot;&amp;gt;give it a try&amp;lt;/a&amp;gt; i&amp;amp;#39;d be really grateful! would love any feedback you have for me, and would be even happier if you could leave a nice review for it (if you like it obviously) 😁&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;in the meanwhile, back to the grind! 🙂&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
