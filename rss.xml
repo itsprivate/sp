@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 20 Dec 2021 05:24:45 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[Atlas - 你需要的一切都在你的chrome主页上（笔记、Todos、图片/视频上传，以及更多）。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjx7cv/atlas_everything_you_need_all_on_your_chrome/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjx7cv/atlas_everything_you_need_all_on_your_chrome/</guid><pubDate>Mon, 20 Dec 2021 05:09:18 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[为什么公司应该支持其员工的副业？]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rkcahp/why_companies_should_support_their_employees_side/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rkcahp/why_companies_should_support_their_employees_side/</guid><pubDate>Mon, 20 Dec 2021 03:51:48 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一个网络应用，可以更快地创建自定义膳食计划：calories-in.com]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rk1ome/i_made_a_web_app_for_creating_custom_meal_plans/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rk1ome/i_made_a_web_app_for_creating_custom_meal_plans/</guid><pubDate>Sun, 19 Dec 2021 19:34:58 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[SankeyDiagram.net - 一个可视化流程的工具，如你的预算[免费+开源]]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjzmtw/sankeydiagramnet_a_tool_to_visualize_flows_like/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjzmtw/sankeydiagramnet_a_tool_to_visualize_flows_like/</guid><pubDate>Sun, 19 Dec 2021 16:39:18 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一个网站，你可以通过在200个字符或更短的时间内投递你的创业公司来寻找联合创始人、创始团队或其他专业人士。你的反馈将是一个很大的帮助。]]></title><description><![CDATA[<！--SC_OFF --><div class="md"><p><a
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 20 Dec 2021 11:20:15 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[常见问题构建器网络应用]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>嗨！</p> <p>我想分享一个
+我建立了一个应用程序，它可以让你建立FAQ部分，你可以将其嵌入你的网站或通过URL共享。
+</p> <p>常见问题部分的组件是作为一个网络组件构建的，这使得它可以在您的网站上嵌入或通过URL共享。
+</p> <p>该 FAQ 部分组件是作为一个 Web 组件构建的，这使得它与平台无关，并且应该...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjxjfh/faq_builder_web_app/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjxjfh/faq_builder_web_app/</guid><pubDate>Mon, 20 Dec 2021 11:01:37 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I would like to share an application that I built that lets you build FAQ sections that you can either embed on your website or share via URL.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The FAQ section component is built as a web component which makes it platform independent and should work on any CMS/website.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Other benefits:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Multilingual support&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Team collaboration&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Statistics&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Smart sorting&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;User feedback&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Css editor&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Media library&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Accessible FAQ sections&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;The application is completely free to use.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;ve made it possible to register demo accounts if you&amp;amp;#39;d like to try it before registering.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here&amp;amp;#39;s a demo FAQ section built using the application:&amp;lt;br/&amp;gt;
+&amp;lt;a href=&quot;https://app.webcomet.io/faq/71-demo&quot;&amp;gt;https://app.webcomet.io/faq/71-demo&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You can create a demo account here:&amp;lt;br/&amp;gt;
+&amp;lt;a href=&quot;https://app.webcomet.io/demo&quot;&amp;gt;https://app.webcomet.io/demo&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Hopefully someone finds this useful. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Any feedback is appreciated.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Atlas - 你需要的一切都在你的chrome主页上（笔记、Todos、图片/视频上传，以及更多）。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjx7cv/atlas_everything_you_need_all_on_your_chrome/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjx7cv/atlas_everything_you_need_all_on_your_chrome/</guid><pubDate>Mon, 20 Dec 2021 05:09:18 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[为什么公司应该支持其员工的副业？]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rkcahp/why_companies_should_support_their_employees_side/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rkcahp/why_companies_should_support_their_employees_side/</guid><pubDate>Mon, 20 Dec 2021 03:51:48 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一个网络应用，可以更快地创建自定义膳食计划：calories-in.com]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rk1ome/i_made_a_web_app_for_creating_custom_meal_plans/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rk1ome/i_made_a_web_app_for_creating_custom_meal_plans/</guid><pubDate>Sun, 19 Dec 2021 19:34:58 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[SankeyDiagram.net - 一个可视化流程的工具，如你的预算[免费+开源]]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjzmtw/sankeydiagramnet_a_tool_to_visualize_flows_like/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjzmtw/sankeydiagramnet_a_tool_to_visualize_flows_like/</guid><pubDate>Sun, 19 Dec 2021 16:39:18 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一个网站，你可以通过在200个字符或更短的时间内投递你的创业公司来寻找联合创始人、创始团队或其他专业人士。你的反馈将是一个很大的帮助。]]></title><description><![CDATA[<！--SC_OFF --><div class="md"><p><a
 href="https://cofinds.com/">cofinds.com</a></p> <p>用户可以浏览并申请与他们感兴趣的帖子合作。
 在他们认为有趣的帖子上进行合作。此外，你可以
 订阅您最喜欢的主题，与该主题相关的帖子将被分组到您的主页上。
@@ -262,18 +297,4 @@ href="https://reddit.com/link/rf09nd/video/fzdwjfi217581/player">https://reddit.
 &amp;lt;p&amp;gt;All of these are problems that can easily be solved once you start using ML. I hope I can enable more small businesses, students, and amateurs to get into machine learning with MLConsole.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Open to feedback as this is still very early-days, and there are still many features on the roadmap before a full launch. Thanks!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我每月寄送手绘蜗牛信，每封信都通过一个当地人的眼睛描绘地球上的一个地方。这些信可以用多种语言收到]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rexiir/i_send_monthly_hand_drawn_snailmail_letters_each/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rexiir/i_send_monthly_hand_drawn_snailmail_letters_each/</guid><pubDate>Sun, 12 Dec 2021 22:44:22 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我的妻子昨天推出了她的Etsy商店! 她是一个不可思议的设计师，正在销售超级可爱的Instagram Canva模板。她为自己感到超级自豪!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/remlfw/my_wife_launched_her_etsy_shop_yesterday_shes_an/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/remlfw/my_wife_launched_her_etsy_shop_yesterday_shes_an/</guid><pubDate>Sun, 12 Dec 2021 17:54:03 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[免费交易杂志]]></title><description><![CDATA[<！--SC_OFF --><div class="md"><p>大家好，</p> <p>我做了一个VueJS交易
-日志的网络应用。我对在电子表格中跟踪我的交易感到很沮丧，其他的
-其他应用程序要么使用麻烦，要么价格昂贵，要么充满了广告。它目前是一个
-ALPHA构建，仍有许多功能缺失，但核心的基本...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/re9j1g/free_trading_journal/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/re9j1g/free_trading_journal/</guid><pubDate>Sun, 12 Dec 2021 13:11:12 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi everyone,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I made a VueJS trading journal web app. I was frustrated tracking my trades in a spreadsheet, other apps were either cumbersome to use, expensive or full of ads. Its currently an ALPHA build with many features still missing, but the core basic functionality is there.  I hope you all can take a look and enjoy. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Feedback is greatly appreciated. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://stonkjournal.com&quot;&amp;gt;stonkjournal.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Also launched on ProductHunt...&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.producthunt.com/posts/stonk-journal-stock-trading-journal&quot;&amp;gt;https://www.producthunt.com/posts/stonk-journal-stock-trading-journal&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我每月寄送手绘蜗牛信，每封信都通过一个当地人的眼睛描绘地球上的一个地方。这些信可以用多种语言收到]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rexiir/i_send_monthly_hand_drawn_snailmail_letters_each/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rexiir/i_send_monthly_hand_drawn_snailmail_letters_each/</guid><pubDate>Sun, 12 Dec 2021 22:44:22 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我的妻子昨天推出了她的Etsy商店! 她是一个不可思议的设计师，正在销售超级可爱的Instagram Canva模板。她为自己感到超级自豪!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/remlfw/my_wife_launched_her_etsy_shop_yesterday_shes_an/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/remlfw/my_wife_launched_her_etsy_shop_yesterday_shes_an/</guid><pubDate>Sun, 12 Dec 2021 17:54:03 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
