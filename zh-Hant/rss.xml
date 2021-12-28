@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Dec 2021 22:41:56 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我們建立了一個很酷的工具來補償早期項目的貢獻者]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>我和一些朋友建造了一個很酷的東西，我想展示一下。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Dec 2021 22:53:21 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[用我的Chrome擴展告訴LinkedIn上的人何時在謙虛地吹牛]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>我對LinkedIn上所有謙虛的吹噓感到惱火。
+我想看看我是否至少可以在我的
+我想看看我能否至少在我的飼料中更明確地說明什麼是謙虛的吹噓。我建立了這個...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rqpmxq/tell_when_people_on_linkedin_are_humble_bragging/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rqpmxq/tell_when_people_on_linkedin_are_humble_bragging/</guid><pubDate>Tue, 28 Dec 2021 22:37:11 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I got annoyed at all the humble brags on LinkedIn, and I wanted to see if I could at least make it more explicit on my feed when something was a humblebrag. I built this &amp;lt;a href=&quot;https://chrome.google.com/webstore/detail/humblebrag/enmddkghflcnpedhjjpfmidmdhlglncj?authuser=1&quot;&amp;gt;chrome extension&amp;lt;/a&amp;gt; to autodetect and flag posts that are clearly bragging.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Please try it out and let me know what you think, if there are some obvious bugs to fix, and what features you&amp;amp;#39;d like to see added! &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/hkdod0bzkc881.png?width=1280&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=b26262457f844e541273ebe852c7248594bb8ccd&quot;&amp;gt;https://preview.redd.it/hkdod0bzkc881.png?width=1280&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=b26262457f844e541273ebe852c7248594bb8ccd&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I also recently added a label for when the post is clearly just selling something too: &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/6h6mv068lc881.png?width=1098&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=e23bd13b0e85575a11f65c10a6d827e9a5819266&quot;&amp;gt;https://preview.redd.it/6h6mv068lc881.png?width=1098&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=e23bd13b0e85575a11f65c10a6d827e9a5819266&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我們建立了一個很酷的工具來補償早期項目的貢獻者]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>我和一些朋友建造了一個很酷的東西，我想展示一下。
 我想展示一下它。它是一個基於以太坊的工具，可以讓你支付給
 承諾在未來規定的里程碑上支付給貢獻者。(我們
 碰巧需要這個）。</p> <p>如果你想玩，這裏是網絡應用程序...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rqfwx7/we_built_a_cool_tool_for_compensating/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rqfwx7/we_built_a_cool_tool_for_compensating/</guid><pubDate>Tue, 28 Dec 2021 22:05:03 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Some friends and I built a cool thing and I wanted to show it off. It&amp;amp;#39;s an Ethereum-based tool that lets you pay out commitments to pay contributors in the future at defined milestones. (we happened to need that). &amp;lt;/p&amp;gt;
@@ -326,39 +337,4 @@ href="https://mattiasw.github.io/self-contained/">https://mattiasw.github.io/sel
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://checklisty.xyz&quot;&amp;gt;https://checklisty.xyz&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Cheers,&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[常見問題構建器網絡應用]]></title><description><![CDATA[<! -- SC_OFF --><div class="md"><p>嗨！</p> <p>我想分享一個
-我建立了一個應用程序，它可以讓你建立FAQ部分，你可以將其嵌入你的網站或通過URL共享。
-</p> <p>常見問題部分的組件是作爲一個網絡組件構建的，這使得它可以在您的網站上嵌入或通過URL共享。
-</p> <p>該 FAQ 部分組件是作爲一個 Web 組件構建的，這使得它與平臺無關，並且應該...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjxjfh/faq_builder_web_app/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rjxjfh/faq_builder_web_app/</guid><pubDate>Mon, 20 Dec 2021 11:01:37 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I would like to share an application that I built that lets you build FAQ sections that you can either embed on your website or share via URL.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The FAQ section component is built as a web component which makes it platform independent and should work on any CMS/website.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Other benefits:&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;Multilingual support&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Team collaboration&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Statistics&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Smart sorting&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;User feedback&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Css editor&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Media library&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Accessible FAQ sections&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;The application is completely free to use.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;ve made it possible to register demo accounts if you&amp;amp;#39;d like to try it before registering.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Here&amp;amp;#39;s a demo FAQ section built using the application:&amp;lt;br/&amp;gt;
-&amp;lt;a href=&quot;https://app.webcomet.io/faq/71-demo&quot;&amp;gt;https://app.webcomet.io/faq/71-demo&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;You can create a demo account here:&amp;lt;br/&amp;gt;
-&amp;lt;a href=&quot;https://app.webcomet.io/demo&quot;&amp;gt;https://app.webcomet.io/demo&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Hopefully someone finds this useful. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Any feedback is appreciated.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
