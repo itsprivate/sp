@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Dec 2021 15:07:25 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Pomodorus app – track time and be in focus]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs1rwb/pomodorus_app_track_time_and_be_in_focus/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs1rwb/pomodorus_app_track_time_and_be_in_focus/</guid><pubDate>Thu, 30 Dec 2021 14:48:48 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[A simple and clean HackerNews submissions reader – hackerscroll.com]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs0u5u/a_simple_and_clean_hackernews_submissions_reader/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs0u5u/a_simple_and_clean_hackernews_submissions_reader/</guid><pubDate>Thu, 30 Dec 2021 14:34:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Followup feedback]]></title><description><![CDATA[<!-- SC_OFF --><div class="md"><p>Hello everyone! You may have seen my previous
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Dec 2021 16:52:14 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Humbo - the IMDb of travel]]></title><description><![CDATA[<!-- SC_OFF --><div class="md"><p>Fueled by Vietnamese ice coffee, a friend, my
+girlfriend, and I have spent our evenings and weekends during the pandemic
+building Humbo.</p> <p>Humbo is where you can create a travel bucket list for
+the places you want to visit, and a beautiful map of the places…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs44t7/humbo_the_imdb_of_travel/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs44t7/humbo_the_imdb_of_travel/</guid><pubDate>Thu, 30 Dec 2021 16:28:47 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Fueled by Vietnamese ice coffee, a friend, my girlfriend, and I have spent our evenings and weekends during the pandemic building Humbo.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Humbo is where you can create a travel bucket list for the places you want to visit, and a beautiful map of the places that you have already been to. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The idea is to be for travel what IMDb is for movies; a reference site with trustworthy ratings and reviews of places by other travelers. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Humbo is a non-commercial hobby project, there is not a single ad on the website, and it is completely free to use. For us, Humbo is a place to have a bit of fun without commercial pressure and simply build what we and other travelers will enjoy.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Today we have 684 936 photos, 275 657 places, and weather data from 3 292 weather stations. We are currently in beta and have only invited friends and family so far. Until now :)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Examples&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://humbo.io/anders/lists/bucket-list&quot;&amp;gt;My travel bucket list&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://humbo.io/anders/lists/visited-places/map&quot;&amp;gt;My map of my travels to date&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Want to help out?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://humbo.io&quot;&amp;gt;Visit Humbo&amp;lt;/a&amp;gt; and rate a few places that you have been to.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Comment here with feedback. We appreciate it more than you think!&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Please tell a friend who likes to travel about Humbo.&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Pomodorus app – track time and be in focus]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs1rwb/pomodorus_app_track_time_and_be_in_focus/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs1rwb/pomodorus_app_track_time_and_be_in_focus/</guid><pubDate>Thu, 30 Dec 2021 14:48:48 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[A simple and clean HackerNews submissions reader – hackerscroll.com]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs0u5u/a_simple_and_clean_hackernews_submissions_reader/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs0u5u/a_simple_and_clean_hackernews_submissions_reader/</guid><pubDate>Thu, 30 Dec 2021 14:34:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Followup feedback]]></title><description><![CDATA[<!-- SC_OFF --><div class="md"><p>Hello everyone! You may have seen my previous
 post here, where I collected feedback about my startup (an app that helps to
 find the most promising stocks using AI). I carefully read all the suggestions
 and made adjustments to the site, so I ask you to look at it…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rry6qq/followup_feedback/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rry6qq/followup_feedback/</guid><pubDate>Thu, 30 Dec 2021 14:26:11 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello everyone!
@@ -312,28 +339,4 @@ Please download and like the game if you enjoy it ;)&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/0ecbw65fx1781.png?width=1220&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=04eb7ce162bf51cb28c4d94731d0080dc6d4e7ac&quot;&amp;gt;https://preview.redd.it/0ecbw65fx1781.png?width=1220&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=04eb7ce162bf51cb28c4d94731d0080dc6d4e7ac&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Explain Code App - Understand code like never before.]]></title><description><![CDATA[<!-- SC_OFF --><div class="md"><p>I&#39;m launching a new tool to assist people
-with understanding code quickly. </p> <p>This tool uses AI to provide
-easy-to-understand code explanations, code summarization, class breakdowns and
-more.</p> <p>&#x200B;</p> <p>My goal is to help new developers…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rlssps/explain_code_app_understand_code_like_never_before/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rlssps/explain_code_app_understand_code_like_never_before/</guid><pubDate>Wed, 22 Dec 2021 08:38:37 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I&amp;amp;#39;m launching a new tool to assist people with understanding code quickly. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This tool uses AI to provide easy-to-understand code explanations, code summarization, class breakdowns and more.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;My goal is to help new developers understand what the code the write does, while also helping seasoned developers &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;summarize their code quickly.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Check it out here: &amp;lt;a href=&quot;https://www.explaincode.app/&quot;&amp;gt;https://www.explaincode.app/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Any feedback on how this app can be enhanced to help you is greatly appreciated.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Cheers.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
