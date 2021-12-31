@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Dec 2021 00:10:13 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Trying out something new in the Ed-tech Space]]></title><description><![CDATA[<!-- SC_OFF --><div class="md"><p>Hey guys,<br/> I&#39;ve been working on this
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Dec 2021 04:15:58 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I made 2 mini-games on iOS !]]></title><description><![CDATA[<!-- SC_OFF --><div class="md"><p>Hello Reddit !</p> <p>9 months ago, I released
+my first apps to the App Store, I wanted to begin with something pretty simple
+before beginning to develop bigger applications.</p> <p>So here are my 2 mini
+games : Janken and Toss it.</p> <p>FYI, Toss it is inspired by…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rsd8ww/i_made_2_minigames_on_ios/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rsd8ww/i_made_2_minigames_on_ios/</guid><pubDate>Fri, 31 Dec 2021 03:59:08 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello Reddit !&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;9 months ago, I released my first apps to the App Store, I wanted to begin with something pretty simple before beginning to develop bigger applications.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So here are my 2 mini games : Janken and Toss it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;FYI, Toss it is inspired by a mini-game on Rhythm Paradise (Nintendo DS)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Feel free to ask me questions if you have any :)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;( PS : my minimalist website with app links : &amp;lt;a href=&quot;https://yanou.dev&quot;&amp;gt;https://yanou.dev&amp;lt;/a&amp;gt; )&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/m29nkrmt3r881.png?width=640&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=e0de1f5cea2b8f895e0087b90523e7e7a894b27a&quot;&amp;gt;Games !&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Trying out something new in the Ed-tech Space]]></title><description><![CDATA[<!-- SC_OFF --><div class="md"><p>Hey guys,<br/> I&#39;ve been working on this
 idea for the last six months as a solution to one&#39;s homeschooling needs.</p>
 <p><a href="https://www.tomoclub.org/">www.tomoclub.org</a><br/> It basically
 focuses on learning life skills via gamification (The skills…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs29sd/trying_out_something_new_in_the_edtech_space/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs29sd/trying_out_something_new_in_the_edtech_space/</guid><pubDate>Thu, 30 Dec 2021 23:41:09 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey guys,&amp;lt;br/&amp;gt;
@@ -347,4 +365,4 @@ Search</a> is making sure ads/trackers/analytics are efficiently blocked, I…]]
 &amp;lt;p&amp;gt;Interestingly, this isn&amp;amp;#39;t the first time &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=cybersky.snapsearch&quot;&amp;gt;Snap Search&amp;lt;/a&amp;gt; kicked a** when it comes to a test of these sorts. Check out &amp;lt;a href=&quot;https://snapsearch.online/tips/androids-best-private-browsers-privacy-test/&quot;&amp;gt;this one&amp;lt;/a&amp;gt; if you&amp;amp;#39;re curious.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Isn&amp;amp;#39;t this so cool?! Makes me happy I&amp;amp;#39;m doing something right 😁&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[WatchVideoByLink, a web app that takes a public video URLs and displays them in a video player which has features that make the watching experience an enjoyable process with the ability to Download and Organize MP4/WebM/HLS/MPEG-DASH video types]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rm56nt/watchvideobylink_a_web_app_that_takes_a_public/</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rm56nt/watchvideobylink_a_web_app_that_takes_a_public/</guid><pubDate>Wed, 22 Dec 2021 17:05:47 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
